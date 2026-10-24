@@ -1,0 +1,83 @@
+{
+  "page": 5,
+  "recueil": "Cahiers de Douai",
+  "auteur": "Arthur Rimbaud",
+  "poemes": [
+    {
+      "id": "les_reparties_de_nina",
+      "titre": "Les Réparties de Nina",
+      "date": "1870",
+      "auteur": "Arthur Rimbaud",
+      "recueil": "Cahiers de Douai",
+      "contexte": [
+        "Dialogue poétique entre un jeune poète et une jeune fille (Nina) sur fond de campagne."
+      ],
+      "forme": [
+        "Strophes de vers impairs et pairs."
+      ],
+      "champs": {
+        "amour": {
+          "label": "Jeunesse & Amour"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Vers divers"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "Notre lit est bien creusé...",
+          "rime": "é",
+          "procede": "Évocation",
+          "effet": "Intimité champêtre.",
+          "champs": [
+            "amour"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a_la_musique",
+      "titre": "À la musique",
+      "date": "1870",
+      "auteur": "Arthur Rimbaud",
+      "recueil": "Cahiers de Douai",
+      "contexte": [
+        "Satire de la bourgeoise provinciale écouter de la musique sur la place publique à Charleville."
+      ],
+      "forme": [
+        "Quatrains en alexandrins."
+      ],
+      "champs": {
+        "satire": {
+          "label": "Satire & Bourgeoisie"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Alexandrins"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "Sur la place taillée en mesquins quincunces,",
+          "rime": "s",
+          "procede": "Satire visuelle",
+          "effet": "Moquerie de la rigidité bourgeoise.",
+          "champs": [
+            "satire"
+          ]
+        }
+      ]
+    }
+  ]
+}

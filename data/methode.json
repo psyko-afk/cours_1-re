@@ -1,0 +1,79 @@
+{
+  "definition": "Un commentaire composé est une démonstration en plusieurs axes. Tu ne racontes pas le texte et tu ne le suis pas ligne à ligne : tu réponds à une question (la problématique) avec des idées, appuyées sur des citations analysées.",
+  "schema": ["Introduction", "Axe 1", "Axe 2", "Axe 3", "Conclusion"],
+  "etapes": [
+    {
+      "titre": "Lire et situer le texte",
+      "duree": "10 min",
+      "resume": "Deux lectures avant d'écrire quoi que ce soit.",
+      "actions": [
+        "Première lecture : de quoi ça parle ? Qui parle ? Quel est le ton ?",
+        "Seconde lecture, crayon en main : souligne ce qui frappe (mots répétés, images, ponctuation, rimes).",
+        "Situe : auteur, date, mouvement, contexte historique, recueil.",
+        "Cherche le thème et le titre : que veut dire ce titre ?"
+      ],
+      "piege": "Se lancer dans la rédaction après une seule lecture.",
+      "exemple": "Pour « Le Mal » : guerre de 1870, Rimbaud a 16 ans, titre ambigu (la guerre ? Dieu ? l'indifférence ?)."
+    },
+    {
+      "titre": "Brouillon et recherches",
+      "duree": "20 min",
+      "resume": "Relever tout ce que le texte contient, sans trier encore.",
+      "actions": [
+        "Repère la structure : combien de mouvements ? Où est la rupture ? (tiret, « mais », changement de temps)",
+        "Fais les champs lexicaux : guerre, couleurs, religion, argent…",
+        "Note les figures de style (métaphore, hyperbole, antithèse, apostrophe…) et les procédés (rimes, rythme, ponctuation, temps verbaux).",
+        "Pour chaque relevé, note le numéro du vers."
+      ],
+      "piege": "Lister des procédés sans dire ce qu'ils produisent. Un relevé seul ne vaut rien : il faut un effet.",
+      "exemple": "« tas fumant » : réification. Effet : les hommes sont traités comme de la viande."
+    },
+    {
+      "titre": "CIA et axes",
+      "duree": "20 min",
+      "resume": "Transformer tes relevés en idées, puis regrouper les idées en axes.",
+      "actions": [
+        "Pour chaque trouvaille : Citation, Idée, Analyse (procédé + effet + lien avec l'idée).",
+        "Regroupe les idées proches : chaque groupe devient un axe.",
+        "Vérifie : 2 ou 3 axes, différents entre eux, qui progressent (du constat vers l'interprétation).",
+        "Écris pour chaque axe une phrase d'idée claire (un axe n'est pas un thème, c'est une affirmation)."
+      ],
+      "piege": "Plan « 1. la forme, 2. le fond » ou axes qui disent la même chose avec d'autres mots.",
+      "exemple": "Axe 1 : la guerre déshumanise. Axe 2 : la nature rend l'horreur plus choquante. Axe 3 : Dieu et l'Église sont accusés."
+    },
+    {
+      "titre": "Introduction",
+      "duree": "10 min",
+      "resume": "Cinq éléments, dans cet ordre, en un seul paragraphe.",
+      "actions": [
+        "Accroche : un fait, un contexte, une idée générale.",
+        "Présentation : auteur, œuvre, date, genre.",
+        "Lecture : le thème et la structure du texte, en une ou deux phrases.",
+        "Problématique : une vraie question, dont la réponse n'est pas évidente.",
+        "Annonce des axes : « Nous verrons d'abord… puis… enfin… »."
+      ],
+      "piege": "Oublier la problématique ou la rédiger comme un simple titre.",
+      "exemple": "Voir l'onglet Introduction, avec les cinq éléments à remplir."
+    },
+    {
+      "titre": "Développement et conclusion",
+      "duree": "40 min",
+      "resume": "Un paragraphe par axe, puis une conclusion courte.",
+      "actions": [
+        "Chaque axe : idée annoncée, citation entre guillemets, analyse (procédé, effet).",
+        "Une phrase de transition entre deux axes.",
+        "Conclusion : réponse à la problématique, puis ouverture vers une autre œuvre.",
+        "Relis-toi : orthographe, guillemets, citations exactes, vers cités avec leur numéro."
+      ],
+      "piege": "Paraphraser (répéter le texte avec d'autres mots) au lieu d'analyser.",
+      "exemple": "« Le verbe “broie” fait de la folie une machine : la guerre agit sans que personne n'en soit responsable. »"
+    }
+  ],
+  "erreurs": [
+    "Paraphraser : raconter le texte au lieu de l'analyser.",
+    "Citer sans analyser, ou analyser sans citer.",
+    "Relever une figure de style sans dire son effet.",
+    "Faire des axes qui se recoupent.",
+    "Oublier la problématique, ou la poser sans y répondre en conclusion."
+  ]
+}

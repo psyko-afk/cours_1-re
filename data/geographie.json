@@ -1,0 +1,217 @@
+{
+    "titre_matiere": "Géographie — Programme Interactif",
+    "themes": [
+        {
+            "titre": "Thème 1 : Les espaces urbains : métropolisation et mutations",
+            "chapitres": [
+                {
+                    "titre": "Chapitre 0 : Notions clés et définitions",
+                    "objectif": "Maîtriser les concepts fondamentaux du Thème 1.",
+                    "sections": [
+                        {
+                            "titre": "Lexique du Thème 1",
+                            "contenu": "<strong>Urbanisation :</strong> Phénomène d'augmentation de la population urbaine et de concentration des habitants dans les villes.<br><br><strong>Métropole :</strong> Grande ville concentrant des fonctions de commandement (économique, politique, culturel) et exerçant une influence sur un territoire étendu.<br><br><strong>Métropolisation :</strong> Processus de concentration des hommes, des activités et des fonctions de commandement dans les plus grandes villes.<br><br><strong>Mégalopole :</strong> Vaste région urbaine très dense regroupant plusieurs métropoles reliées entre elles.<br><br><strong>Mégapole :</strong> Agglomération urbaine géante comptant plus de 10 millions d'habitants.<br><br><strong>Ville globale / Ville mondiale :</strong> Métropole au rayonnement international de premier plan, au cœur des réseaux de la mondialisation.<br><br><strong>CBD (Central Business District) :</strong> Quartier d'affaires concentrant les sièges sociaux des grandes entreprises, les banques et les gratte-ciel.<br><br><strong>Gentrification / Ébourgeoisement :</strong> Transformation d'un quartier populaire par l'arrivée d'une population plus aisée qui rénove le bâti."
+                        }
+                    ]
+                },
+                {
+                    "titre": "Chapitre 1 : Les villes à l'échelle mondiale : le poids croissant des métropoles",
+                    "objectif": "Objectif du chapitre : Comprendre la concentration mondiale des hommes et des activités décisionnelles dans les grandes métropoles ainsi que la hiérarchie urbaine globale.",
+                    "sections": [
+                        {
+                            "titre": "I. Un monde de plus en plus urbanisé et métropolisé",
+                            "contenu": "<strong>A. L'accentuation de l'urbanisation dans le monde</strong><br>Depuis 2007, plus de la moitié de la population mondiale vit en ville (environ 56 % aujourd'hui). Cette croissance urbaine est particulièrement forte dans les pays émergents et en développement (Asie, Afrique).<br><br><strong>B. La métropolisation : concentration des fonctions de commandement</strong><br>La <strong>métropolisation</strong> ne correspond pas seulement à une croissance démographique, mais à la concentration géographique :<br><ul><li>Des fonctions de décision économiques (sièges sociaux des multinationales, bourses).</li><li>Des fonctions politiques (capitales d'État, institutions internationales).</li><li>Des centres de recherche, d'innovation technologique et d'influence culturelle.</li></ul>",
+                            "points_passage": []
+                        },
+                        {
+                            "titre": "II. Une hiérarchie des métropoles à l'échelle globale",
+                            "contenu": "<strong>A. L'affirmation des métropoles émergentes</strong><br>De nouvelles métropoles s'imposent dans les pays émergents (Shanghai, Mumbai, São Paulo, Dubaï). Elles connaissent une croissance rapide et transforment le paysage urbain mondial tout en faisant face à d'importants défis d'infrastructures.",
+                            "points_passage": [
+                                {
+                                    "titre": "Étude de cas : Les métropoles globales (Villes-mondes) : New York et Londres",
+                                    "description": "New York et Londres incarnent les métropoles globales au sommet de la hiérarchie mondiale. Connectées en réseau au sein de l'Archipel Mégalopolitain Mondial (AMM), elles rayonnent à l'échelle de la planète grâce à leurs quartiers d'affaires (Wall Street, La Cité) et leurs hubs de transport mondiaux."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "titre": "Chapitre 2 : Des métropoles inégales et en mutation (France et Monde)",
+                    "objectif": "Objectif du chapitre : Analyser la recomposition des paysages urbains et étudier les dynamiques de la métropolisation en France.",
+                    "sections": [
+                        {
+                            "titre": "I. Des métropoles en mutation spatiale et sociale",
+                            "contenu": "<strong>A. L'étalement urbain et la polycentralité</strong><br>La métropolisation s'accompagne d'un étalement urbain important. Les paysages des métropoles se transforment avec l'émergence de nouveaux centres secondaires en périphérie (pôles technologiques, centres commerciaux géants ou <em>edge cities</em>).<br><br><strong>B. Fragmentation socio-spatiale et gentrification</strong><br>La métropolisation renforce les inégalités au sein de l'espace urbain :<br><ul><li>La <strong>gentrification</strong> : rénovation des quartiers centraux populaires attirant les populations aisées et repoussant les ménages modestes en périphérie.</li><li>La coexistence de quartiers fermés et sécurisés (<em>gated communities</em>) et de zones de pauvreté marquée ou de bidonvilles.</li></ul>",
+                            "points_passage": []
+                        },
+                        {
+                            "titre": "II. Question spécifique : La métropolisation et ses effets en France",
+                            "contenu": "<strong>A. Le renforcement des métropoles régionales françaises</strong><br>Les métropoles régionales (Lyon, Marseille, Lille, Toulouse, Bordeaux, Nantes) consolident leur attractivité grâce aux connexions TGV, au cadre de vie et aux pôles de compétitivité, captant une part importante des activités économiques et des habitants.<br><br><strong>B. Les contrastes chez les villes moyennes et petites</strong><br>Les dynamiques territoriales sont contrastées : certaines villes moyennes connectées tirent leur épingle du jeu, tandis que d'autres connaissent des phénomènes de dévitalisation (perte d'habitants, vacance commerciale dans les centres-villes).",
+                            "points_passage": [
+                                {
+                                    "titre": "Cas d'étude national : Paris, ville primatiale française",
+                                    "description": "Paris occupe le premier rang national (ville primatiale) et concentre l'essentiel des fonctions de commandement économique, politique et culturel à l'échelle internationale. Le projet du Grand Paris vise à renforcer son rang mondial."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "titre": "Thème 2 : Les espaces productifs mondiaux et français",
+            "chapitres": [
+                {
+                    "titre": "Chapitre 0 : Notions clés et définitions",
+                    "objectif": "Maîtriser les concepts fondamentaux du Thème 2.",
+                    "sections": [
+                        {
+                            "titre": "Lexique du Thème 2",
+                            "contenu": "<strong>Espace productif :</strong> Espace aménagé et mis en valeur pour le développement d'activités économiques (agricoles, industrielles ou tertiaires).<br><br><strong>Littorisation :</strong> Concentration croissante des hommes, des activités économiques et des infrastructures sur les littoraux.<br><br><strong>Maritimisation :</strong> Accroissement des échanges internationaux par voie maritime.<br><br><strong>Façade maritime :</strong> Bande littorale possédant un ensemble de ports importants connectés à un arrière-pays.<br><br><strong>ZIP (Zone Industriello-Portuaire) :</strong> Espace associant des infrastructures portuaires et des usines chimiques ou métallurgiques.<br><br><strong>DIT (Division Internationale du Travail) :</strong> Répartition de la production mondiale entre pays spécialisés selon leurs avantages comparatifs."
+                        }
+                    ]
+                },
+                {
+                    "titre": "Chapitre 1 : Les espaces productifs à l'échelle mondiale : diversification et littorisation",
+                    "objectif": "Objectif du chapitre : Montrer comment la mondialisation réorganise les systèmes productifs mondiaux à travers la spécialisation des espaces et le rôle moteur de la littorisation.",
+                    "sections": [
+                        {
+                            "titre": "I. La métamorphose des systèmes productifs mondiaux",
+                            "contenu": "<strong>A. Une DIT (Division Internationale du Travail) recomposée</strong><br>La mondialisation s'appuie sur la baisse des coûts de transport et le développement du numérique pour décomposer la chaîne de valeur :<br><ul><li>Conception et recherche concentrées dans les pays développés et les grandes métropoles.</li><li>Fabrication et assemblage délocalisés vers les pays émergents bénéficiant de coûts de main-d'œuvre avantageux.</li></ul><br><strong>B. La littorisation et la maritimisation des activités</strong><br>Les flux mondiaux de marchandises transitant majoritairement par voie maritime, les espaces productifs s'implantent en priorité sur les littoraux (ZIP : Zones Industriello-Portuaires) et s'articulent autour de grands hubs portuaires mondiaux (ex: Shanghai, Rotterdam).",
+                            "points_passage": []
+                        },
+                        {
+                            "titre": "II. Diversité des acteurs de la production",
+                            "contenu": "<strong>A. Des acteurs multiples et interconnectés</strong><br>La production mondiale est pilotée par les Firmes Transnationales (FTN), mais implique également les États, les organisations régionales (ex: Union européenne) et les sous-traitants locaux.",
+                            "points_passage": [
+                                {
+                                    "titre": "Étude de cas : L'A330neo / A350 et la Silicon Valley : deux modèles d'espaces productifs",
+                                    "description": "Des espaces majeurs comme la Silicon Valley (technopôle dédié à l'innovation numérique) ou les réseaux d'assemblage aéronautique européens d'Airbus illustrent la complémentarité entre réseaux mondiaux, zones d'innovation technologique et sous-traitance industrielle internationale."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "titre": "Chapitre 2 : Les espaces productifs en France : entre dynamismes et recompositions",
+                    "objectif": "Objectif du chapitre : Analyser la mutation des espaces agricoles, industriels et tertiaires en France face à la métropolisation et à l'ouverture européenne.",
+                    "sections": [
+                        {
+                            "titre": "I. La recomposition des espaces productifs français",
+                            "contenu": "<strong>A. De l'industrie traditionnelle aux hautes technologies</strong><br>Les anciens bassins industriels du Nord et du Nord-Est ont connu des reconversions difficiles. Les activités industrielles de pointe s'implantent désormais dans les grandes métropoles et sur les littoraux de l'Ouest et du Sud (Aéronautique à Toulouse, Cosmétique dans la Centre-Val de Loire).<br><br><strong>B. Une agriculture intégrée mais en mutation</strong><br>L'agriculture française est ultra-performante et exportatrice (Bassin parisien pour les céréales, vignobles de grande réputation). Elle s'adapte aux exigences de la transition écologique et des labels de qualité (AOP, Bio).",
+                            "points_passage": []
+                        },
+                        {
+                            "titre": "II. La prédominance du secteur tertiaire et du tourisme",
+                            "contenu": "<strong>A. La métropolisation des services aux entreprises</strong><br>Les fonctions tertiaires supérieures (finance, recherche, conseil, marketing) se concentrent quasi exclusivement dans les métropoles, en particulier en Île-de-France (La Défense).",
+                            "points_passage": [
+                                {
+                                    "titre": "Cas d'étude national : La France, première destination touristique mondiale",
+                                    "description": "Le tourisme est un moteur économique majeur. Il façonne des espaces spécialisés : le littoral (Côte d'Azur), les espaces montagnards (domaines skiables des Alpes) et le patrimoine culturel des grandes métropoles (Paris) ou des espaces ruraux (Châteaux de la Loire)."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "titre": "Thème 3 : Les espaces ruraux : multifonctionnalité et fragmentation",
+            "chapitres": [
+                {
+                    "titre": "Chapitre 0 : Notions clés et définitions",
+                    "objectif": "Maîtriser les concepts fondamentaux du Thème 3.",
+                    "sections": [
+                        {
+                            "titre": "Lexique du Thème 3",
+                            "contenu": "<strong>Espace rural :</strong> Territoire non urbain caractérisé par des densités de population plus faibles et une présence importante de paysages agricoles ou naturels.<br><br><strong>Multifonctionnalité :</strong> Caractère d'un espace rural qui cumule plusieurs fonctions : production agricole, résidence, tourisme, loisirs et environnement.<br><br><strong>Agro-business :</strong> Ensemble des activités industrielles, financières et commerciales liées à l'agriculture productiviste.<br><br><strong>Néo-ruraux :</strong> Nouveaux habitants venus des villes s'installer en milieu rural.<br><br><strong>Conflit d'usage :</strong> Concurrence ou opposition entre plusieurs acteurs pour l'utilisation ou l'appropriation d'un espace ou d'une ressource."
+                        }
+                    ]
+                },
+                {
+                    "titre": "Chapitre 1 : La fragmentation des espaces ruraux à l'échelle mondiale",
+                    "objectif": "Objectif du chapitre : Analyser les mutations des espaces ruraux dans le monde entre intégration à la mondialisation et marginalisation.",
+                    "sections": [
+                        {
+                            "titre": "I. Des espaces ruraux profondément transformés",
+                            "contenu": "<strong>A. De la fonction agricole à la multifonctionnalité</strong><br>Les espaces ruraux ne se résument plus à la seule agriculture. Ils développent de nouvelles fonctions :<br><ul><li>Résidentielle (périurbanisation, néoruraux).</li><li>Touristique et récréative (agritourisme, parcs naturels).</li><li>Environnementale (préservation des paysages et de la biodiversité).</li></ul><br><strong>B. L'impact de la modernisation agricole</strong><br>L'agriculture productiviste s'intègre aux chaînes de la mondialisation (agrobusiness), modifiant les paysages ruraux (remembrement, déforestation pour l'élevage ou le soja intensif en Amérique du Sud).",
+                            "points_passage": []
+                        },
+                        {
+                            "titre": "II. Des trajectoires rurales très inégales",
+                            "contenu": "<strong>A. Entre intégration et enclavement</strong><br>Certains espaces ruraux connectés aux métropoles dynamiques s'enrichissent, tandis que les campagnes isolées souffrent de l'exode rural, du vieillissement de la population et du manque d'infrastructures.",
+                            "points_passage": [
+                                {
+                                    "titre": "Étude de cas : Mutations des espaces ruraux aux États-Unis ou au Brésil",
+                                    "description": "Les grandes plaines agricoles mondiales (Corn Belt américain, Mato Grosso brésilien) incarnent des espaces ruraux hyper-productifs connectés aux marchés mondiaux, tandis que des campagnes vivrières restent en marge du développement technologique."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "titre": "Chapitre 2 : Les espaces ruraux en France : des dynamiques multiples",
+                    "objectif": "Objectif du chapitre : Évaluer la diversité des campagnes françaises entre attractivité résidentielle, activités agricoles et enjeux d'aménagement.",
+                    "sections": [
+                        {
+                            "titre": "I. La multifonctionnalité des campagnes françaises",
+                            "contenu": "<strong>A. Une population rurale renouvelée</strong><br>Après un long exode rural, la population rurale augmente à nouveau en France. L'essor de la <strong>périurbanisation</strong> et l'arrivée de \"néoruraux\" transforment le profil sociologique des campagnes proches des villes.<br><br><strong>B. La coexistence d'usages variés et parfois conflictuels</strong><br>La multiplication des fonctions (logement, tourisme, agriculture, protection de la nature) génère parfois des conflits d'usage entre résidents, agriculteurs et acteurs du tourisme (ex: gestion de l'eau, nuisances sonores ou d'odeurs).",
+                            "points_passage": []
+                        },
+                        {
+                            "titre": "II. Des espaces ruraux aux dynamiques très contrastées",
+                            "contenu": "<strong>A. La typologie des campagnes françaises</strong><br><ul><li><strong>Les campagnes périurbaines :</strong> très attractives, intégrées aux bassins de vie des métropoles.</li><li><strong>Les campagnes agricoles dynamiques :</strong> spécialisées et intégrées aux marchés nationaux et internationaux.</li><li><strong>Les campagnes hyper-rurales ou enclavées :</strong> confrontées à l'éloignement des services publics et au déclin démographique.</li></ul>",
+                            "points_passage": [
+                                {
+                                    "titre": "Cas d'étude national : Les Parcs Naturels Régionaux (PNR) : concilier développement et protection",
+                                    "description": "Les PNR illustrent la mise en valeur durable des espaces ruraux. Ils visent à protéger le patrimoine naturel et culturel tout en stimulant l'économie locale (tourisme vert, circuits courts, valorisation des produits du terroir)."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "titre": "Thème 4 : La Chine : des recompositions spatiales multiples",
+            "chapitres": [
+                {
+                    "titre": "Chapitre 0 : Notions clés et définitions",
+                    "objectif": "Maîtriser les concepts fondamentaux du Thème 4 (Chine).",
+                    "sections": [
+                        {
+                            "titre": "Lexique du Thème 4",
+                            "contenu": "<strong>Recomposition :</strong> Réorganisation globale d'un territoire sous l'effet de mutations et de transitions.<br><br><strong>Centralité :</strong> Concentration de fonctions de commandement et d'attractivité au sein d'un espace urbain.<br><br><strong>Centre-périphérie :</strong> Organisation spatiale dissymétrique entre un cœur dynamique dominant et des espaces subordonnés ou marginalisés.<br><br><strong>Métropolisation :</strong> Processus de concentration des hommes, des activités et des fonctions de commandement dans les métropoles.<br><br><strong>Firmes Transnationale (FTN) :</strong> Entreprise implantée dans plusieurs pays et réalisant une grande partie de son chiffre d'affaires hors de son pays d'origine.<br><br><strong>Chaîne de valeur ajoutée :</strong> Étapes successives de conception, production et commercialisation qui ajoutent de la valeur à un produit.<br><br><strong>Flux :</strong> Mouvements de marchandises, de capitaux, d'informations ou de personnes d'un espace à un autre.<br><br><strong>Fragmentation :</strong> Division ou rupture du tissu social et spatial en morceaux séparés et inégaux."
+                        }
+                    ]
+                },
+                {
+                    "titre": "Chapitre unique : La Chine : des recompositions spatiales multiples",
+                    "objectif": "Objectif du thème : Comprendre comment la Chine répond aux enjeux des transitions et des mutations qui marquent son territoire dans un contexte de mondialisation.",
+                    "sections": [
+                        {
+                            "titre": "I. Développement et inégalités",
+                            "contenu": "<strong>A. Un développement rapide et ses contrastes territoriaux</strong><br>La Chine a connu un développement rapide depuis les années 1980, s'appuyant sur une transition économique et l'ouverture aux investissements directs étrangers (IDE). Cela génère un gradient de développement entre la Chine littorale industrialisée et intégrée à la mondialisation, la Chine intérieure (cœur agricole et industriel traditionnel en déclin), et la Chine de l'Ouest marginalisée.<br><br><strong>B. Des inégalités accrues entre zones rurales et urbaines</strong><br>L'ouverture économique s'est traduite par une augmentation des inégalités de revenus entre villes et campagnes, renforcée par le système du <em>hukou</em> (passeport intérieur) qui freine et encadre l'exode rural.",
+                            "points_passage": []
+                        },
+                        {
+                            "titre": "II. Des ressources et des environnements sous pression",
+                            "contenu": "<strong>A. Des besoins croissants en énergie et en ressources</strong><br>La transition démographique, la transition économique et l'explosion de la consommation (transition alimentaire, parc automobile) exercent une forte pression sur les ressources en énergie (charbon, hydrocarbures, barrages comme les Trois Gorges), en eau et en produits agricoles.<br><br><strong>B. Les défis majeurs de l'environnement et la prise de conscience</strong><br>La croissance économique génère de fortes pollutions (smogs urbains, contamination des sols et nappes phréatiques, émissions massives de CO2). Face à ces défis et aux engagements de l'Accord de Paris de 2015, la Chine diversifie son mix énergétique (énergies renouvelables, solaire, nucléaire).",
+                            "points_passage": []
+                        },
+                        {
+                            "titre": "III. Recompositions spatiales : urbanisation, littoralisation, mutation des espaces ruraux",
+                            "contenu": "<strong>A. Urbanisation et métropolisation</strong><br>Le taux d'urbanisation chinois a dépassé les 50 % en 2010. La métropolisation se traduit par une verticalisation des villes, une périurbanisation et un rôle moteur des métropoles (Pékin, Shanghai, Hong Kong) comme interfaces avec la mondialisation.<br><br><strong>B. Littoralisation et mutations des espaces ruraux</strong><br>L'ouverture a entraîné une forte littoralisation des activités productives. Parallèlement, les espaces ruraux connaissent une baisse de la population active agricole, une adaptation aux besoins des villes et de nouvelles convoitises dans l'Ouest (comme au Xinjiang avec les projets des nouvelles routes de la soie).",
+                            "points_passage": [
+                                {
+                                    "titre": "Étude de cas : Shanghai et le Xinjiang",
+                                    "description": "L'étude de Shanghai illustre la métropolisation et la littoralisation à travers son attractivité et son rôle de premier port mondial. L'étude du Xinjiang montre l'intégration d'un espace rural marginalisé et stratégique à travers les réseaux de communication et les ressources énergétiques."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

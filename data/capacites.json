@@ -1,0 +1,81 @@
+{
+ "intro": "À l'issue du lycée, les élèves doivent être capables de maîtriser des connaissances fondamentales diverses, de se confronter à des sources, d'analyser des documents, de prendre des notes ainsi que de mener un travail personnel. L'enseignement développe aussi des compétences orales, notamment par la pratique de l'argumentation.",
+ "groupes": [
+  {
+   "titre": "Maîtriser et utiliser des repères chronologiques et spatiaux",
+   "lignes": [
+    {
+     "nom": "Connaître et se repérer",
+     "items": [
+      "Identifier et nommer les périodes historiques, les continuités et ruptures chronologiques.",
+      "Identifier et expliciter les dates et acteurs clés des grands événements.",
+      "Nommer et localiser les grands repères géographiques ainsi que les principaux processus et phénomènes étudiés.",
+      "Utiliser l'échelle appropriée pour étudier un phénomène."
+     ]
+    },
+    {
+     "nom": "Contextualiser",
+     "items": [
+      "Mettre un événement ou une figure en perspective.",
+      "Mettre en œuvre le changement d'échelles, ou l'analyse à différentes échelles (multiscalaire), en géographie.",
+      "Identifier les contraintes et les ressources d'un événement, d'un contexte historique, d'une situation géographique.",
+      "Mettre en relation des faits ou événements de natures, de périodes, de localisations différentes.",
+      "Confronter le savoir acquis en histoire et en géographie avec ce qui est entendu, lu et vécu."
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "S'approprier les exigences, les notions et les outils de la démarche historique et de la démarche géographique",
+   "lignes": [
+    {
+     "nom": "Employer les notions et exploiter les outils spécifiques aux disciplines",
+     "items": [
+      "Employer les notions et le lexique acquis en histoire et en géographie à bon escient.",
+      "Transposer un texte en croquis.",
+      "Réaliser des productions graphiques et cartographiques dans le cadre d'une analyse.",
+      "Savoir lire, comprendre et apprécier une carte, un croquis, un document iconographique, une série statistique…"
+     ]
+    },
+    {
+     "nom": "Conduire une démarche historique ou géographique et la justifier",
+     "items": [
+      "S'approprier un questionnement historique et géographique.",
+      "Construire et vérifier des hypothèses sur une situation historique et géographique.",
+      "Justifier des choix, une interprétation, une production."
+     ]
+    },
+    {
+     "nom": "Construire une argumentation historique ou géographique",
+     "items": [
+      "Procéder à l'analyse critique d'un document selon une approche historique ou géographique.",
+      "Utiliser une approche historique ou géographique pour mener une analyse ou construire une argumentation."
+     ]
+    },
+    {
+     "nom": "Utiliser le numérique",
+     "items": [
+      "Utiliser le numérique pour réaliser des cartes, des graphiques, des présentations.",
+      "Identifier et évaluer les ressources pertinentes en histoire-géographie."
+     ]
+    }
+   ]
+  }
+ ],
+ "finalites_histoire": [
+  "Construire une réflexion sur le temps : comprendre ce qu'est un événement, une permanence, une continuité, une rupture, une mutation, une évolution.",
+  "Développer une réflexion sur les sources : la connaissance du passé est construite à partir de traces, d'archives et de témoignages.",
+  "S'initier au raisonnement historique : évaluer les ressources et les contraintes d'un événement, comprendre les choix des acteurs, saisir les conséquences de leurs actions à court, moyen et long terme.",
+  "Replacer les actions humaines et les faits dans leur contexte et dans leur époque.",
+  "Prendre conscience de son appartenance à l'histoire de la nation, de l'Europe et du monde.",
+  "Développer la culture générale."
+ ],
+ "finalites_geographie": [
+  "Mobiliser les notions géographiques pour comprendre l'organisation des territoires, en insistant sur les enjeux et les relations entre acteurs.",
+  "Adopter une approche multiscalaire (à différentes échelles).",
+  "Effectuer des comparaisons entre les territoires pour identifier ressemblances et spécificités.",
+  "Mettre en évidence, par une approche systémique, les interactions entre acteurs, territoires et environnements.",
+  "Développer l'analyse critique des documents, l'observation du jeu des acteurs, le contact avec le terrain et la réalisation de croquis.",
+  "Acquérir des repères spatiaux aux échelles française, européenne et mondiale."
+ ]
+}

@@ -1,0 +1,344 @@
+{
+ "intitule": "Nations, empires, nationalités (de 1789 aux lendemains de la Première Guerre mondiale)",
+ "heures": "48 heures",
+ "source": "Programme d'histoire-géographie de première générale (Bulletin officiel, annexe 2).",
+ "presentation": [
+  "Le programme suit l'évolution politique et sociale de la France et de l'Europe pendant le long XIXe siècle, de 1789 à la Première Guerre mondiale.",
+  "Avec la Révolution française surgit une nouvelle conception de la nation reposant sur la citoyenneté, tandis que la France cherche longtemps un régime politique stable.",
+  "Après les guerres révolutionnaires et napoléoniennes, le congrès de Vienne ne peut empêcher le principe des nationalités de se diffuser en Europe jusqu'aux révolutions de 1848.",
+  "De nouveaux États-nations s'affirment à côté des empires fragilisés par le mouvement des nationalités. La IIIe République apporte une stabilisation politique à une France qui étend son empire colonial.",
+  "La guerre de 1914-1918 entraîne l'effondrement des empires européens et débouche sur une tentative de réorganiser l'Europe selon le principe des nationalités."
+ ],
+ "principes": [
+  "Le programme est chronologique : deux axes directeurs sont l'affirmation des nations en Europe aux dépens des empires, et la transformation politique et sociale de la France entre la Révolution et la Grande Guerre.",
+  "Chaque thème est structuré en chapitres. Le récit du professeur donne la cohérence ; deux à quatre « points de passage et d'ouverture » par chapitre sont des moments précis (dates-clés, lieux, personnages) qui servent à étudier des documents.",
+  "Les points de passage ne sont pas les seuls éléments à traiter : le professeur choisit le degré d'approfondissement."
+ ],
+ "themes": [
+  {
+   "titre": "Thème 1 : L'Europe face aux révolutions",
+   "heures": "11-13 heures",
+   "chapitres": [
+    {
+     "titre": "Chapitre 1 : La Révolution française et l'Empire : une nouvelle conception de la nation",
+     "cours": "Chapitre 1 : La Révolution française et l'Empire : une nouvelle conception de la nation",
+     "objectifs": "Montrer l'ampleur de la rupture révolutionnaire avec « l'Ancien Régime » et les tentatives de reconstruction d'un ordre politique stable.",
+     "mettre_en_avant": [
+      "la formulation des grands principes de la modernité politique synthétisés dans la Déclaration des Droits de l'Homme et du Citoyen ;",
+      "la volonté d'unir la nation, désormais souveraine, autour de ces principes ;",
+      "les conflits et débats qui caractérisent la période : l'affirmation de la souveraineté nationale, la mise en cause de la souveraineté royale, les journées révolutionnaires, la Révolution et l'Église, la France, la guerre et l'Europe, la Terreur, les représentants de la nation et les sans-culottes ;",
+      "l'établissement par Napoléon Bonaparte d'un ordre politique autoritaire qui conserve néanmoins certains principes de la Révolution ;",
+      "la diffusion de ces principes en Europe ;",
+      "la fragilité de l'empire napoléonien qui se heurte à la résistance des monarchies et des empires européens ainsi qu'à l'émergence des sentiments nationaux ;",
+      "de la nation en armes à la Grande Armée."
+     ],
+     "points": [
+      {
+       "titre": "Madame Roland, une femme en révolution",
+       "etat": "fichier"
+      },
+      {
+       "titre": "Décembre 1792 - janvier 1793 : procès et mort de Louis XVI",
+       "etat": "fichier"
+      },
+      {
+       "titre": "1804 : le Code civil permet l'égalité devant la loi et connaît un rayonnement européen",
+       "etat": "fichier"
+      }
+     ]
+    },
+    {
+     "titre": "Chapitre 2 : L'Europe entre restauration et révolution (1814-1848)",
+     "cours": "Chapitre 2 : L'Europe entre restauration et révolution (1814-1848)",
+     "objectifs": "Montrer la volonté de clore la Révolution, dont témoigne la restauration de l'ordre monarchique européen, ainsi que la fragilité de l'œuvre du congrès de Vienne.",
+     "mettre_en_avant": [
+      "les deux expériences de monarchie constitutionnelle en France (la charte de 1814 ; la charte révisée de 1830) ;",
+      "le projet de construire une paix durable par un renouvellement des règles de la diplomatie ;",
+      "l'essor du mouvement des nationalités qui remet en cause l'ordre du congrès de Vienne ;",
+      "la circulation des hommes et des idées politiques sous forme d'écrits, de discours, d'associations parfois secrètes (« Jeune-Italie » de G. Mazzini…) ;",
+      "les deux poussées révolutionnaires de 1830 et 1848 en France et en Europe."
+     ],
+     "points": [
+      {
+       "titre": "1815 : Metternich et le congrès de Vienne",
+       "etat": "fichier"
+      },
+      {
+       "titre": "1822 : le massacre de Chios",
+       "etat": "fichier"
+      },
+      {
+       "titre": "1830 : les Trois Glorieuses",
+       "etat": "fichier"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Thème 2 : La France dans l'Europe des nationalités : politique et société (1848-1871)",
+   "heures": "11-13 heures",
+   "chapitres": [
+    {
+     "titre": "Chapitre 1 : La difficile entrée dans l'âge démocratique : la Deuxième République et le Second Empire",
+     "cours": "Chapitre 1 : La Deuxième République et le Second Empire (1848-1870)",
+     "objectifs": "Montrer que l'instauration du suffrage universel masculin en 1848 ne suffit pas à trancher la question du régime politique ouverte depuis 1789.",
+     "mettre_en_avant": [
+      "les idéaux démocratiques hérités de la Révolution française qui permettent en 1848 des affirmations fondamentales et fondatrices (suffrage universel masculin, abolition de l'esclavage…) ;",
+      "l'échec du projet républicain en raison des tensions qui s'expriment (entre conservateurs et républicains, villes et campagnes, bourgeois et ouvriers) ;",
+      "les traits caractéristiques du Second Empire, régime autoritaire qui s'appuie sur le suffrage universel masculin, le renforcement de l'État, la prospérité économique et qui entend mener une politique de grandeur nationale ;",
+      "les oppositions rencontrées par le Second Empire et la répression qu'il exerce (proscriptions de Victor Hugo, Edgar Quinet…)."
+     ],
+     "points": [
+      {
+       "titre": "Alphonse de Lamartine en 1848",
+       "etat": "complement",
+       "description": "Poète romantique, Alphonse de Lamartine est ministre des Affaires étrangères du gouvernement provisoire de 1848. Le 25 février, il refuse devant la foule le drapeau rouge et fait garder le drapeau tricolore. Il incarne une république modérée et fraternelle. Candidat à l'élection présidentielle de décembre 1848, il obtient très peu de voix."
+      },
+      {
+       "titre": "George Sand, femme de lettres engagée en politique",
+       "etat": "fichier"
+      },
+      {
+       "titre": "Louis-Napoléon Bonaparte, premier président de la République",
+       "etat": "complement",
+       "description": "Neveu de Napoléon Ier, Louis-Napoléon Bonaparte est élu président de la République en décembre 1848, lors du premier grand scrutin au suffrage universel masculin, avec une très large majorité (plus de 70 % des voix). Il s'appuie sur le prestige de son nom, puis prépare le coup d'État du 2 décembre 1851."
+      }
+     ]
+    },
+    {
+     "titre": "Chapitre 2 : L'industrialisation et l'accélération des transformations économiques et sociales en France",
+     "cours": "Chapitre 2 : L'industrialisation et les transformations économiques et sociales de la France (1848-1870)",
+     "objectifs": "Montrer que la société française connaît des mutations profondes liées à l'industrialisation et à l'urbanisation.",
+     "mettre_en_avant": [
+      "les transformations des modes de production (mécanisation, essor du salariat…) et la modernisation encouragée par le Second Empire ;",
+      "l'importance du monde rural et les débuts de l'exode rural ;",
+      "l'importance politique de la question sociale."
+     ],
+     "points": [
+      {
+       "titre": "Paris haussmannien : la transformation d'une ville",
+       "etat": "fichier"
+      },
+      {
+       "titre": "Les frères Pereire, acteurs de la modernisation économique",
+       "etat": "fichier"
+      },
+      {
+       "titre": "25 mai 1864 : le droit de grève répond à l'une des attentes du mouvement ouvrier",
+       "etat": "complement",
+       "description": "La loi Ollivier du 25 mai 1864 supprime le délit de coalition et reconnaît le droit de grève, mais sans autoriser les syndicats (ils seront autorisés en 1884). Napoléon III répond ainsi à une attente du mouvement ouvrier, dans le cadre de la libéralisation du régime."
+      }
+     ]
+    },
+    {
+     "titre": "Chapitre 3 : La France et la construction de nouveaux États par la guerre et la diplomatie",
+     "cours": "Chapitre 3 : La France et la construction des États-nations (1848-1871)",
+     "objectifs": "Montrer le rôle de la France lors de la construction des unités italienne et allemande. Cette politique d'unification est menée par des régimes monarchiques qui s'appuient sur le mouvement des nationalités, la guerre et la diplomatie.",
+     "mettre_en_avant": [
+      "la participation du Second Empire à la marche vers l'unité italienne ;",
+      "la guerre de 1870 qui entraîne la chute du Second Empire et permet l'unité allemande."
+     ],
+     "points": [
+      {
+       "titre": "Le rattachement de Nice et de la Savoie à la France",
+       "etat": "fichier"
+      },
+      {
+       "titre": "1871 : Bismarck et la proclamation du Reich",
+       "etat": "complement",
+       "description": "Le 18 janvier 1871, alors que Paris est encore assiégée, le roi de Prusse Guillaume Ier est proclamé empereur allemand dans la galerie des Glaces du château de Versailles. Bismarck achève ainsi l'unité allemande autour de la Prusse, au prix de la défaite française. Le lieu choisi humilie la France."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Thème 3 : La Troisième République avant 1914 : un régime politique, un empire colonial",
+   "heures": "11-13 heures",
+   "chapitres": [
+    {
+     "titre": "Chapitre 1 : La mise en œuvre du projet républicain",
+     "cours": "Chapitre 1 : La mise en œuvre du projet républicain (1870-1914)",
+     "objectifs": "Montrer la manière dont le régime républicain se met en place et s'enracine ainsi que les oppositions qu'il rencontre.",
+     "mettre_en_avant": [
+      "1870-1875 : l'instauration de la République et de la démocratie parlementaire ;",
+      "l'affirmation des libertés fondamentales ;",
+      "le projet d'unification de la nation autour des valeurs de 1789 et ses modalités de mise en œuvre (symboles, lois scolaires…) ;",
+      "les oppositions qui s'expriment (courants révolutionnaires, refus de la politique laïque par l'Église catholique, structuration de l'antisémitisme autour de l'affaire Dreyfus, nationalisme…) ;",
+      "le refus du droit de vote des femmes."
+     ],
+     "points": [
+      {
+       "titre": "1871 : Louise Michel pendant la Commune de Paris",
+       "etat": "complement",
+       "description": "Institutrice et militante révolutionnaire, Louise Michel participe activement à la Commune de Paris en 1871, notamment comme ambulancière et combattante. Condamnée, elle est déportée en Nouvelle-Calédonie. Elle illustre la place des femmes dans la Commune."
+      },
+      {
+       "titre": "1885 : les funérailles nationales de Victor Hugo",
+       "etat": "complement",
+       "description": "Victor Hugo meurt le 22 mai 1885. Des funérailles nationales sont organisées le 1er juin : le cercueil est exposé sous l'Arc de triomphe puis conduit au Panthéon devant une foule immense. La République honore le poète républicain et renforce son unité autour d'une figure nationale."
+      },
+      {
+       "titre": "1905 : la loi de séparation des Églises et de l'État : débats et mise en œuvre",
+       "etat": "fichier"
+      }
+     ]
+    },
+    {
+     "titre": "Chapitre 2 : Permanences et mutations de la société française jusqu'en 1914",
+     "cours": "Chapitre 2 : Permanences et mutations de la société française jusqu'en 1914",
+     "objectifs": "Montrer les spécificités de la société française qui connaît une révolution industrielle importante tout en demeurant majoritairement rurale.",
+     "mettre_en_avant": [
+      "l'industrialisation et les progrès techniques ;",
+      "la question ouvrière et le mouvement ouvrier ;",
+      "l'immigration et la place des étrangers ;",
+      "l'importance du monde rural et ses difficultés ;",
+      "l'évolution de la place des femmes."
+     ],
+     "points": [
+      {
+       "titre": "1891 : la fusillade de Fourmies du 1er mai",
+       "etat": "complement",
+       "description": "Le 1er mai 1891, à Fourmies (Nord), l'armée tire sur des ouvriers qui manifestent pour la journée de huit heures : il y a neuf morts, dont de jeunes manifestants. Cet épisode marque la mémoire du mouvement ouvrier et pose la question du maintien de l'ordre."
+      },
+      {
+       "titre": "Les expositions universelles de 1889 et 1900",
+       "etat": "complement",
+       "description": "Les expositions universelles de Paris (1889, pour le centenaire de la Révolution, avec la tour Eiffel ; 1900) montrent la foi dans le progrès technique et la puissance de la République. Elles présentent aussi l'empire colonial et attirent des millions de visiteurs."
+      },
+      {
+       "titre": "Le Creusot et la famille Schneider",
+       "etat": "complement",
+       "description": "Au Creusot (Saône-et-Loire), la famille Schneider dirige de grandes usines métallurgiques et d'armement. Elle pratique un paternalisme industriel : logements, écoles, caisses de secours. L'exemple montre l'essor de l'industrie lourde, le pouvoir des patrons et la condition ouvrière."
+      }
+     ]
+    },
+    {
+     "titre": "Chapitre 3 : Métropole et colonies",
+     "cours": "Chapitre 3 : Métropole et colonies (1870-1914)",
+     "objectifs": "Étudier la politique coloniale de la IIIe République, les raisons sur lesquelles elle s'est fondée, les causes invoquées par les républicains. Le contexte international de cette politique est également étudié, ainsi que ses effets dans les territoires colonisés.",
+     "mettre_en_avant": [
+      "l'expansion coloniale française : les acteurs, les motivations et les territoires de la colonisation ;",
+      "les débats suscités par cette politique ;",
+      "les chocs entre puissances occasionnés par cette expansion ;",
+      "le cas particulier de l'Algérie (conquête de 1830 à 1847) organisée en départements français en 1848 ;",
+      "le fonctionnement des sociétés coloniales (affrontements, résistances, violences, négociations, contacts et échanges)."
+     ],
+     "points": [
+      {
+       "titre": "1887 : le code de l'indigénat algérien est généralisé à toutes les colonies françaises",
+       "etat": "complement",
+       "description": "Le code de l'indigénat, né en Algérie, est étendu à l'ensemble des colonies françaises en 1887. Il soumet les « indigènes » à des sanctions administratives particulières, sans procès ordinaire. Il organise l'inégalité juridique entre colons et colonisés."
+      },
+      {
+       "titre": "1898 : Fachoda, le choc des impérialismes",
+       "etat": "complement",
+       "description": "En 1898, à Fachoda (Soudan), la mission française du commandant Marchand se heurte aux troupes britanniques de Kitchener. La France recule : c'est un choc entre deux impérialismes qui veulent relier leurs possessions africaines. La crise s'apaise ensuite avec l'Entente cordiale de 1904."
+      },
+      {
+       "titre": "Saigon, ville coloniale",
+       "etat": "complement",
+       "description": "Capitale de la Cochinchine française, Saigon est transformée par la colonisation : plan en damier, cathédrale, hôtel de ville, port. La ville montre la séparation entre quartiers européens et quartiers vietnamiens et chinois, et le rôle d'une ville dans l'administration coloniale."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titre": "Thème 4 : La Première Guerre mondiale : le « suicide de l'Europe » et la fin des empires européens",
+   "heures": "11-13 heures",
+   "chapitres": [
+    {
+     "titre": "Chapitre 1 : Un embrasement mondial et ses grandes étapes",
+     "cours": "Chapitre 1 : Un embrasement mondial et ses grandes étapes (1914-1918)",
+     "objectifs": "Présenter les phases et les formes de la guerre (terrestre, navale et aérienne).",
+     "mettre_en_avant": [
+      "les motivations et les buts de guerre des belligérants ;",
+      "l'extension progressive du conflit et les grandes étapes de la guerre ;",
+      "l'échec de la guerre de mouvement et le passage à la guerre de position ;",
+      "l'implication des empires coloniaux britannique et français ;",
+      "la désintégration de l'empire russe."
+     ],
+     "points": [
+      {
+       "titre": "Août - septembre 1914 : Tannenberg et la Marne",
+       "etat": "complement",
+       "description": "En août 1914, l'armée allemande bat les Russes à Tannenberg, en Prusse-Orientale. En septembre, sur la Marne, les armées françaises et britanniques arrêtent l'avance allemande vers Paris. Le plan allemand d'une victoire rapide échoue et le front de l'Ouest se fige."
+      },
+      {
+       "titre": "1915 : l'offensive des Dardanelles",
+       "etat": "complement",
+       "description": "En 1915, les Alliés (britanniques et français) tentent de forcer le détroit des Dardanelles pour atteindre Constantinople et aider la Russie. L'opération navale puis terrestre (Gallipoli) échoue et les troupes sont évacuées fin 1915 - début 1916. Elle montre le caractère mondial de la guerre, avec des soldats venus des empires coloniaux."
+      },
+      {
+       "titre": "1916 : la bataille de la Somme",
+       "etat": "fichier"
+      },
+      {
+       "titre": "Mars 1918 : la dernière offensive allemande",
+       "etat": "complement",
+       "description": "Le 21 mars 1918, après la paix avec la Russie, l'Allemagne lance une dernière grande offensive sur le front de l'Ouest pour gagner avant l'arrivée massive des Américains. Elle avance mais s'épuise. Les Alliés contre-attaquent à partir de l'été, jusqu'à l'armistice du 11 novembre 1918."
+      }
+     ]
+    },
+    {
+     "titre": "Chapitre 2 : Les sociétés en guerre : des civils acteurs et victimes de la guerre",
+     "cours": "Chapitre 2 : Les sociétés en guerre : des civils acteurs et victimes de la guerre",
+     "objectifs": "Souligner l'implication des sociétés, des économies, des sciences et des techniques dans une guerre longue.",
+     "mettre_en_avant": [
+      "les dimensions économique, industrielle et scientifique de la guerre ;",
+      "les conséquences à court et long termes de la mobilisation des civils, notamment en ce qui concerne la place des femmes dans la société ;",
+      "le génocide des Arméniens, en articulant la situation des Arméniens depuis les massacres de 1894-1896 et l'évolution du conflit mondial."
+     ],
+     "points": [
+      {
+       "titre": "Marie Curie dans la guerre",
+       "etat": "complement",
+       "description": "Prix Nobel de physique (1903) et de chimie (1911), Marie Curie met la science au service de la guerre. Elle équipe des véhicules de radiologie (les « petites Curie ») pour examiner les blessés près du front et forme des femmes à la radiologie. Elle illustre la mobilisation scientifique et le rôle des femmes."
+      },
+      {
+       "titre": "24 mai 1915 : la déclaration de la Triple Entente sur les « crimes contre l'humanité et la civilisation » perpétrés contre les Arméniens de l'Empire ottoman",
+       "etat": "complement",
+       "description": "La France, le Royaume-Uni et la Russie dénoncent des « crimes contre l'humanité et la civilisation » commis par l'Empire ottoman contre les Arméniens et annoncent que ses dirigeants seront tenus pour responsables. C'est un moment clé de la reconnaissance internationale des massacres."
+      },
+      {
+       "titre": "Les grèves de l'année 1917",
+       "etat": "complement",
+       "description": "En 1917, de nombreuses grèves éclatent dans les pays en guerre (par exemple à Paris, avec les « midinettes »), à cause des prix élevés, des salaires et de la fatigue. Elles montrent l'usure des sociétés civiles. Dans le même temps, des mutineries touchent l'armée française."
+      }
+     ]
+    },
+    {
+     "titre": "Chapitre 3 : Sortir de la guerre : la tentative de construction d'un ordre des nations démocratiques",
+     "cours": "Chapitre 3 : Sortir de la guerre : la tentative de construction d'un ordre des nations démocratiques",
+     "objectifs": "Étudier les différentes manières dont les belligérants sont sortis de la guerre et la difficile construction de la paix.",
+     "mettre_en_avant": [
+      "le bilan humain et matériel de la guerre ;",
+      "les principes formulés par le président Wilson et la fondation de la Société des Nations ;",
+      "les traités de paix et la fin des empires multinationaux européens ;",
+      "les interventions étrangères et la guerre civile en Russie jusqu'en 1922 ;",
+      "les enjeux de mémoire de la Grande Guerre tant pour les acteurs collectifs que pour les individus et leurs familles."
+     ],
+     "points": [
+      {
+       "titre": "1919-1923 : les traités de paix",
+       "etat": "complement",
+       "description": "Les vainqueurs signent des traités avec chaque vaincu : Versailles (Allemagne, 1919), Saint-Germain-en-Laye (Autriche, 1919), Neuilly (Bulgarie, 1919), Trianon (Hongrie, 1920), Sèvres (Empire ottoman, 1920) remplacé par Lausanne (Turquie, 1923). Les empires multinationaux disparaissent et de nouveaux États apparaissent en Europe centrale, selon le principe des nationalités."
+      },
+      {
+       "titre": "1920 : le soldat inconnu et les enjeux mémoriels",
+       "etat": "complement",
+       "description": "En novembre 1920, un soldat non identifié est choisi à Verdun et honoré à Paris ; il est inhumé sous l'Arc de triomphe en janvier 1921. Le Royaume-Uni fait de même le 11 novembre 1920. Cette cérémonie montre les enjeux de mémoire : deuil de masse, hommage à tous les morts, rôle des anciens combattants."
+      },
+      {
+       "titre": "1922 : le passeport Nansen et le statut des apatrides",
+       "etat": "complement",
+       "description": "Fridtjof Nansen, haut-commissaire de la Société des Nations pour les réfugiés, crée en 1922 un passeport pour les personnes sans nationalité, d'abord les réfugiés russes. Ce document, reconnu par de nombreux États, montre les conséquences de la guerre et de la fin des empires : millions de déplacés et d'apatrides."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+  "parties": [
+    {
+      "cle": "accroche",
+      "titre": "Accroche",
+      "consigne": "Une ou deux phrases qui placent le texte dans son contexte (historique, littéraire ou thématique). Elle doit mener vers l'auteur, sans le citer encore.",
+      "amorces": ["En 1870, la France…", "À la fin du XIXe siècle…", "La guerre a souvent inspiré aux poètes…"],
+      "modele": "En 1870, la France s'enfonce dans une guerre contre la Prusse, qui s'achève par la défaite de Sedan et la chute du Second Empire.",
+      "erreur": "Écrire « Depuis la nuit des temps… » : une accroche vague ne mène nulle part."
+    },
+    {
+      "cle": "presentation",
+      "titre": "Présentation",
+      "consigne": "Nom de l'auteur, titre du texte (entre guillemets), date, recueil ou œuvre, genre et forme.",
+      "amorces": ["Arthur Rimbaud, alors âgé de…", "Dans le poème intitulé…", "Ce sonnet, extrait de…"],
+      "modele": "Arthur Rimbaud, alors âgé de seize ans, écrit dans ce contexte le sonnet « Le Mal », que l'on rattache aux Cahiers de Douai.",
+      "erreur": "Oublier la date ou le genre."
+    },
+    {
+      "cle": "lecture",
+      "titre": "Lecture du texte",
+      "consigne": "En une ou deux phrases : le thème et la structure (les mouvements du texte, sans les détailler).",
+      "amorces": ["Dans ce poème, le poète…", "Le texte s'organise en deux mouvements…", "Après avoir décrit…, le poète…"],
+      "modele": "Dans ce poème, deux quatrains décrivent un champ de bataille où les soldats sont massacrés sous un ciel serein, puis deux tercets, introduits par un tiret, montrent un Dieu qui rit et s'endort dans le luxe des églises, tandis que de pauvres mères donnent leur dernier sou.",
+      "erreur": "Résumer tout le texte : il faut annoncer les mouvements, pas raconter."
+    },
+    {
+      "cle": "problematique",
+      "titre": "Problématique",
+      "consigne": "Une question précise, qui porte sur l'effet ou le sens du texte. Évite « Comment l'auteur décrit-il… ? » seul : il faut une idée à démontrer.",
+      "amorces": ["Comment l'auteur…", "En quoi ce texte…", "Dans quelle mesure…"],
+      "modele": "Comment Rimbaud, par le contraste et la satire, transforme-t-il le tableau d'une guerre en accusation contre ceux qui la laissent faire ?",
+      "erreur": "Poser une question à laquelle on répond par oui ou par non."
+    },
+    {
+      "cle": "annonce",
+      "titre": "Annonce des axes",
+      "consigne": "Une phrase qui annonce, dans l'ordre, les axes que tu vas développer (une partie de phrase par axe).",
+      "amorces": ["Nous verrons d'abord…", "puis…", "enfin…"],
+      "modele": "Nous verrons d'abord que la guerre est montrée comme une violence absurde qui déshumanise les soldats, puis que le contraste avec la nature et le pathétique soulèvent l'indignation, enfin que le poème dénonce un Dieu indifférent et une Église cupide.",
+      "erreur": "Annoncer des axes différents de ceux du développement."
+    }
+  ],
+  "checklist": [
+    "Les cinq éléments sont là, dans l'ordre.",
+    "Le titre du poème est entre guillemets.",
+    "La problématique est une vraie question.",
+    "L'annonce reprend les axes dans leur ordre exact.",
+    "Pas de passage à la ligne : un seul paragraphe."
+  ]
+}

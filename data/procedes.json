@@ -1,0 +1,187 @@
+{
+  "categories": [
+    "Figures d'analogie",
+    "Figures d'insistance",
+    "Figures d'opposition",
+    "Sonorités et rythme",
+    "Syntaxe et ponctuation",
+    "Registres"
+  ],
+  "procedes": [
+    {
+      "nom": "Métaphore",
+      "cat": "Figures d'analogie",
+      "def": "Rapprochement de deux éléments sans outil de comparaison.",
+      "ex": "« les crachats rouges de la mitraille »",
+      "effet": "Fait voir la chose autrement et exprime un jugement (ici le mépris)."
+    },
+    {
+      "nom": "Comparaison",
+      "cat": "Figures d'analogie",
+      "def": "Rapprochement de deux éléments avec un outil (comme, tel, ainsi que…).",
+      "ex": "Pas de comparaison dans « Le Mal » ; exemple hors poème : « rapide comme l'éclair ».",
+      "effet": "Explique ou embellit en rapprochant deux réalités."
+    },
+    {
+      "nom": "Personnification",
+      "cat": "Figures d'analogie",
+      "def": "Une chose ou une idée abstraite agit comme un être vivant.",
+      "ex": "« une folie épouvantable broie »",
+      "effet": "Donne une présence à une force abstraite (ici la guerre comme machine)."
+    },
+    {
+      "nom": "Réification (chosification)",
+      "cat": "Figures d'analogie",
+      "def": "Un être vivant est traité comme une chose.",
+      "ex": "« un tas fumant »",
+      "effet": "Déshumanise : les hommes sont de la matière."
+    },
+    {
+      "nom": "Synecdoque",
+      "cat": "Figures d'analogie",
+      "def": "On désigne le tout par une partie, ou une personne par un trait (ex. une couleur).",
+      "ex": "« écarlates ou verts »",
+      "effet": "Réduit les soldats à leur uniforme : ils sont interchangeables."
+    },
+    {
+      "nom": "Hyperbole",
+      "cat": "Figures d'insistance",
+      "def": "Exagération qui amplifie.",
+      "ex": "« cent milliers d'hommes »",
+      "effet": "Fait sentir l'ampleur du massacre."
+    },
+    {
+      "nom": "Anaphore",
+      "cat": "Figures d'insistance",
+      "def": "Répétition d'un mot ou d'un groupe de mots en début de phrase ou de vers.",
+      "ex": "« Tandis que… » (v. 1, v. 5)",
+      "effet": "Marque la simultanéité et construit une attente."
+    },
+    {
+      "nom": "Énumération",
+      "cat": "Figures d'insistance",
+      "def": "Suite de termes de même nature.",
+      "ex": "« Des autels, à l'encens, aux grands calices d'or »",
+      "effet": "Donne l'impression d'accumulation (ici de luxe)."
+    },
+    {
+      "nom": "Gradation",
+      "cat": "Figures d'insistance",
+      "def": "Énumération dont les termes augmentent en force.",
+      "ex": "autels → encens → calices d'or",
+      "effet": "Fait monter l'impression (ici la richesse)."
+    },
+    {
+      "nom": "Apostrophe",
+      "cat": "Figures d'insistance",
+      "def": "Interpellation directe d'un être ou d'une chose.",
+      "ex": "« Nature ! ô toi qui fis ces hommes saintement ! »",
+      "effet": "Donne un élan lyrique, exprime l'émotion du poète."
+    },
+    {
+      "nom": "Antithèse",
+      "cat": "Figures d'opposition",
+      "def": "Rapprochement de deux idées opposées.",
+      "ex": "rouge / bleu ; « s'endort » / « se réveille »",
+      "effet": "Fait ressortir le contraste et le scandale."
+    },
+    {
+      "nom": "Oxymore",
+      "cat": "Figures d'opposition",
+      "def": "Alliance de deux mots contradictoires dans un même groupe.",
+      "ex": "Pas d'oxymore dans « Le Mal » ; exemple : « un silence assourdissant ».",
+      "effet": "Crée un effet de surprise et de tension."
+    },
+    {
+      "nom": "Ironie",
+      "cat": "Figures d'opposition",
+      "def": "Dire autre chose que ce que l'on pense, pour se moquer.",
+      "ex": "« le bercement des hosannah », « gros sou »",
+      "effet": "Critique sans le dire directement."
+    },
+    {
+      "nom": "Allitération",
+      "cat": "Sonorités et rythme",
+      "def": "Répétition d'une consonne.",
+      "ex": "[s] et [f] dans « Sifflent tout le jour par l'infini du ciel bleu »",
+      "effet": "Imite un bruit (le sifflement des balles) ou crée une atmosphère."
+    },
+    {
+      "nom": "Assonance",
+      "cat": "Sonorités et rythme",
+      "def": "Répétition d'un son voyelle.",
+      "ex": "Hors poème : « Les sanglots longs / Des violons » (Verlaine), avec le retour du son [o].",
+      "effet": "Crée un effet de musique ou de lourdeur."
+    },
+    {
+      "nom": "Rime",
+      "cat": "Sonorités et rythme",
+      "def": "Retour d'un même son à la fin de deux vers.",
+      "ex": "joie / broie ; saintement / fumant ; damassées / ramassées",
+      "effet": "Rapproche des idées opposées et renforce le sens."
+    },
+    {
+      "nom": "Enjambement",
+      "cat": "Sonorités et rythme",
+      "def": "La phrase déborde d'un vers sur le suivant.",
+      "ex": "« des mères, ramassées / Dans l'angoisse »",
+      "effet": "Crée un rythme heurté, met en valeur les mots à la rupture."
+    },
+    {
+      "nom": "Rejet",
+      "cat": "Sonorités et rythme",
+      "def": "Un mot court est rejeté au début du vers suivant, après une coupe.",
+      "ex": "Pas d'exemple net dans « Le Mal » ; voir l'enjambement des vers 12-13.",
+      "effet": "Met en valeur ce mot."
+    },
+    {
+      "nom": "Inversion",
+      "cat": "Syntaxe et ponctuation",
+      "def": "Ordre inhabituel des mots (verbe avant le sujet).",
+      "ex": "« Croulent les bataillons »",
+      "effet": "Met le verbe en relief."
+    },
+    {
+      "nom": "Ponctuation expressive",
+      "cat": "Syntaxe et ponctuation",
+      "def": "Points d'exclamation, tirets, points de suspension, parenthèses.",
+      "ex": "« – Pauvres morts ! » ; « saintement !… »",
+      "effet": "Transcrit l'émotion, la rupture, le silence."
+    },
+    {
+      "nom": "Subordonnées en suspens",
+      "cat": "Syntaxe et ponctuation",
+      "def": "Une longue suite de subordonnées qui retarde la proposition principale.",
+      "ex": "Les 8 premiers vers (« Tandis que… ») avant « Il est un Dieu »",
+      "effet": "Crée une attente et une simultanéité : pendant que les hommes meurent, Dieu rit."
+    },
+    {
+      "nom": "Registre pathétique",
+      "cat": "Registres",
+      "def": "Cherche à émouvoir par la souffrance.",
+      "ex": "« Pauvres morts ! », les mères en pleurs",
+      "effet": "Fait compatir le lecteur."
+    },
+    {
+      "nom": "Registre satirique",
+      "cat": "Registres",
+      "def": "Se moque pour critiquer.",
+      "ex": "« Il est un Dieu, qui rit », « gros sou »",
+      "effet": "Dénonce des défauts sociaux ou religieux."
+    },
+    {
+      "nom": "Registre lyrique",
+      "cat": "Registres",
+      "def": "Exprime les sentiments du poète avec élan.",
+      "ex": "« Nature ! ô toi… »",
+      "effet": "Fait entendre la voix du poète."
+    },
+    {
+      "nom": "Registre polémique",
+      "cat": "Registres",
+      "def": "Attaque une cible pour s'opposer à elle.",
+      "ex": "L'ensemble du poème contre la guerre et l'Église",
+      "effet": "Fait prendre parti."
+    }
+  ]
+}

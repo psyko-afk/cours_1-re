@@ -1,0 +1,83 @@
+{
+  "page": 9,
+  "recueil": "Cahiers de Douai",
+  "auteur": "Arthur Rimbaud",
+  "poemes": [
+    {
+      "id": "le_dormeur_du_val",
+      "titre": "Le Dormeur du val",
+      "date": "1870",
+      "auteur": "Arthur Rimbaud",
+      "recueil": "Cahiers de Douai",
+      "contexte": [
+        "Sonnet célèbre sur la mort d'un jeune soldat dans la nature, punchline tragique au dernier vers."
+      ],
+      "forme": [
+        "Sonnet en alexandrins."
+      ],
+      "champs": {
+        "guerre": {
+          "label": "Nature & Mort"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Alexandrins"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "C'est un trou de verdure où chante une rivière",
+          "rime": "ère",
+          "procede": "Décor bucolique trompeur",
+          "effet": "Mise en scène d'un cadre paisible.",
+          "champs": [
+            "guerre"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "au_cabaret_vert",
+      "titre": "Au Cabaret-Vert",
+      "date": "1870",
+      "auteur": "Arthur Rimbaud",
+      "recueil": "Cahiers de Douai",
+      "contexte": [
+        "Évocation réaliste et joyeuse d'une halte dans une auberge lors d'une marche."
+      ],
+      "forme": [
+        "Quatrains d'alexandrins."
+      ],
+      "champs": {
+        "voyage": {
+          "label": "Marche & Convivialité"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Alexandrins"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "Depuis huit jours, j'avais déchiré mes bottes",
+          "rime": "ottes",
+          "procede": "Réalisme brut",
+          "effet": "Fatigue et insouciance du voyageur.",
+          "champs": [
+            "voyage"
+          ]
+        }
+      ]
+    }
+  ]
+}

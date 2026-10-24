@@ -1,0 +1,307 @@
+{
+    "titre_matiere": "Histoire — Programme Interactif",
+    "themes": [
+        {
+            "titre": "Thème 1 : La Révolution française et l'Empire : une nouvelle conception de la nation",
+            "chapitres": [
+                {
+                    "titre": "Chapitre 0 : Notions clés et définitions",
+                    "objectif": "Maîtriser les repères et concepts fondamentaux du Thème 1.",
+                    "sections": [
+                        {
+                            "titre": "Lexique du Thème 1",
+                            "contenu": "<strong>Souveraineté nationale :</strong> Principe selon lequel le pouvoir politique appartient à la Nation (l'ensemble des citoyens) et non à un monarque de droit divin.<br><br><strong>Constitution :</strong> Texte juridique fondamental qui définit la répartition et l'exercice des pouvoirs politiques au sein d'un État.<br><br><strong>Sans-culottes :</strong> Révolutionnaires issus du peuple urbain (artisans, boutiquiers) réclamant la démocratie directe, l'égalité sociale et portant le pantalon long.<br><br><strong>Terreur (1793-1794) :</strong> Période d'exception durant laquelle le gouvernement révolutionnaire (porté par Robespierre) suspend les libertés pour combattre les ennemis intérieurs et extérieurs.<br><br><strong>Code civil (1804) :</strong> Recueil unifié de lois civiles promulgué par Napoléon Ier, consacrant l'égalité juridique des citoyens et la propriété privée, tout en soumettant la femme au père/mari.<br><br><strong>Sainte-Alliance / Concert européen :</strong> Alliance militaire et politique conclue en 1815 entre les monarchies absolues (Russie, Autriche, Prusse) pour réprimer les révolutions et maintenir l'ordre traditionnel.<br><br><strong>Restauration :</strong> Période de retour à la monarchie en France (Louis XVIII puis Charles X) entre 1814 et 1830.<br><br><strong>Mouvement national / Sentiment national :</strong> Aspiration d'un peuple partageant une langue, une histoire et une culture communes à se constituer en un État souverain indépendant.<br><br><strong>Libéralisme politique :</strong> Idéologie réclamant la garantie des libertés individuelles, la séparation des pouvoirs et la limitation de l'autorité de l'État par une Constitution."
+                        }
+                    ]
+                },
+                {
+                    "titre": "Chapitre 1 : La Révolution française et l'Empire : une nouvelle conception de la nation",
+                    "objectif": "Objectif du chapitre : Montrer l'ampleur de la rupture révolutionnaire avec « l'Ancien Régime » et les tentatives de reconstruction d'un ordre politique stable.",
+                    "sections": [
+                        {
+                            "titre": "I. La rupture révolutionnaire et la fondation de la souveraineté nationale (1789-1792)",
+                            "contenu": "<strong>A. L'affirmation des grands principes de la modernité politique</strong><br>En 1789, la crise financière et sociale conduit à la convocation des États généraux par Louis XVI. Le 17 juin 1789, le Tiers État se proclame Assemblée nationale, marquant la naissance de la souveraineté nationale.<br><ul><li><strong>14 juillet 1789 :</strong> Prise de la Bastille par le peuple parisien, marquant l'intervention populaire.</li><li><strong>Nuit du 4 août 1789 :</strong> Abolition des privilèges et du système féodal par l'Assemblée constituante.</li><li><strong>26 août 1789 :</strong> Déclaration des Droits de l'Homme et du Citoyen (DDHC), synthétisant l'égalité devant la loi, les libertés fondamentales et la souveraineté de la Nation.</li></ul><br><strong>B. Les débats et conflits de la réorganisation nationale</strong><br>La réorganisation de la France s'accompagne de vives tensions :<br><ul><li>Réorganisation administrative (création des 83 départements) et religieuse (Constitution civile du clergé en 1790, divisant l'Église entre prêtres jurés et réfractaires).</li><li>Mise en cause de la souveraineté royale après la fuite du roi à Varennes (juin 1791) et le déclenchement de la guerre contre la Prusse et l'Autriche (avril 1792).</li></ul>",
+                            "points_passage": [
+                                {
+                                    "titre": "Madame Roland, une femme en révolution",
+                                    "description": "Manon Roland (1754-1793) illustre l'influence des femmes de la bourgeoisie lettrée dans la Révolution. Elle anime un salon politique influent rassemblant les Girondins. Bien que les femmes soient privées du droit de vote, elle participe activement aux débats politiques avant d'être guillotinée en novembre 1793 sous la Terreur."
+                                }
+                            ]
+                        },
+                        {
+                            "titre": "II. La République face aux crises : tensions, guerres et Terreur (1792-1799)",
+                            "contenu": "<strong>A. La chute de la monarchie et la radicalisation</strong><br>Le 10 août 1792, la prise des Tuileries par les Sans-Culottes et les fédérés entraîne la chute de la monarchie. La Convention nationale proclame la Première République le 21 septembre 1792.<br><br><strong>B. La Terreur et l'affrontement politique</strong><br>Face aux menaces intérieures et extérieures, le pouvoir est confié au Comité de salut public dirigé par Robespierre (mise en place de la Terreur, Loi des suspects, levée en masse). Les tensions entre les représentants de la nation et les Sans-Culottes s'intensifient jusqu'à la chute de Robespierre (juillet 1794), suivie par le régime du Directoire (1795-1799).",
+                            "points_passage": [
+                                {
+                                    "titre": "Décembre 1792 - Janvier 1793 : Procès et mort de Louis XVI",
+                                    "description": "Le procès du roi devant la Convention oppose les Girondins (modérés) aux Montagnards (radicaux). Reconnu coupable de trahison, Louis XVI est exécuté le 21 janvier 1793. Sa mort provoque une coalition des monarchies européennes et le soulèvement de la Vendée."
+                                }
+                            ]
+                        },
+                        {
+                            "titre": "III. L'ordre napoléonien et sa diffusion en Europe (1799-1815)",
+                            "contenu": "<strong>A. Un ordre politique autoritaire maintenant certains principes révolutionnaires</strong><br>Le coup d'État du 18 Brumaire (9 novembre 1799) permet à Napoléon Bonaparte d'instaurer le Consulat puis l'Empire en 1804. Il réorganise l'État de façon centralisée (création des préfets, des lycées, de la Légion d'honneur).<br><br><strong>B. De la nation en armes à la Grande Armée : l'éveil des sentiments nationaux</strong><br>Les conquêtes napoléoniennes diffusent les principes de la Révolution en Europe, mais la domination française (occupation, conscription) suscite en réaction l'émergence des sentiments nationaux (notamment en Espagne dès 1808 et dans les États allemands). L'Empire s'effondre en 1815 à Waterloo.",
+                            "points_passage": [
+                                {
+                                    "titre": "1804 : Le Code civil",
+                                    "description": "Promulgué en 1804, le Code civil consacre l'égalité devant la loi, la laïcité de l'état civil et l'abolition de la féodalité. Diffusé en Europe, il modernise les structures juridiques du continent tout en réaffirmant une conception patriarcale de la famille."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "titre": "Chapitre 2 : L'Europe entre restauration et révolution (1814-1848)",
+                    "objectif": "Objectif du chapitre : Montrer la volonté de clore la Révolution à travers la restauration de l'ordre monarchique européen, ainsi que la fragilité de l'œuvre du congrès de Vienne.",
+                    "sections": [
+                        {
+                            "titre": "I. La Restauration de l'ordre monarchique en Europe et en France",
+                            "contenu": "<strong>A. L'expérience monarchique en France</strong><br>La monarchie est rétablie en France sous deux formes constitutionnelles successives :<br><ul><li><strong>La Charte de 1814 :</strong> Octroyée par Louis XVIII, elle tente de concilier le retour à la monarchie de droit divin et la conservation de certains principes de 1789 (égalité devant la loi). Le suffrage reste censitaire et très restreint.</li><li><strong>La Charte révisée de 1830 :</strong> Adoptée après la révolution de juillet 1830 sous le règne de Louis-Philippe Ier (Monarchie de Juillet), elle élargit légèrement le corps électoral.</li></ul>",
+                            "points_passage": [
+                                {
+                                    "titre": "1815 : Metternich et le congrès de Vienne",
+                                    "description": "Après la défaite de Napoléon, les puissances victorieuses (Autriche, Prusse, Russie, Royaume-Uni) se réunissent au congrès de Vienne, dirigé par le chancelier autrichien Metternich. Elles restaurent les dynasties monarchiques et redécoupent la carte de l'Europe à leur profit, cherchant à construire une paix durable par la Sainte-Alliance."
+                                }
+                            ]
+                        },
+                        {
+                            "titre": "II. L'essor des idées libérales et du mouvement des nationalités",
+                            "contenu": "<strong>A. Circulations d'idées et réseaux clandestins</strong><br>La réorganisation autoritaire de l'Europe suscite la résistance des libéraux et des patriotes. Les idées politiques circulent à travers des écrits, des discours et des associations secrètes :<br><ul><li>La <strong>Carbonaria</strong> en Italie et les mouvements étudiants en Allemagne.</li><li>Le mouvement <strong>« Jeune-Italie »</strong> fondé par Giuseppe Mazzini en 1831, luttant pour l'unité républicaine de l'Italie.</li></ul>",
+                            "points_passage": [
+                                {
+                                    "titre": "1822 : Le massacre de Chios",
+                                    "description": "En 1821, la Grèce se soulève contre la domination ottomane pour obtenir son indépendance. Le massacre de plus de 20 000 Grecs sur l'île de Chios en 1822 suscite un vaste mouvement de solidarité européenne (le Philhellénisme) porté par des artistes et intellectuels, menant à l'indépendance grecque en 1830."
+                                }
+                            ]
+                        },
+                        {
+                            "titre": "III. Les deux poussées révolutionnaires en Europe (1830 et 1848)",
+                            "contenu": "<strong>A. Le Printemps des Peuples (1848)</strong><br>En février 1848, la chute de Louis-Philippe à Paris déclenche une nouvelle onde de choc révolutionnaire dans toute l'Europe (Vienne, Berlin, Rome, Milan) :<br><ul><li>Les peuples réclament l'établissement de constitutions libérales, la démocratie ainsi que l'unité ou l'indépendance nationale.</li><li>Malgré la répression des soulèvements par les régimes autoritaires à la fin de 1848, l'ordre établi par le congrès de Vienne est définitivement affaibli.</li></ul>",
+                            "points_passage": [
+                                {
+                                    "titre": "1830 : Les Trois Glorieuses",
+                                    "description": "Face au virage absolutiste de Charles X, les Parisiens se soulèvent les 27, 28 et 29 juillet 1830 (« Les Trois Glorieuses »). Charles X abdique, laissant place à Louis-Philippe Ier. Cette révolution déclenche une vague d'insurrections en Europe, notamment en Belgique qui obtient son indépendance."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "titre": "Thème 2 : La France dans l'Europe des diverses mutations (1848-1870)",
+            "chapitres": [
+                {
+                    "titre": "Chapitre 0 : Notions clés et définitions",
+                    "objectif": "Maîtriser les repères et concepts fondamentaux du Thème 2.",
+                    "sections": [
+                        {
+                            "titre": "Lexique du Thème 2",
+                            "contenu": "<strong>Suffrage universel masculin (1848) :</strong> Droit de vote accordé à tous les citoyens hommes âgés d'au moins 21 ans, sans condition de fortune ou de cens.<br><br><strong>Ateliers nationaux :</strong> Chantiers publics créés par la Deuxième République en 1848 pour fournir un travail et un revenu aux chômeurs parisiens.<br><br><strong>Césarisme démocratique :</strong> Régime politique autoritaire combinant le pouvoir personnel d'un chef (Napoléon III) et la légitimité populaire exprimée par le plébiscite.<br><br><strong>Industrialisation :</strong> Passage d'un système de production artisanal et agricole à un mode de production mécanisé et manufacturier en usine.<br><br><strong>Exode rural :</strong> Départ définitif des populations rurales quittant les campagnes pour s'installer en ville et travailler dans les usines.<br><br><strong>Haussmannisation :</strong> Vaste programme de rénovation et de modernisation de Paris mené par le baron Haussmann sous Napoléon III (percée de grands boulevards, hygiène, parcs).<br><br><strong>Question sociale / Prolétariat :</strong> Ensemble des problèmes posés par la misère et la précarité des conditions de vie et de travail de la classe ouvrière.<br><br><strong>Socialisme :</strong> Courant idéologique visant à réduire la lutte des classes et les inégalités sociales par la réorganisation de l'économie et de la propriété privée.<br><br><strong>Unité italienne (Risorgimento) :</strong> Mouvement politique et militaire ayant conduit à la réunion des différents États de la péninsule italienne en un seul Royaume d'Italie (1861).<br><br><strong>Unité allemande :</strong> Processus d'unification des États allemands sous la conduite de la Prusse et de Bismarck, aboutissant à la proclamation de l'Empire allemand à Versailles (1871)."
+                        }
+                    ]
+                },
+                {
+                    "titre": "Chapitre 1 : La Deuxième République et le Second Empire (1848-1870)",
+                    "objectif": "Objectif du chapitre : Montrer les difficultés à instaurer une république démocratique ainsi que le passage à un régime autoritaire qui s'est progressivement libéralisé.",
+                    "sections": [
+                        {
+                            "titre": "I. La Deuxième République (1848-1851) : une expérience politique démocratique et ses limites",
+                            "contenu": "<strong>A. L'élan républicain et les premières réformes sociales</strong><br>La révolution de février 1848 met fin à la Monarchie de Juillet et proclame la Deuxième République. Le gouvernement provisoire instaure des mesures fondamentales :<br><ul><li>Adoption du <strong>suffrage universel masculin</strong> pour tous les citoyens de plus de 21 ans.</li><li>Abolition de la peine de mort en matière politique et liberté totale de la presse et de réunion.</li><li>Création des <strong>Ateliers nationaux</strong> pour fournir du travail aux chômeurs touchés par la crise économique.</li></ul><br><strong>B. La rupture sociale et la dérive conservatrice</strong><br>La fermeture des Ateliers nationaux en juin 1848 provoque une insurrection ouvrière à Paris (« Journées de Juin »), sévèrement réprimée par l'armée. Cet événement marque la rupture entre les ouvriers et la République conservatrice. En décembre 1848, Louis-Napoléon Bonaparte est élu président de la République.",
+                            "points_passage": [
+                                {
+                                    "titre": "1848 : Victor Hugo à l'Assemblée nationale",
+                                    "description": "Député à l'Assemblée constituante en 1848, l'écrivain Victor Hugo s'engage en politique pour défendre les idéaux républicains, la justice sociale et lutter contre la misère. Ses discours à l'Assemblée illustrent les débats passionnés sur le rôle de la République face à la question sociale."
+                                },
+                                {
+                                    "titre": "1848 : L'abolition de l'esclavage",
+                                    "description": "Sous l'impulsion de Victor Schœlcher, le décret du 27 avril 1848 abolit définitivement l'esclavage dans les colonies françaises. Les anciens esclaves deviennent citoyens français, bien que les structures économiques coloniales restent largement inégales."
+                                },
+                                {
+                                    "titre": "George Sand, femme de lettres engagée",
+                                    "description": "Durant le printemps 1848, George Sand participe activement au Journal officiel de la République pour promouvoir la République sociale et l'égalité des droits, tout en soulignant les blocages sociétaux concernant le statut des femmes."
+                                }
+                            ]
+                        },
+                        {
+                            "titre": "II. Le Second Empire (1851-1870) : de l'autoritarisme au régime parlementaire",
+                            "contenu": "<strong>A. Un coup d'État et l'instauration d'un régime autoritaire</strong><br>Ne pouvant se représenter à la fin de son mandat constitutionnel, Louis-Napoléon Bonaparte réalise un coup d'État le 2 décembre 1851. Un an plus tard, le 2 décembre 1852, il instaure le Second Empire et devient Napoléon III.<br><ul><li>Le pouvoir est concentré entre les mains de l'Empereur ; la presse est censurée et l'opposition républicaine est traquée ou contrainte à l'exil (comme Victor Hugo).</li><li>Usage régulier du <strong>plébiscite</strong> pour maintenir un lien direct avec le peuple et du système des <strong>candidatures officielles</strong> pour orienter les élections législatives.</li></ul><br><strong>B. La libéralisation progressive du régime</strong><br>À partir de 1860, Napoléon III accorde des concessions politiques et sociales pour remobiliser le soutien de l'opinion :<br><ul><li>Droit d'adresse accordé au Parlement (1860) et rétablissement de la liberté de la presse et de réunion (1868).</li><li>Accord du <strong>droit de grève</strong> aux ouvriers en 1864 (Loi Ollivier).</li><li>La réforme constitutionnelle de 1870 transforme le Second Empire en un régime parlementaire, approuvé à une large majorité par plébiscite peu avant la défaite militaire contre la Prusse à Sedan (septembre 1870), qui entraîne la chute du régime.</li></ul>",
+                            "points_passage": []
+                        }
+                    ]
+                },
+                {
+                    "titre": "Chapitre 2 : L'industrialisation et les transformations économiques et sociales de la France (1848-1870)",
+                    "objectif": "Objectif du chapitre : Analyser la modernisation de l'économie française sous le Second Empire et l'essor du salariat urbain avec ses conséquences sociales.",
+                    "sections": [
+                        {
+                            "titre": "I. La modernisation économique impulsée par l'État napoléonien",
+                            "contenu": "<strong>A. L'essor industriel et la révolution des transports</strong><br>Sous le Second Empire, l'État joue un rôle moteur dans l'industrialisation de la France :<br><ul><li>Développement du réseau ferroviaire (passant de 3 000 km à plus de 17 000 km de voies en 1870), unifiant le marché national.</li><li>Soutien au secteur bancaire moderne (création du Crédit Mobilier, de la Société Générale) pour financer les grands travaux et l'industrie.</li><li>Signature du traité de libre-échange avec le Royaume-Uni en 1860 (traité Cobden-Chevalier) pour stimuler la compétitivité française.</li></ul><br><strong>B. La transformation des cadres de vie : l'urbanisme haussmannien</strong><br>Pour faire face à l'accroissement urbain et des impératifs d'hygiène et de sécurité, l'État entreprend de grands travaux d'aménagement.",
+                            "points_passage": [
+                                {
+                                    "titre": "Les frères Pereire, acteurs de la modernisation économique",
+                                    "description": "Émile et Isaac Pereire incarnent le saint-simonisme et le capitalisme du Second Empire. Fondateurs du Crédit Mobilier et de la Compagnie Générale Transatlantique, ils financent le chemin de fer, l'aménagement de la ville de Paris et la station balnéaire d'Arcachon avant d'essuyer un retentissant revers financier."
+                                },
+                                {
+                                    "titre": "24 mars 1852 : Le baron Haussmann et la transformation de Paris",
+                                    "description": "Nommé préfet de la Seine par Napoléon III, le baron Haussmann transforme profondément Paris : percement de grands boulevards rectilignes, création d'espaces verts (Bois de Boulogne), réseau d'égouts moderne et adduction d'eau. Cette politique repousse les classes populaires vers la périphérie est de la capitale."
+                                }
+                            ]
+                        },
+                        {
+                            "titre": "II. Les mutations de la société française",
+                            "contenu": "<strong>A. Une France rurale qui demeure majeure mais en mutation</strong><br>En dépit de l'industrialisation, la population française reste majoritairement rurale sous le Second Empire. On assiste toutefois au début de l'exode rural vers les centres urbains et industriels, ainsi qu'à la mécanisation progressive des travaux agricoles.<br><br><strong>B. L'émergence du monde ouvrier et la question sociale</strong><br>La hausse du nombre d'ouvriers d'usine s'accompagne de conditions de travail et de vie difficiles (journées de travail de 12 à 14 heures, insalubrité des logements, insécurité de l'emploi) :<br><ul><li>Développement du <strong>paternalisme industriel</strong> : certains patrons offrent des logements ou des écoles pour fidéliser et contrôler la main-d'œuvre.</li><li>Prise de conscience de la classe ouvrière et affirmation des revendications sociales, menant à l'octroi du droit de grève en 1864.</li></ul>",
+                            "points_passage": []
+                        }
+                    ]
+                },
+                {
+                    "titre": "Chapitre 3 : La France et la construction des États-nations (1848-1871)",
+                    "objectif": "Objectif du chapitre : Montrer le rôle de la France dans les unifications italienne et allemande, et comment ces processus ont modifié la carte géopolitique de l'Europe.",
+                    "sections": [
+                        {
+                            "titre": "I. L'engagement de la France dans l'unité italienne",
+                            "contenu": "<strong>A. Le soutien à la cause nationale italienne</strong><br>Fidèle aux idéaux de sa jeunesse et désireux de réviser les traités de 1815, Napoléon III soutient le royaume de Piémont-Sardaigne dirigé par Cavour pour chasser l'Autriche du nord de l'Italie.<br><ul><li>L'alliance franco-piémontaise conduit aux victoires de Solférino et de Magenta (1859).</li><li>En contrepartie de son aide militaire, la France rattache Nice et la Savoie à son territoire en 1860 après plébiscite.</li></ul><br><strong>B. Les ambiguïtés de la politique napoléonienne en Italie</strong><br>Soucieux de conserver le soutien des catholiques français, Napoléon III maintient une garnison française à Rome pour protéger les États pontificaux et le pape Pie IX, freinant ainsi la finalisation de l'unité italienne jusqu'en 1870.",
+                            "points_passage": [
+                                {
+                                    "titre": "Le rattachement de Nice et de la Savoie à la France (1860)",
+                                    "description": "En vertu du traité de Turin signé entre Napoléon III et Victor-Emmanuel II, les populations de Nice et de la Savoie votent massivement par plébiscite en faveur de leur rattachement à la France, concrétisant la modification des frontières françaises."
+                                }
+                            ]
+                        },
+                        {
+                            "titre": "II. L'unification allemande et l'affrontement franco-prussien",
+                            "contenu": "<strong>A. La stratégie du chancelier Bismarck</strong><br>En Prusse, le chancelier Otto von Bismarck mène l'unification allemande « par le fer et par le sang ». Après avoir écarté l'Autriche en 1866 (bataille de Sadowa), il cherche à susciter une guerre contre la France pour unir l'ensemble des États allemands autour de la Prusse.<br><br><strong>B. La défaite de 1870 et ses conséquences majeures</strong><br>L'armée française est rapidement vaincue. Napoléon III est fait prisonnier lors de la capitulation de Sedan le 2 septembre 1870 :<br><ul><li>La défaite entraîne la chute du Second Empire et la proclamation de la Troisième République le 4 septembre 1870 à Paris.</li><li>Le 18 janvier 1871, l'Empire allemand (IIe Reich) est proclamé dans la galerie des Glaces du château de Versailles.</li><li>Par le traité de Francfort (mai 1871), la France perd l'Alsace et une partie de la Lorraine, nourrissant un sentiment de revanche.</li></ul>",
+                            "points_passage": [
+                                {
+                                    "titre": "1870 : Bismarck et le déclenchement de la guerre franco-prussienne",
+                                    "description": "En manipulant la dépêche d'Ems, Bismarck humilie la France et pousse Napoléon III à déclarer la guerre à la Prusse le 19 juillet 1870. La guerre fédère les États allemands du Sud aux côtés de la Prusse contre l'ennemi commun."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "titre": "Thème 3 : La IIIe République avant 1914 : un projet politique",
+            "chapitres": [
+                {
+                    "titre": "Chapitre 0 : Notions clés et définitions",
+                    "objectif": "Maîtriser les repères et concepts fondamentaux du Thème 3.",
+                    "sections": [
+                        {
+                            "titre": "Lexique du Thème 3",
+                            "contenu": "<strong>Culture républicaine :</strong> Ensemble de valeurs (liberté, égalité, laïcité), de symboles (Marianne, la Marseillaise, le 14 Juillet) et de lois fondant l'adhésion des citoyens au régime.<br><br><strong>Laïcité :</strong> Principe de séparation de la société civile et de la religion : l'État garantit la liberté de conscience et de culte mais n'en salarie ni n'en subventionne aucun.<br><br><strong>Affaire Dreyfus (1894-1906) :</strong> Crise politique majeure déclenchée par la condamnation injuste du capitaine juif Alfred Dreyfus pour espionnage, divisant la France.<br><br><strong>Impérialisme / Colonialisme :</strong> Politique d'un État visant à étendre sa domination politique, économique et culturelle sur d'autres peuples et territoires.<br><br><strong>Mission civilisatrice :</strong> Discours officiel justificatif de la colonisation prétendant apporter le progrès, l'éducation et la médecine occidentale aux populations.<br><br><strong>Statut de l'indigénat (1881) :</strong> Régime juridique d'exception imposé aux sujets colonisés, les privant des droits politiques des citoyens français."
+                        }
+                    ]
+                },
+                {
+                    "titre": "Chapitre 1 : La mise en œuvre du projet républicain (1870-1914)",
+                    "objectif": "Objectif du chapitre : Analyser la manière dont la IIIe République s'enracine en France malgré de fortes oppositions politiques et sociales.",
+                    "sections": [
+                        {
+                            "titre": "I. L'affirmation et l'enracinement de la République (1870-1890)",
+                            "contenu": "<strong>A. La naissance difficile du régime</strong><br>Proclamée le 4 septembre 1870 dans un contexte de défaite militaire, la IIIe République fait face à une crise majeure :<br><ul><li>L'insurrection de la <strong>Commune de Paris (mars-mai 1871)</strong>, écrasée dans le sang par le gouvernement d'Adolphe Thiers lors de la « Semaine sanglante ».</li><li>Les lois constitutionnelles de 1875 instaurent un régime parlementaire, fruit d'un compromis entre républicains et monarchistes modérés.</li></ul>",
+                            "points_passage": [
+                                {
+                                    "titre": "1880 : Les symboles républicains et la fête nationale",
+                                    "description": "Pour unifier la nation, la République se dote de symboles forts : adoption de La Marseillaise comme hymne national, du 14 Juillet comme fête nationale, et installation du buste de Marianne dans les mairies."
+                                },
+                                {
+                                    "titre": "1881-1882 : Les lois Jules Ferry sur l'école",
+                                    "description": "Jules Ferry fait voter les lois rendant l'enseignement primaire gratuit, laïque et obligatoire pour les filles et les garçons. L'école républicaine devient le vecteur principal de la formation de citoyens éclairés et patriotes."
+                                }
+                            ]
+                        },
+                        {
+                            "titre": "II. La République à l'épreuve des crises politiques",
+                            "contenu": "<strong>A. La montée de l'antiparlementarisme et l'Affaire Dreyfus</strong><br>Le régime républicain surmonte la crise boulangiste (1887-1889) ainsi que la vague d'attentats anarchistes (1892-1894).<br><br><strong>B. La laïcisation de la société</strong>",
+                            "points_passage": [
+                                {
+                                    "titre": "1898 : « J'accuse… ! » d'Émile Zola et l'affaire Dreyfus",
+                                    "description": "L'accusation à tort de trahison du capitaine juif Alfred Dreyfus divise profondément la France entre dreyfusards (défenseurs des droits de l'homme et de la justice) et antidreyfusards (nationalistes et antisémites). L'article d'Émile Zola dans L'Aurore marque la naissance de la figure de l'intellectuel engagé."
+                                },
+                                {
+                                    "titre": "1905 : La loi de séparation des Églises et de l'État",
+                                    "description": "Portée par Aristide Briand, la loi du 9 décembre 1905 garantit la liberté de conscience et le libre exercice des cultes, tout en affirmant la neutralité religieuse de l'État : « La République ne reconnaît, ne salarie ni ne subventionne aucun culte »."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "titre": "Chapitre 2 : Métropole et colonies (1870-1914)",
+                    "objectif": "Objectif du chapitre : Analyser la relance de l'expansion coloniale sous la IIIe République, son idéologie et les réalités des sociétés colonisées.",
+                    "sections": [
+                        {
+                            "titre": "I. L'empire colonial français : motivations et conquêtes",
+                            "contenu": "<strong>A. L'idéologie et les facteurs de l'expansion</strong><br>La France constitue le deuxième empire colonial mondial derrière le Royaume-Uni. Cette expansion s'appuie sur :<br><ul><li>Des arguments économiques (recherche de matières premières et d'emprises commerciales).</li><li>Des motivations géopolitiques et nationalistes (retrouver le rang de grande puissance après la défaite de 1870).</li><li>Une « mission civilisatrice » autoproclamée, portée par des figures comme Jules Ferry.</li></ul>",
+                            "points_passage": [
+                                {
+                                    "titre": "1885 : Les débats à la Chambre des députés sur la politique coloniale",
+                                    "description": "En juillet 1885, Jules Ferry défend la politique coloniale au nom de la « mission civilisatrice des races supérieures ». Il rencontre l'opposition virulente de Georges Clemenceau, qui dénonce une politique de force contraire aux Droits de l'Homme et aux principes républicains."
+                                }
+                            ]
+                        },
+                        {
+                            "titre": "II. Le fonctionnement des sociétés coloniales",
+                            "contenu": "<strong>A. Dominations, statuts et résistances</strong><br>L'administration coloniale repose sur une inégalité fondamentale entre colonisateurs et colonisés :<br><ul><li>Mise en place du <strong>Code de l'indigénat (1881)</strong>, un régime juridique d'exception privant les sujets coloniaux des libertés politiques et civiles applicables en métropole.</li><li>Exploitation économique des territoires (travail forcé, confiscation des terres, impôts coloniaux).</li></ul>",
+                            "points_passage": [
+                                {
+                                    "titre": "L'Algérie, une colonie de peuplement au statut particulier",
+                                    "description": "L'Algérie est découpée en trois départements français dès 1848. Elle se caractérise par une forte présence d'Européens (« pieds-noirs ») qui concentrent les pouvoirs politiques et économiques, tandis que la majorité musulmane est soumise au statut d'indigène."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "titre": "Thème 4 : La Première Guerre mondiale : le 'suicide' de l'Europe",
+            "chapitres": [
+                {
+                    "titre": "Chapitre 0 : Notions clés et définitions",
+                    "objectif": "Maîtriser les repères et concepts fondamentaux du Thème 4.",
+                    "sections": [
+                        {
+                            "titre": "Lexique du Thème 4",
+                            "contenu": "<strong>Guerre totale :</strong> Conflit mobilisant l'intégralité des ressources d'un État (militaires, économiques, financières, industrielles, humaines et culturelles).<br><br><strong>Guerre de position / de tranchées :</strong> Phase de la guerre durant laquelle les armées s'enterrent dans des fortifications pour défendre leurs positions face à l'artillerie.<br><br><strong>Brutalisation :</strong> Processus d'accoutumance des soldats et des civils à la violence extrême, entraînant l'acceptation de la haine de l'ennemi.<br><br><strong>Génocide :</strong> Extermination programmée, méthodique et systématique de tout ou partie d'un groupe national, ethnique, racial ou religieux.<br><br><strong>Bolchévisme / Révolution russe :</strong> Courant marxiste radical dirigé par Lénine ayant pris le pouvoir en Russie en octobre 1917 pour instaurer la dictature du prolétariat.<br><br><strong>Diktat :</strong> Terme péjoratif utilisé par les Allemands pour désigner le Traité de Versailles de 1919, perçu comme une paix humiliante.<br><br><strong>Société des Nations (SDN) :</strong> Organisation internationale créée en 1919 sur l'impulsion du président américain Wilson pour maintenir la paix."
+                        }
+                    ]
+                },
+                {
+                    "titre": "Chapitre 1 : Un embrasement mondial et ses grandes étapes (1914-1918)",
+                    "objectif": "Objectif du chapitre : Analyser l'engrenage menant au conflit mondial, la brutalisation des combats et la mobilisation totale des sociétés.",
+                    "sections": [
+                        {
+                            "titre": "I. L'engrenage des alliances et le déclenchement de la guerre",
+                            "contenu": "<strong>A. De l'attentat de Sarajevo à la guerre mondiale</strong><br>L'assassinat de l'archiduc François-Ferdinand à Sarajevo le 28 juin 1914 déclenche le jeu des alliances militaires (Triple-Entente contre Triple-Alliance). En août 1914, l'Europe plonge dans la guerre.<br><br><strong>B. L'échec de la guerre de mouvement et le passage à la guerre de position</strong><br>Après la bataille de la Marne (septembre 1914), le front s'immobilise. Les armées s'enterrent dans les tranchées sur des centaines de kilomètres. Le conflit devient une guerre d'usure dévastatrice.",
+                            "points_passage": [
+                                {
+                                    "titre": "1916 : La bataille de Verdun et la Somme",
+                                    "description": "Verdun (février-décembre 1916) et la Somme (juillet-novembre 1916) incarnent la violence de masse de la guerre industrielle : usage massif de l'artillerie, gaz asphyxiants et pertes humaines colossales (plus de 700 000 victimes à Verdun)."
+                                }
+                            ]
+                        },
+                        {
+                            "titre": "II. La guerre totale et la mobilisation des arrière-fronts",
+                            "contenu": "<strong>A. Une économie et une société tournées vers la guerre</strong><br>Toutes les ressources des nations sont mobilisées : les femmes travaillent dans les usines d'armement (« munitionnettes »), les États s'endettent et censurent la presse pour maintenir le moral.",
+                            "points_passage": [
+                                {
+                                    "titre": "1915 : Le génocide des Arméniens",
+                                    "description": "Profitant du contexte de guerre, le gouvernement jeune-turc de l'Empire ottoman organise la déportation et la fuite systématique des populations arméniennes, provoquant la mort de plus d'un million de personnes. C'est le premier génocide du XXe siècle."
+                                },
+                                {
+                                    "titre": "1917 : Les révolutions russes et la sortie de guerre",
+                                    "description": "Épuisé par la guerre, le peuple russe se soulève en février 1917. En octobre, les mythes de la révolution bolchevique menée par Lénine prennent le pouvoir et signent l'armistice avec l'Allemagne (traité de Brest-Litovsk en 1918)."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+ "note": "Notions du programme absentes du lexique du fichier, définies d'après le vocabulaire du programme. À comparer avec ton cours.",
+ "themes_titres": [
+  "Thème 1 : La métropolisation : un processus mondial différencié",
+  "Thème 2 : Une diversification des espaces et des acteurs de la production",
+  "Thème 3 : Les espaces ruraux : multifonctionnalité ou fragmentation ?",
+  "Thème 4 conclusif : La Chine : des recompositions spatiales multiples"
+ ],
+ "lexique": [
+  {
+   "theme": 0,
+   "term": "Ville",
+   "def": "Espace d'habitat dense, regroupant des populations et des activités non agricoles (commerce, services, industrie), avec des fonctions de centralité sur le territoire qui l'entoure."
+  },
+  {
+   "theme": 1,
+   "term": "Entreprise multinationale",
+   "def": "Entreprise dont les activités sont implantées dans plusieurs pays. On parle aussi de firme transnationale (FTN)."
+  },
+  {
+   "theme": 1,
+   "term": "Production",
+   "def": "Création de biens et de services, matériels ou immatériels, destinés à être échangés ou consommés."
+  },
+  {
+   "theme": 1,
+   "term": "Système productif",
+   "def": "Ensemble organisé des acteurs (entreprises, États, salariés), des espaces et des flux qui participent à la production d'un bien ou d'un service."
+  },
+  {
+   "theme": 2,
+   "term": "Périurbanisation",
+   "def": "Extension de l'urbanisation autour des villes, dans des espaces auparavant ruraux, avec des habitants qui résident en périphérie et travaillent souvent en ville."
+  },
+  {
+   "theme": 2,
+   "term": "Ruralité",
+   "def": "Ensemble des caractéristiques (paysages, densités, modes de vie, activités, représentations) qui définissent les espaces ruraux."
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "note": "Guides d'exercices rédigés pour t'aider à t'entraîner. Les consignes exactes viennent de ton professeur.",
+ "histoire": [
+  {
+   "nom": "Analyse critique d'un document",
+   "but": "Comprendre un document, le situer et en discuter l'intérêt et les limites.",
+   "etapes": [
+    "Présenter : nature du document (texte, affiche, tableau…), auteur, date, destinataire, contexte.",
+    "Dégager le sens : que dit le document ? Idée générale puis idées secondaires, avec des citations ou des détails.",
+    "Analyser : point de vue de l'auteur, but, procédés (ton, images, mots-clés).",
+    "Mettre en relation avec tes connaissances : que ne dit pas le document ? Que confirme ou nuance le cours ?",
+    "Porter un regard critique : intérêt (ce qu'il apporte) et limites (partialité, silences)."
+   ],
+   "pieges": [
+    "Raconter le document au lieu de l'analyser.",
+    "Oublier de présenter la source.",
+    "Ne pas utiliser le cours."
+   ]
+  },
+  {
+   "nom": "Composition (sujet de réflexion)",
+   "but": "Répondre à une question en construisant une démonstration organisée, avec des connaissances.",
+   "etapes": [
+    "Analyser le sujet : mots-clés, bornes chronologiques et spatiales, question implicite.",
+    "Mobiliser ses connaissances au brouillon : événements, acteurs, dates, exemples.",
+    "Construire la problématique, puis un plan en 2 ou 3 parties (chronologique ou thématique) avec une idée par partie.",
+    "Rédiger : introduction (accroche, définition des termes, problématique, annonce du plan), développement (paragraphes avec idée, exemples précis, transition), conclusion (réponse et ouverture).",
+    "Relire : orthographe, dates, noms propres."
+   ],
+   "pieges": [
+    "Réciter le cours sans répondre à la question.",
+    "Plan sans lien avec la problématique.",
+    "Exemples trop vagues (sans date ni lieu)."
+   ]
+  }
+ ],
+ "geographie": [
+  {
+   "nom": "Croquis",
+   "but": "Représenter de manière organisée et lisible l'organisation d'un espace ou un phénomène.",
+   "etapes": [
+    "Comprendre le sujet et identifier le message à montrer (titre à formuler comme une idée).",
+    "Construire une légende organisée en 2 ou 3 parties avec des titres qui sont des idées, et des figurés différenciés (ponctuels, linéaires, surfaciques).",
+    "Dessiner d'abord les éléments de fond (limites, littoraux), puis les figurés de la légende, en soignant les couleurs et le lisible.",
+    "Ajouter nomenclature (noms des lieux), titre, orientation et échelle si nécessaire.",
+    "Vérifier : cohérence légende-carte, lisibilité, absence de texte inutile."
+   ],
+   "pieges": [
+    "Légende en liste sans organisation.",
+    "Trop de couleurs ou de symboles.",
+    "Oublier le titre."
+   ]
+  },
+  {
+   "nom": "Composition (sujet de réflexion)",
+   "but": "Répondre à une question géographique par un plan organisé, avec des exemples et, souvent, un croquis.",
+   "etapes": [
+    "Analyser le sujet : mots-clés, espace, échelles, question implicite.",
+    "Mobiliser notions, acteurs, exemples à plusieurs échelles.",
+    "Construire une problématique et un plan en 2 ou 3 parties.",
+    "Rédiger avec exemples précis (lieux, chiffres), et utiliser le vocabulaire du programme.",
+    "Conclure en répondant à la problématique."
+   ],
+   "pieges": [
+    "Plan en « 1. le monde 2. la France » sans lien.",
+    "Exemples non localisés.",
+    "Notions non définies."
+   ]
+  },
+  {
+   "nom": "Analyse critique de document(s)",
+   "but": "Extraire des informations d'un ou plusieurs documents (carte, texte, statistiques) et les mettre en relation.",
+   "etapes": [
+    "Présenter chaque document : nature, auteur, date, source, espace concerné.",
+    "Lire et dégager les informations clés (chiffres, tendances, localisations).",
+    "Croiser les documents et les relier aux notions du cours.",
+    "Répondre à la consigne avec un plan, en citant les documents.",
+    "Porter un regard critique : limites, point de vue, échelle."
+   ],
+   "pieges": [
+    "Décrire un document sans le relier au sujet.",
+    "Copier des phrases entières.",
+    "Ignorer les chiffres."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+  "page": 6,
+  "recueil": "Cahiers de Douai",
+  "auteur": "Arthur Rimbaud",
+  "poemes": [
+    {
+      "id": "les_effares",
+      "titre": "Les Effarés",
+      "date": "1870",
+      "auteur": "Arthur Rimbaud",
+      "recueil": "Cahiers de Douai",
+      "contexte": [
+        "Poème social et misérabiliste montrant des enfants pauvres regardant la chaleur sortir d'une boulangerie."
+      ],
+      "forme": [
+        "Quatrains d'octosyllabes."
+      ],
+      "champs": {
+        "pauvrete": {
+          "label": "Misère & Enfance"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Octosyllabes"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "Noirs de rosée et de la cendre,",
+          "rime": "re",
+          "procede": "Peinture réaliste",
+          "effet": "Empathie pour les enfants pauvres.",
+          "champs": [
+            "pauvrete"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "roman",
+      "titre": "Roman",
+      "date": "1870",
+      "auteur": "Arthur Rimbaud",
+      "recueil": "Cahiers de Douai",
+      "contexte": [
+        "Évocation de l'insouciance de la jeunesse, des premiers émois amoureux à dix-sept ans."
+      ],
+      "forme": [
+        "Quatrains d'alexandrins."
+      ],
+      "champs": {
+        "jeunesse": {
+          "label": "Jeunesse & Liberté"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Alexandrins"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "On n'est pas sérieux quand on a dix-sept ans.",
+          "rime": "ans",
+          "procede": "Déclaration initiale célèbre",
+          "effet": "Ton léger et ironique sur soi-même.",
+          "champs": [
+            "jeunesse"
+          ]
+        }
+      ]
+    }
+  ]
+}

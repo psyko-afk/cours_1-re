@@ -1,0 +1,82 @@
+{
+  "page": 4,
+  "recueil": "Cahiers de Douai",
+  "auteur": "Arthur Rimbaud",
+  "poemes": [
+    {
+      "id": "chatiment_de_tartufe",
+      "titre": "Châtiment de Tartufe",
+      "date": "1870",
+      "auteur": "Arthur Rimbaud",
+      "contexte": [
+        "Critique violente de l'hypocrisie religieuse et de la censure napoléonienne."
+      ],
+      "forme": [
+        "Alexandrins, sonnet ou quatrains."
+      ],
+      "champs": {
+        "religion": {
+          "label": "Religion & Hypocrisie"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Alexandrins"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "Il a plu, ce matin, bénitier de misère,",
+          "rime": "ère",
+          "procede": "Ironie",
+          "effet": "Dénonciation de la bigoterie.",
+          "champs": [
+            "religion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "venus_anadyomène",
+      "titre": "Vénus anadyomène",
+      "date": "1870",
+      "auteur": "Arthur Rimbaud",
+      "contexte": [
+        "Parodie de la naissance de Vénus et de la peinture académique.",
+        "Peinture réaliste et caustique d'une femme sortant de son bain."
+      ],
+      "forme": [
+        "Forme de sonnet (alexandrins)."
+      ],
+      "champs": {
+        "corps": {
+          "label": "Corps & Parodie"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Alexandrins"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "Comme du vieux cercueil en formica...",
+          "rime": "a",
+          "procede": "Comparaison dégradante",
+          "effet": "Briser le mythe de la beauté classique.",
+          "champs": [
+            "corps"
+          ]
+        }
+      ]
+    }
+  ]
+}

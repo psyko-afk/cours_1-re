@@ -1,0 +1,82 @@
+{
+  "formule": {
+    "titre": "La formule de l'analyse",
+    "texte": "Le procédé [nom] dans « [citation] » produit l'effet [effet], ce qui montre que [idée de l'axe].",
+    "exemple": "L'hyperbole dans « cent milliers d'hommes » produit une impression de massacre sans limites, ce qui montre que la guerre détruit les hommes en masse."
+  },
+  "axes": [
+    {
+      "titre": "La guerre : une violence absurde qui déshumanise",
+      "idee": "Les soldats ne sont plus des hommes mais de la matière broyée par une machine.",
+      "items": [
+        {
+          "vers": "v. 1-2",
+          "citation": "les crachats rouges de la mitraille / Sifflent tout le jour",
+          "procede": "Métaphore (« crachats »), couleur rouge, allitération en [s] et [f]",
+          "analyse": "La mitraille est présentée comme une bouche qui crache : la violence est méprisante et sale. Le rouge annonce le sang et les sifflantes imitent les balles. « Tout le jour » rend cette violence interminable."
+        },
+        {
+          "vers": "v. 5-6",
+          "citation": "une folie épouvantable broie / Et fait de cent milliers d'hommes un tas fumant",
+          "procede": "Personnification, verbe « broie », hyperbole, réification (« un tas »)",
+          "analyse": "La folie agit comme une machine, sans responsable. Les hommes deviennent un « tas », comme de la viande, et « fumant » suggère la chair encore chaude : la déshumanisation est totale."
+        }
+      ]
+    },
+    {
+      "titre": "Le contraste avec la nature et le pathétique",
+      "idee": "La beauté sereine de la nature rend l'horreur plus insupportable et pousse le lecteur à s'indigner.",
+      "items": [
+        {
+          "vers": "v. 2 et v. 7",
+          "citation": "l'infini du ciel bleu / dans l'été, dans l'herbe, dans ta joie",
+          "procede": "Antithèse de couleurs (bleu / rouge), répétition de « dans », personnification de la nature",
+          "analyse": "Le ciel infini et calme s'oppose au rouge du sang. La triple répétition de « dans » fait entrer les morts dans un décor d'été heureux : la « joie » de la nature est choquante."
+        },
+        {
+          "vers": "v. 7-8",
+          "citation": "Pauvres morts ! […] Nature ! ô toi qui fis ces hommes saintement !…",
+          "procede": "Exclamations, apostrophe, tiret, points de suspension, adverbe « saintement »",
+          "analyse": "Le poète s'adresse à la nature comme à une créatrice, ce qui donne au poème un ton pathétique. « Saintement » rappelle que ces hommes étaient purs à leur naissance : leur destruction est un scandale."
+        }
+      ]
+    },
+    {
+      "titre": "La satire d'un Dieu indifférent et d'une Église cupide",
+      "idee": "Le vrai mal est l'indifférence d'un Dieu et l'argent d'une Église qui profite de la douleur.",
+      "items": [
+        {
+          "vers": "v. 9-10",
+          "citation": "Il est un Dieu, qui rit aux nappes damassées / Des autels, à l'encens, aux grands calices d'or",
+          "procede": "Tiret, verbe « rit », énumération, champ lexical du luxe",
+          "analyse": "Le tiret marque une rupture brutale. Le verbe « rit » est cruel au milieu du massacre. L'énumération du luxe (nappes, encens, or) oppose le faste de l'Église à la misère des soldats et de leurs mères."
+        },
+        {
+          "vers": "v. 11",
+          "citation": "Qui dans le bercement des hosannah s'endort",
+          "procede": "Ironie, métaphore du « bercement », verbe « s'endort » en fin de vers",
+          "analyse": "Les chants de louange servent de berceuse. Dieu dort pendant que les hommes meurent : cette image l'accuse de passivité."
+        },
+        {
+          "vers": "v. 12-14",
+          "citation": "des mères, ramassées / Dans l'angoisse, et pleurant sous leur vieux bonnet noir, / Lui donnent un gros sou lié dans leur mouchoir !",
+          "procede": "Enjambement, détail réaliste, adjectif ironique « gros », exclamation finale",
+          "analyse": "Le corps courbé et le « vieux bonnet noir » disent le deuil et la pauvreté. Le « gros sou », noué dans un mouchoir, est une aumône minuscule : Dieu ne se réveille que pour l'argent des plus pauvres. La chute est une dénonciation."
+        }
+      ]
+    }
+  ],
+  "progression": "Le fait (la guerre) → la réaction (pathétique, nature) → l'accusation (Dieu et l'Église). On passe du constat à la révolte.",
+  "transitions": [
+    "Après avoir montré la déshumanisation par la guerre, il faut voir comment le poète fait ressentir cette horreur par contraste et par pathétique.",
+    "Cette indignation ne s'arrête pas à la guerre : elle trouve un coupable dans le dernier mouvement, introduit par le tiret du vers 9."
+  ],
+  "conclusion": {
+    "bilan": "Rimbaud construit son sonnet comme un acte d'accusation : la guerre déshumanise, la nature par contraste rend l'horreur sensible, et le véritable mal est l'indifférence et la cupidité de ceux qui prétendent parler au nom de Dieu.",
+    "ouvertures": [
+      "« Le Dormeur du val » (Rimbaud, 1870) : même contraste entre une nature heureuse et la mort d'un soldat.",
+      "Voltaire, « Candide », chapitre 3 : la satire de la « boucherie héroïque ».",
+      "Victor Hugo, « Les Châtiments » (1853) : poésie satirique contre Napoléon III."
+    ]
+  }
+}

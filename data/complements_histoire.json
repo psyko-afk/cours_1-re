@@ -1,0 +1,90 @@
+{
+ "note": "Chapitres absents du fichier de cours, rédigés d'après les objectifs du programme officiel. À comparer avec ton cours.",
+ "themes_titres": [
+  "Thème 1 : L'Europe face aux révolutions",
+  "Thème 2 : La France dans l'Europe des nationalités : politique et société (1848-1871)",
+  "Thème 3 : La Troisième République avant 1914 : un régime politique, un empire colonial",
+  "Thème 4 : La Première Guerre mondiale : le « suicide de l'Europe » et la fin des empires européens"
+ ],
+ "renommer": [
+  {
+   "theme": 2,
+   "de": "Chapitre 2 : Métropole et colonies (1870-1914)",
+   "vers": "Chapitre 3 : Métropole et colonies (1870-1914)"
+  }
+ ],
+ "chapitres": [
+  {
+   "theme": 2,
+   "apres": "Chapitre 1 : La mise en œuvre du projet républicain (1870-1914)",
+   "titre": "Chapitre 2 : Permanences et mutations de la société française jusqu'en 1914",
+   "objectif": "Objectif du chapitre : Montrer les spécificités de la société française qui connaît une révolution industrielle importante tout en demeurant majoritairement rurale.",
+   "complement": true,
+   "sections": [
+    {
+     "titre": "I. Industrialisation et progrès techniques",
+     "contenu": "<strong>A. La seconde révolution industrielle</strong><br>À partir des années 1880, de nouvelles industries et de nouvelles énergies se développent : électricité, chimie, acier, pétrole, automobile. Les expositions universelles de 1889 et 1900 montrent ces progrès.<br><br><strong>B. Une France qui reste majoritairement rurale</strong><br>Malgré l'industrialisation, un peu plus de la moitié des Français vit encore à la campagne en 1911. Le monde rural connaît des difficultés : concurrence des produits agricoles étrangers, crise de la vigne (phylloxéra), baisse des prix, exode rural. L'État répond par le protectionnisme (tarifs Méline, 1892) et les agriculteurs s'organisent en syndicats et coopératives (les syndicats sont autorisés en 1884).",
+     "points_passage": []
+    },
+    {
+     "titre": "II. La question ouvrière et le mouvement ouvrier",
+     "contenu": "<strong>A. Des conditions de vie et de travail difficiles</strong><br>Les ouvriers subissent de longues journées, de bas salaires et l'insécurité de l'emploi. Les revendications portent sur les salaires et la journée de huit heures. Le 1er mai devient une journée de manifestation (Fourmies, 1891).<br><br><strong>B. L'organisation du mouvement ouvrier et la législation sociale</strong><ul><li>1884 : loi qui autorise les syndicats.</li><li>1895 : création de la CGT ; 1906 : charte d'Amiens (syndicalisme révolutionnaire).</li><li>1905 : unification des socialistes dans la SFIO (Jean Jaurès).</li><li>Lois sociales : accidents du travail (1898), repos hebdomadaire (1906), retraites ouvrières et paysannes (1910).</li></ul>",
+     "points_passage": []
+    },
+    {
+     "titre": "III. Immigration et place des femmes",
+     "contenu": "<strong>A. L'immigration et la place des étrangers</strong><br>Avec le besoin de main-d'œuvre, la France devient un pays d'immigration (Belges, Italiens surtout). Les étrangers sont parfois victimes de xénophobie (violences d'Aigues-Mortes contre des ouvriers italiens, 1893). La loi de 1889 élargit l'accès à la nationalité française.<br><br><strong>B. L'évolution de la place des femmes</strong><br>Les femmes travaillent (ouvrières, domestiques, paysannes) mais restent inégales : elles n'ont pas le droit de vote et la femme mariée est juridiquement soumise à son mari. Quelques évolutions : lycées de jeunes filles (1880), rétablissement du divorce (1884), mouvement féministe et suffragiste.",
+     "points_passage": []
+    }
+   ]
+  },
+  {
+   "theme": 3,
+   "apres": "Chapitre 1 : Un embrasement mondial et ses grandes étapes (1914-1918)",
+   "titre": "Chapitre 2 : Les sociétés en guerre : des civils acteurs et victimes de la guerre",
+   "objectif": "Objectif du chapitre : Souligner l'implication des sociétés, des économies, des sciences et des techniques dans une guerre longue.",
+   "complement": true,
+   "sections": [
+    {
+     "titre": "I. Une guerre économique, industrielle et scientifique",
+     "contenu": "<strong>A. La mobilisation de l'économie</strong><br>La guerre dure et exige des quantités énormes d'armes et de munitions. Les États dirigent l'économie (en France, Albert Thomas à l'Armement), s'endettent (emprunts nationaux), organisent le rationnement et contrôlent l'information (censure, propagande).<br><br><strong>B. La mobilisation des sciences et des techniques</strong><br>La science et la technique servent la guerre : gaz de combat, chars, aviation, radiologie médicale. Marie Curie en est un exemple.",
+     "points_passage": []
+    },
+    {
+     "titre": "II. Les civils acteurs et victimes",
+     "contenu": "<strong>A. Les femmes et la mobilisation des civils</strong><br>Les hommes sont au front : les femmes travaillent dans les usines (« munitionnettes »), aux champs, dans les services. Ce travail change leur place dans la société, mais pas immédiatement leurs droits politiques (en France, le droit de vote n'est obtenu qu'en 1944).<br><br><strong>B. Les civils victimes et la fatigue des sociétés</strong><br>Les civils subissent les occupations, les bombardements, les pénuries et le blocus. En 1917, la lassitude provoque des grèves dans plusieurs pays en guerre.",
+     "points_passage": []
+    },
+    {
+     "titre": "III. Le génocide des Arméniens",
+     "contenu": "<strong>A. Les Arméniens dans l'Empire ottoman</strong><br>Minorité chrétienne de l'Empire ottoman, les Arméniens subissent déjà des massacres en 1894-1896.<br><br><strong>B. Le génocide de 1915</strong><br>Pendant la guerre, le gouvernement jeune-turc organise l'arrestation des élites, la déportation des populations vers le désert de Syrie et des massacres. Plus d'un million de personnes meurent. Le 24 mai 1915, la France, le Royaume-Uni et la Russie dénoncent des « crimes contre l'humanité et la civilisation ».",
+     "points_passage": []
+    }
+   ]
+  },
+  {
+   "theme": 3,
+   "apres": "Chapitre 2 : Les sociétés en guerre : des civils acteurs et victimes de la guerre",
+   "titre": "Chapitre 3 : Sortir de la guerre : la tentative de construction d'un ordre des nations démocratiques",
+   "objectif": "Objectif du chapitre : Étudier les différentes manières dont les belligérants sont sortis de la guerre et la difficile construction de la paix.",
+   "complement": true,
+   "sections": [
+    {
+     "titre": "I. Un bilan humain et matériel très lourd",
+     "contenu": "<strong>A. Les pertes</strong><br>La guerre fait environ 9 millions de morts parmi les soldats, dont près de 1,4 million de Français, et de très nombreux blessés et mutilés. Les civils subissent aussi des pertes (famines, déportations, épidémie de grippe espagnole en 1918-1919).<br><br><strong>B. Les destructions</strong><br>Les régions du front (nord-est de la France, Belgique) sont ravagées. Les États sortent endettés, et l'Europe perd sa place économique au profit des États-Unis.",
+     "points_passage": []
+    },
+    {
+     "titre": "II. Les traités de paix et la fin des empires multinationaux",
+     "contenu": "<strong>A. Les principes de Wilson et la Société des Nations</strong><br>Le président américain Wilson propose un ordre fondé sur le droit des peuples à disposer d'eux-mêmes et sur une organisation internationale, la Société des Nations (SDN), créée en 1919-1920. Les États-Unis n'y entrent pas.<br><br><strong>B. Les traités de paix (1919-1923)</strong><ul><li>Versailles (28 juin 1919) : l'Allemagne perd des territoires, doit payer des réparations et réduire son armée. Les Allemands parlent de « diktat ».</li><li>D'autres traités concernent l'Autriche, la Bulgarie, la Hongrie et l'Empire ottoman (Sèvres puis Lausanne).</li><li>Les empires allemand, austro-hongrois, ottoman et russe disparaissent : de nouveaux États apparaissent (Pologne, Tchécoslovaquie, Yougoslavie…), mais avec des minorités et des frustrations.</li></ul>",
+     "points_passage": []
+    },
+    {
+     "titre": "III. Russie, mémoire et conséquences",
+     "contenu": "<strong>A. La Russie jusqu'en 1922</strong><br>Après la révolution de 1917, la guerre civile oppose les Rouges (bolcheviks) et les Blancs, soutenus par des interventions étrangères. Les bolcheviks l'emportent et l'URSS est fondée en 1922.<br><br><strong>B. Les enjeux de mémoire</strong><br>Les sociétés doivent faire le deuil : monuments aux morts, tombe du soldat inconnu (1920), associations d'anciens combattants. La guerre laisse aussi des millions de réfugiés et d'apatrides, pour lesquels le passeport Nansen est créé en 1922.",
+     "points_passage": []
+    }
+   ]
+  }
+ ]
+}

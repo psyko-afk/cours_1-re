@@ -1,0 +1,118 @@
+{
+  "page": 2,
+  "recueil": "Cahiers de Douai",
+  "auteur": "Arthur Rimbaud",
+  "poemes": [
+    {
+      "id": "le_forgeron",
+      "titre": "Le Forgeron",
+      "date": "1870",
+      "auteur": "Arthur Rimbaud",
+      "recueil": "Cahiers de Douai",
+      "contexte": [
+        "Poème engagé situé le 20 juin 1792 au Palais des Tuileries.",
+        "Invective d'un artisan-forgeron s'adressant directement au roi Louis XVI."
+      ],
+      "forme": [
+        "Grand poème épique et dramatique.",
+        "Mètre : alexandrins.",
+        "Rimes suivies et croisées selon les répliques."
+      ],
+      "champs": {
+        "peuple": {
+          "label": "Peuple & Révolution"
+        },
+        "colere": {
+          "label": "Révolte & Invective"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Alexandrins"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "Le bras sur un marteau gigantesque, effrayant,",
+          "rime": "an",
+          "procede": "Adjectifs valorisants",
+          "effet": "Force héroïque du travailleur.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 2,
+          "strophe": "s1",
+          "texte": "L'œil large, le Forgeron regardait le Monarque :",
+          "rime": "ar",
+          "procede": "Confrontation visuelle",
+          "effet": "Face-à-face entre le peuple et le pouvoir.",
+          "champs": [
+            "colere"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soleil_et_chair",
+      "titre": "Soleil et chair",
+      "date": "Mai 1870",
+      "auteur": "Arthur Rimbaud",
+      "recueil": "Cahiers de Douai",
+      "contexte": [
+        "Hymne au monde antique, au paganisme et à la beauté du corps humain.",
+        "Rimbaud y oppose la joie païenne au christianisme qu'il juge triste."
+      ],
+      "forme": [
+        "Poème divisé en quatre parties.",
+        "Mètre : alexandrins.",
+        "Rimes suivies et croisées."
+      ],
+      "champs": {
+        "paganisme": {
+          "label": "Antiquité & Paganisme"
+        },
+        "soleil": {
+          "label": "Soleil & Vie"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Alexandrins"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "Le Soleil, le foyer de tendresse et de vie,",
+          "rime": "i",
+          "procede": "Personnification / Métaphore",
+          "effet": "Le soleil vu comme source universelle.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 2,
+          "strophe": "s1",
+          "texte": "Verse l'amour brûlant à la terre ravie.",
+          "rime": "i",
+          "procede": "Champ lexical de la passion",
+          "effet": "Liaison charnelle entre le ciel et la terre.",
+          "champs": [
+            "paganisme",
+            "soleil"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "page": 3,
+  "recueil": "Cahiers de Douai",
+  "auteur": "Arthur Rimbaud",
+  "poemes": [
+    {
+      "id": "ophelie",
+      "titre": "Ophélie",
+      "date": "1870",
+      "auteur": "Arthur Rimbaud",
+      "recueil": "Cahiers de Douai",
+      "contexte": [
+        "Inspiré du personnage d'Ophélie dans Hamlet de Shakespeare.",
+        "Poème sur la mort, la jeunesse et la fuite de l'eau."
+      ],
+      "forme": [
+        "Strophes de quatre vers (quatrains).",
+        "Mètre : alexandrins."
+      ],
+      "champs": {
+        "mort": {
+          "label": "Mort & Eau"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Alexandrins"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "Sur l'onde calme et noire où dorment les étoiles",
+          "rime": "s",
+          "procede": "Allitérations en -l",
+          "effet": "Douceur mélancolique de l'eau.",
+          "champs": [
+            "mort"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bal_des_pendus",
+      "titre": "Bal des pendus",
+      "date": "1870",
+      "auteur": "Arthur Rimbaud",
+      "recueil": "Cahiers de Douai",
+      "contexte": [
+        "Poème macabre et grotesque, inspiré d'une danse macabre médiévale.",
+        "Mise en scène de squelettes qui dansent dans le vent."
+      ],
+      "forme": [
+        "Quatrains en octosyllabes.",
+        "Ton satirique et macabre."
+      ],
+      "champs": {
+        "macabre": {
+          "label": "Macabre & Danse"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Octosyllabes"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "Au gibet, noir bourreau, grincent",
+          "rime": "ent",
+          "procede": "Sonorités grinçantes",
+          "effet": "Atmosphère sinistre.",
+          "champs": [
+            "macabre"
+          ]
+        }
+      ]
+    }
+  ]
+}

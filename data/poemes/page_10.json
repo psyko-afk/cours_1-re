@@ -1,0 +1,83 @@
+{
+  "page": 10,
+  "recueil": "Cahiers de Douai",
+  "auteur": "Arthur Rimbaud",
+  "poemes": [
+    {
+      "id": "la_maline",
+      "titre": "La Maline",
+      "date": "1870",
+      "auteur": "Arthur Rimbaud",
+      "recueil": "Cahiers de Douai",
+      "contexte": [
+        "Scène de cuisine coquine et provocante avec une servante."
+      ],
+      "forme": [
+        "Quatrains."
+      ],
+      "champs": {
+        "sensualite": {
+          "label": "Coquinerie & Cuisine"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Quatrains"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "Dans la salle à manger brune et toute parfumée",
+          "rime": "ée",
+          "procede": "Atmosphère feutrée",
+          "effet": "Cadre de l'intimité domestique.",
+          "champs": [
+            "sensualite"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leclatante_victoire_de_saarbruck",
+      "titre": "L'Éclatante Victoire de Saarbruck",
+      "date": "1870",
+      "auteur": "Arthur Rimbaud",
+      "recueil": "Cahiers de Douai",
+      "contexte": [
+        "Satire politique féroce de la guerre et de la propagande impériale."
+      ],
+      "forme": [
+        "Alexandrins."
+      ],
+      "champs": {
+        "satire": {
+          "label": "Satire & Guerre"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Alexandrins"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "Çà! le militarisme a bu quelques napoléons,",
+          "rime": "ons",
+          "procede": "Ironie mordante",
+          "effet": "Dénonciation de la stupidité militaire.",
+          "champs": [
+            "satire"
+          ]
+        }
+      ]
+    }
+  ]
+}

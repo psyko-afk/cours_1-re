@@ -1,0 +1,64 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Atelier du commentaire</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&display=swap">
+<style>
+/* Layout : une feuille de cahier Seyès (lignes bleues, marge rouge) ; navigation par onglets, contenu en une colonne lisible, panneau latéral pour le poème. */
+:root {
+  --bg: #F3F5FA;
+  --surface: #FFFFFF;
+  --surface-2: #E8ECF6;
+  --ink: #142038;
+  --ink-2: #4A5675;
+  --line: #D3DAEA;
+  --stylo: #2A55C9;
+  --on-stylo: #FFFFFF;
+  --rouge: #C8323F;
+  --or: #9A6200;
+  --vert: #1F7A4D;
+  --font-ui: "Bricolage Grotesque", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-text: "Newsreader", Georgia, "Times New Roman", serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0E1424; --surface: #151C30; --surface-2: #1D2640; --ink: #E8ECF8; --ink-2: #A3AECB;
+    --line: #2B3552; --stylo: #7FA2FF; --on-stylo: #0E1424; --rouge: #F0707A; --or: #E3B04B; --vert: #5CCB93;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0E1424; --surface: #151C30; --surface-2: #1D2640; --ink: #E8ECF8; --ink-2: #A3AECB;
+  --line: #2B3552; --stylo: #7FA2FF; --on-stylo: #0E1424; --rouge: #F0707A; --or: #E3B04B; --vert: #5CCB93;
+  color-scheme: dark;
+}
+body { background: var(--bg); color: var(--ink); }
+</style>
+<link rel="stylesheet" href="style.css">
+
+<header class="top">
+  <div class="top-inner">
+    <div class="brand">
+      <p class="eyebrow">Cahier de révision · Première</p>
+      <h1>Atelier du commentaire</h1>
+      <p class="lead">Français, histoire et géographie : cours, lexique, cartes de révision et quiz.</p>
+    </div>
+    <button class="theme-btn" id="theme-btn" type="button" aria-label="Changer de thème">Thème</button>
+  </div>
+  <nav class="subjects" id="subjects" aria-label="Matières"></nav>
+  <nav class="tabs" id="tabs" aria-label="Sections"></nav>
+</header>
+
+<main id="main" class="wrap" tabindex="-1">
+  <p class="loading" id="loading">Chargement des fiches…</p>
+</main>
+
+<footer class="foot">
+  <p>Les analyses sont faites pour t'aider à comprendre la méthode. Compare toujours avec ton cours et les consignes de ton professeur.</p>
+</footer>
+
+<script src="cours.js"></script>
+<script src="app.js"></script>
+
+</body></html>

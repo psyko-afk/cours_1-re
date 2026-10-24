@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "q": "Dans l'ordre, quelles sont les étapes de la méthode ?",
+      "options": [
+        "Introduction, brouillon, axes, conclusion",
+        "Lecture et contexte, brouillon, CIA et axes, introduction, développement et conclusion",
+        "Axes, brouillon, introduction, lecture",
+        "Paraphrase, analyse, conclusion"
+      ],
+      "bonne": 1,
+      "explication": "On lit et on situe, on relève, on construit les idées et les axes, puis on rédige : l'introduction vient après les axes, car elle les annonce."
+    },
+    {
+      "q": "Que veut dire CIA dans cette méthode ?",
+      "options": ["Cadre – Enjeu – Axe", "Citation – Idée – Analyse", "Contexte – Introduction – Argument", "Conclusion – Idée – Axe"],
+      "bonne": 1,
+      "explication": "Pour chaque trouvaille : une citation, l'idée qu'elle illustre, et l'analyse (procédé et effet)."
+    },
+    {
+      "q": "Combien d'axes faut-il construire dans la fiche sur « Le Mal » ?",
+      "options": ["1", "2", "3", "7"],
+      "bonne": 2,
+      "explication": "Le fichier d'analyse demande exactement 3 éléments, chacun avec une idée, des citations et une analyse."
+    },
+    {
+      "q": "Qu'est-ce qui marque la rupture entre les deux mouvements du poème ?",
+      "options": ["Un changement de rimes uniquement", "Le tiret du vers 9", "Un changement de narrateur", "Le titre"],
+      "bonne": 1,
+      "explication": "Le tiret avant « Il est un Dieu » ouvre le second mouvement : de la guerre à Dieu et à l'Église."
+    },
+    {
+      "q": "« un tas fumant » est…",
+      "options": ["Une comparaison", "Une réification", "Une personnification", "Un oxymore"],
+      "bonne": 1,
+      "explication": "Les hommes sont traités comme une chose : c'est la réification (ou chosification)."
+    },
+    {
+      "q": "Que montre la construction « Tandis que… Tandis que… » avant « Il est un Dieu » ?",
+      "options": [
+        "Que Dieu est la cause de la guerre",
+        "La simultanéité : pendant que les hommes meurent, Dieu rit",
+        "Que le poète hésite",
+        "Que le poème est un récit"
+      ],
+      "bonne": 1,
+      "explication": "Les huit premiers vers sont des subordonnées : la principale arrive au vers 9. Cela met Dieu en regard de la guerre."
+    },
+    {
+      "q": "Pourquoi « saintement » (v. 8) est-il important ?",
+      "options": [
+        "Il rime avec « fumant » et rappelle que les hommes étaient purs à leur naissance, ce qui rend leur destruction scandaleuse",
+        "Il décrit le comportement des soldats",
+        "Il montre que Rimbaud est religieux",
+        "Il n'a pas d'effet particulier"
+      ],
+      "bonne": 0,
+      "explication": "Le mot rime avec « tas fumant » : le contraste entre la création pure et la destruction est ainsi souligné."
+    },
+    {
+      "q": "Quel est l'effet de « gros sou lié dans leur mouchoir » ?",
+      "options": [
+        "Il montre que les mères sont riches",
+        "Il montre le peu d'argent des mères pauvres, que Dieu accepte quand même : la chute est ironique",
+        "Il décrit un objet sans importance",
+        "Il fait rire le lecteur"
+      ],
+      "bonne": 1,
+      "explication": "Le « gros sou » est une petite somme, mais précieuse pour elles. Dieu ne se réveille que pour cet argent."
+    },
+    {
+      "q": "Quelle phrase est une analyse, et non une paraphrase ?",
+      "options": [
+        "Rimbaud dit que les hommes sont morts dans l'herbe.",
+        "Le verbe « broie » fait de la folie une machine, ce qui montre que la guerre agit sans responsable.",
+        "Il y a beaucoup de morts dans le poème.",
+        "Le poète parle de la guerre puis de Dieu."
+      ],
+      "bonne": 1,
+      "explication": "Une analyse nomme un procédé, dit son effet et le relie à l'idée du texte."
+    },
+    {
+      "q": "Une bonne problématique est…",
+      "options": [
+        "Un titre : « La guerre dans Le Mal »",
+        "Une question précise sur le sens ou l'effet du texte",
+        "Une question dont la réponse est oui ou non",
+        "Un résumé du texte"
+      ],
+      "bonne": 1,
+      "explication": "Elle porte sur la manière dont le texte produit son sens : « Comment… ? » ou « En quoi… ? » avec une idée à démontrer."
+    }
+  ]
+}
