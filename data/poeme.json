@@ -1,0 +1,219 @@
+{
+  "titre": "Le Mal",
+  "auteur": "Arthur Rimbaud",
+  "date": "octobre 1870",
+  "recueil": "Cahiers de Douai",
+  "contexte": [
+    "Rimbaud a 16 ans. Ses poèmes de l'automne 1870 sont recopiés dans le recueil dit des Cahiers de Douai.",
+    "La France est en guerre contre la Prusse. Après la défaite de Sedan (1er-2 septembre 1870), Napoléon III est capturé et la République est proclamée (4 septembre).",
+    "Rimbaud est républicain, anticlérical et hostile à la guerre menée par le pouvoir impérial. « Le Roi » vise donc probablement l'Empereur ; à vérifier avec ton cours.",
+    "Même période que « Le Dormeur du val » : même contraste entre la nature paisible et la mort des soldats."
+  ],
+  "forme": [
+    "Sonnet en alexandrins : 2 quatrains puis 2 tercets.",
+    "Rimes : ABAB CDCD EFF EGG (quatrains à rimes croisées, tercets à rimes plates et embrassées). Le sonnet est irrégulier par ce schéma des tercets.",
+    "Deux mouvements, séparés par le tiret du vers 9 : la guerre (v. 1-8) puis Dieu et l'Église (v. 9-14).",
+    "Les huit premiers vers sont des subordonnées introduites par « Tandis que » : la proposition principale n'arrive qu'au vers 9, avec « Il est un Dieu, qui rit »."
+  ],
+  "champs": {
+    "guerre": {
+      "label": "La guerre"
+    },
+    "nature": {
+      "label": "La nature"
+    },
+    "religion": {
+      "label": "Dieu et l'Église"
+    },
+    "peuple": {
+      "label": "Les pauvres"
+    }
+  },
+  "strophes": [
+    {
+      "id": 1,
+      "nom": "Quatrain 1",
+      "vers": "v. 1-4",
+      "resume": "Le champ de bataille : bruit, feu, sang, un Roi qui se moque."
+    },
+    {
+      "id": 2,
+      "nom": "Quatrain 2",
+      "vers": "v. 5-8",
+      "resume": "Les hommes sont broyés, la nature est apostrophée : cri de colère."
+    },
+    {
+      "id": 3,
+      "nom": "Tercet 1",
+      "vers": "v. 9-11",
+      "resume": "Volte : un Dieu rit, dort, entouré de luxe."
+    },
+    {
+      "id": 4,
+      "nom": "Tercet 2",
+      "vers": "v. 12-14",
+      "resume": "Il ne se réveille que pour le sou des mères pauvres."
+    }
+  ],
+  "lignes": [
+    {
+      "n": 1,
+      "strophe": 1,
+      "rime": "A",
+      "champs": [
+        "guerre"
+      ],
+      "texte": "Tandis que les crachats rouges de la mitraille",
+      "procede": "Anaphore de « Tandis que » (v. 1 et v. 5) ; métaphore « crachats rouges de la mitraille »",
+      "effet": "Le « crachat » est sale et méprisant : la guerre est ignoble, pas glorieuse. Le rouge annonce le sang. La subordonnée laisse la phrase en suspens, ce qui crée une attente."
+    },
+    {
+      "n": 2,
+      "strophe": 1,
+      "rime": "B",
+      "champs": [
+        "guerre",
+        "nature"
+      ],
+      "texte": "Sifflent tout le jour par l'infini du ciel bleu ;",
+      "procede": "Allitération en [s] et [f] ; hyperbole « tout le jour », « l'infini » ; antithèse des couleurs rouge / bleu",
+      "effet": "Les sifflantes imitent le sifflement des balles. La durée et l'immensité montrent que la violence est sans fin, et le ciel bleu, calme, ne réagit pas."
+    },
+    {
+      "n": 3,
+      "strophe": 1,
+      "rime": "A",
+      "champs": [
+        "guerre"
+      ],
+      "texte": "Qu'écarlates ou verts, près du Roi qui les raille,",
+      "procede": "Synecdoque de couleur « écarlates ou verts » ; verbe « raille » ; rime raille / mitraille",
+      "effet": "Les soldats sont réduits à la couleur de leur uniforme : ils sont interchangeables. Le Roi se moque d'eux. La rime associe sa moquerie à la mitraille."
+    },
+    {
+      "n": 4,
+      "strophe": 1,
+      "rime": "B",
+      "champs": [
+        "guerre"
+      ],
+      "texte": "Croulent les bataillons en masse dans le feu ;",
+      "procede": "Inversion du verbe en début de vers ; verbe « croulent » ; rime feu / bleu",
+      "effet": "Les bataillons s'effondrent comme des murs. Le mot « masse » les rend anonymes. La rime oppose le feu au ciel bleu."
+    },
+    {
+      "n": 5,
+      "strophe": 2,
+      "rime": "C",
+      "champs": [
+        "guerre"
+      ],
+      "texte": "Tandis qu'une folie épouvantable broie",
+      "procede": "Personnification de « une folie » ; verbe « broie » ; adjectif subjectif « épouvantable »",
+      "effet": "La guerre devient une machine folle qui agit toute seule. Le poète donne son jugement avec « épouvantable ». Le verbe est rejeté en fin de vers, ce qui l'appuie."
+    },
+    {
+      "n": 6,
+      "strophe": 2,
+      "rime": "D",
+      "champs": [
+        "guerre"
+      ],
+      "texte": "Et fait de cent milliers d'hommes un tas fumant ;",
+      "procede": "Hyperbole « cent milliers » ; réification « un tas » ; participe « fumant »",
+      "effet": "Les hommes deviennent un tas de matière, comme de la viande. « Fumant » suggère le sang et la chair encore chauds. Ce vers est le plus choquant du poème."
+    },
+    {
+      "n": 7,
+      "strophe": 2,
+      "rime": "C",
+      "champs": [
+        "nature",
+        "guerre"
+      ],
+      "texte": "– Pauvres morts ! dans l'été, dans l'herbe, dans ta joie,",
+      "procede": "Tiret et exclamation ; répétition de « dans » (énumération ternaire) ; personnification de la nature (« ta joie ») ; rime joie / broie",
+      "effet": "La voix du poète éclate : registre pathétique. La nature entoure les cadavres de beauté et de joie, ce qui est choquant. La rime lie la joie à ce qui broie."
+    },
+    {
+      "n": 8,
+      "strophe": 2,
+      "rime": "D",
+      "champs": [
+        "nature",
+        "religion"
+      ],
+      "texte": "Nature ! ô toi qui fis ces hommes saintement !…",
+      "procede": "Apostrophe lyrique « ô toi » ; exclamation ; points de suspension ; adverbe « saintement » ; rime saintement / fumant",
+      "effet": "La nature est invoquée comme une créatrice, à la place de Dieu. « Saintement » dit la pureté de la création, et la rime avec « fumant » rend la destruction plus scandaleuse. Les points de suspension marquent une voix brisée."
+    },
+    {
+      "n": 9,
+      "strophe": 3,
+      "rime": "E",
+      "champs": [
+        "religion"
+      ],
+      "texte": "– Il est un Dieu, qui rit aux nappes damassées",
+      "procede": "Tiret (rupture) ; tournure solennelle « Il est un Dieu » ; verbe « rit » ; « nappes damassées » ; rime damassées / ramassées",
+      "effet": "La phrase principale arrive enfin et commence comme une profession de foi, mais pour dire un Dieu qui rit pendant le massacre. Le luxe des nappes s'oppose, par la rime, aux mères « ramassées » du vers 12."
+    },
+    {
+      "n": 10,
+      "strophe": 3,
+      "rime": "F",
+      "champs": [
+        "religion"
+      ],
+      "texte": "Des autels, à l'encens, aux grands calices d'or ;",
+      "procede": "Énumération ternaire avec gradation vers « or » ; champ lexical du culte et de la richesse ; adjectif « grands » ; rime or / s'endort",
+      "effet": "L'Église est montrée par ce qu'elle possède, avec une accumulation de richesse. « Grands » est ironique. La rime associe l'or au sommeil de Dieu."
+    },
+    {
+      "n": 11,
+      "strophe": 3,
+      "rime": "F",
+      "champs": [
+        "religion"
+      ],
+      "texte": "Qui dans le bercement des hosannah s'endort,",
+      "procede": "Ironie : les « hosannah » (chants de louange) deviennent un « bercement » ; verbe « s'endort » en fin de vers",
+      "effet": "Les prières servent de berceuse. Dieu dort pendant que les hommes meurent : il est passif et coupable d'indifférence."
+    },
+    {
+      "n": 12,
+      "strophe": 4,
+      "rime": "E",
+      "champs": [
+        "religion",
+        "peuple"
+      ],
+      "texte": "Et se réveille, quand des mères, ramassées",
+      "procede": "Antithèse « s'endort » / « se réveille » ; subordonnée « quand… » ; enjambement ; rime ramassées / damassées",
+      "effet": "On attend un réveil par compassion ; la suite montre que c'est par intérêt. Le mot « mères » ajoute le pathos."
+    },
+    {
+      "n": 13,
+      "strophe": 4,
+      "rime": "G",
+      "champs": [
+        "peuple"
+      ],
+      "texte": "Dans l'angoisse, et pleurant sous leur vieux bonnet noir,",
+      "procede": "Enjambement « ramassées / Dans l'angoisse » ; détail réaliste « vieux bonnet noir » ; rime noir / mouchoir",
+      "effet": "Le corps courbé des mères est visible. Le bonnet noir dit à la fois le deuil et la pauvreté paysanne."
+    },
+    {
+      "n": 14,
+      "strophe": 4,
+      "rime": "G",
+      "champs": [
+        "peuple",
+        "religion"
+      ],
+      "texte": "Lui donnent un gros sou lié dans leur mouchoir !",
+      "procede": "Chute du sonnet ; adjectif ironique « gros sou » ; détail concret « lié dans leur mouchoir » ; exclamation finale",
+      "effet": "Un sou est peu, mais « gros » pour elles, qui l'ont noué avec soin. Dieu ne se réveille que pour cet argent, et l'exclamation dit l'indignation. La pointe finale renverse l'image d'un Dieu bon."
+    }
+  ]
+}
