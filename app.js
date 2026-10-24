@@ -11,10 +11,9 @@
     set(k, v) { try { localStorage.setItem('atelier:' + k, JSON.stringify(v)); } catch (e) { /* ignoré */ } }
   };
 
-  const FILES = ['methode', 'cia', 'intro', 'procedes', 'quiz',
+  const FILES = ['methode', 'poeme', 'cia', 'intro', 'procedes', 'quiz',
     'histoire', 'geographie', 'frise', 'programme_histoire', 'programme_geographie',
     'complements_histoire', 'complements_geographie', 'capacites', 'methodes'];
-
   async function loadData() {
     const out = {};
     await Promise.all(FILES.map(async (f) => {
@@ -22,12 +21,6 @@
       if (!r.ok) throw new Error('Fichier introuvable : ' + f);
       out[f] = await r.json();
     }));
-
-    // Charger l'index de pagination des poèmes à la place du fichier unique poeme.json
-    const rIndex = await fetch('data/index.json');
-    if (!rIndex.ok) throw new Error('Fichier introuvable : index.json');
-    out.indexPoemes = await rIndex.json();
-
     return out;
   }
 
@@ -123,109 +116,138 @@
   }
 
   function viewPoeme(d) {
-    const indexData = d.indexPoemes;
-    const totalPages = indexData.pagination.total_pages;
-    let currentPage = 1;
-
+    const p = d.poeme;
     const el = document.createElement('section');
     el.className = 'view';
     el.id = 'view-poeme';
-
-    const chargerEtAfficherPage = async (numPage) => {
-      el.innerHTML = `<p class="intro">Chargement de la page ${numPage}...</p>`;
-      try {
-        const reponse = await fetch(`data/poemes/page_${numPage}.json`);
-        if (!reponse.ok) throw new Error(`Impossible de charger la page ${numPage}`);
-        const pageData = await reponse.json();
-        rendreContenuPage(pageData, numPage);
-      } catch (err) {
-        el.innerHTML = `<p class="error">Erreur : ${esc(err.message)}</p>`;
-      }
-    };
-
-    const rendreContenuPage = (pageData, numPage) => {
-      const poemes = pageData.poemes || [];
-
-      let htmlPoemes = '';
-      poemes.forEach((p, pIdx) => {
-        const strophes = p.strophes || [];
-        const lignes = p.lignes || [];
-        
-        let htmlStrophes = '';
-        strophes.forEach((s) => {
-          htmlStrophes += `<div class="stanza"><p class="stanza-label">${esc(s.nom)} · ${esc(s.vers)}</p>`;
-          lignes.filter((l) => l.strophe === s.id).forEach((l) => {
-            htmlStrophes += `<button class="line" type="button" data-n="${l.n}" data-poeme="${pIdx}" aria-pressed="false">
-              <span class="n">${l.n}</span><span class="t">${esc(l.texte)}</span><span class="r">${esc(l.rime)}</span></button>`;
-          });
-          htmlStrophes += '</div>';
-        });
-
-        htmlPoemes += `
-          <div class="card poem-block" style="margin-bottom: 2rem;">
-            <h2>« ${esc(p.titre)} » (${esc(p.date)})</h2>
-            <p class="small">${esc(p.recueil)} - ${esc(p.auteur)}</p>
-            <div class="poem">${htmlStrophes}</div>
-          </div>
-        `;
+    const stanzaOf = (id) => p.strophes.find((s) => s.id === id);
+    let html = '';
+    p.strophes.forEach((s) => {
+      html += `<div class="stanza"><p class="stanza-label">${esc(s.nom)} · ${esc(s.vers)}</p>`;
+      p.lignes.filter((l) => l.strophe === s.id).forEach((l) => {
+        html += `<button class="line" type="button" data-n="${l.n}" aria-pressed="false">
+          <span class="n">${l.n}</span><span class="t">${esc(l.texte)}</span><span class="r">${esc(l.rime)}</span></button>`;
       });
-
-      el.innerHTML = `
-        <h2>Cahiers de Douai - Poèmes (Page ${numPage} sur ${totalPages})</h2>
-        <div class="pagination-controls" style="margin: 1rem 0; display: flex; gap: 1rem;">
-          <button class="btn" id="prev-page" ${numPage <= 1 ? 'disabled' : ''}>← Page précédente</button>
-          <button class="btn" id="next-page" ${numPage >= totalPages ? 'disabled' : ''}>Page suivante →</button>
-        </div>
-        <div class="poeme-layout">
-          <div style="flex: 1;">${htmlPoemes}</div>
-        </div>
-      `;
-
-      const btnPrev = el.querySelector('#prev-page');
-      const btnNext = el.querySelector('#next-page');
-
-      if (btnPrev) {
-        btnPrev.addEventListener('click', () => {
-          if (currentPage > 1) {
-            currentPage--;
-            chargerEtAfficherPage(currentPage);
-          }
-        });
-      }
-
-      if (btnNext) {
-        btnNext.addEventListener('click', () => {
-          if (currentPage < totalPages) {
-            currentPage++;
-            chargerEtAfficherPage(currentPage);
-          }
-        });
-      }
+      html += '</div>';
+    });
+    el.innerHTML = `
+      <h2>« ${esc(p.titre)} », ${esc(p.auteur)}</h2>
+      <p class="intro">${esc(p.date)}, ${esc(p.recueil)}. Clique sur un vers pour voir le procédé et son effet. Les lettres à droite sont les rimes.</p>
+      <div class="chips legend" id="legend" role="group" aria-label="Surligner un champ lexical">
+        ${Object.entries(p.champs).map(([k, v]) => `<button class="chip" type="button" data-champ="${k}" aria-pressed="false">${esc(v.label)}</button>`).join('')}
+        <button class="chip" type="button" id="rimes-btn" aria-pressed="true">Rimes</button>
+      </div>
+      <div class="poeme-layout">
+        <div class="card poem" id="poem">${html}</div>
+        <aside class="side" aria-live="polite">
+          <div class="card" id="detail">
+            <h3>Vers sélectionné</h3>
+            <p class="small">Choisis un vers dans le poème pour afficher son analyse.</p>
+          </div>
+          <div class="card">
+            <h3>Contexte</h3>
+            <ul class="bullets">${p.contexte.map((c) => '<li>' + esc(c) + '</li>').join('')}</ul>
+            <h3 style="margin-top:.8rem">Forme et structure</h3>
+            <ul class="bullets">${p.forme.map((c) => '<li>' + esc(c) + '</li>').join('')}</ul>
+          </div>
+        </aside>
+      </div>`;
+    const active = new Set();
+    const lines = $$('.line', el);
+    const refresh = () => {
+      lines.forEach((b) => {
+        const l = p.lignes[+b.dataset.n - 1];
+        b.classList.remove('hl-guerre', 'hl-nature', 'hl-religion', 'hl-peuple', 'dim');
+        if (active.size) {
+          const hit = l.champs.find((c) => active.has(c));
+          if (hit) b.classList.add('hl-' + hit); else b.classList.add('dim');
+        }
+      });
     };
-
-    chargerEtAfficherPage(currentPage);
+    $$('[data-champ]', el).forEach((b) => b.addEventListener('click', () => {
+      const k = b.dataset.champ;
+      if (active.has(k)) active.delete(k); else active.add(k);
+      b.setAttribute('aria-pressed', active.has(k));
+      refresh();
+    }));
+    $('#rimes-btn', el).addEventListener('click', (ev) => {
+      const b = ev.currentTarget;
+      const on = b.getAttribute('aria-pressed') !== 'true';
+      b.setAttribute('aria-pressed', on);
+      $('#poem', el).classList.toggle('rimes-off', !on);
+    });
+    const show = (n) => {
+      const l = p.lignes[n - 1];
+      lines.forEach((b) => b.setAttribute('aria-pressed', String(+b.dataset.n === n)));
+      $('#detail', el).innerHTML = `
+        <h3>Vers ${l.n} · ${esc(stanzaOf(l.strophe).nom)}</h3>
+        <p class="quote">${esc(l.texte)}</p>
+        <p class="label">Procédés</p><p>${esc(l.procede)}</p>
+        <p class="label">Effet</p><p>${esc(l.effet)}</p>
+        <p class="small">Rime : ${esc(l.rime)} · Champs : ${l.champs.map((c) => esc(p.champs[c].label)).join(', ')}</p>`;
+    };
+    lines.forEach((b) => b.addEventListener('click', () => show(+b.dataset.n)));
+    show(1);
     return el;
   }
 
   function viewCia(d) {
+    const c = d.cia;
     const el = document.createElement('section');
     el.className = 'view';
     el.id = 'view-cia';
-    const c = d.cia || { axes: [], conclusion: { ouvertures: [] } };
     el.innerHTML = `
-      <h2>CIA et axes</h2>
+      <h2>CIA : de la citation aux axes</h2>
+      <p class="intro">CIA veut dire Citation, Idée, Analyse. Pour chaque idée, tu cites le texte, tu nommes le procédé, puis tu expliques son effet. Les idées proches forment un axe.</p>
       <div class="formula">
-        <h3>${esc(c.formule?.titre || 'Formule CIA')}</h3>
-        <p><b>${esc(c.formule?.texte || '')}</b></p>
+        <h3>${esc(c.formule.titre)}</h3>
+        <p><b>${esc(c.formule.texte)}</b></p>
+        <p class="small">Exemple : ${esc(c.formule.exemple)}</p>
       </div>
       <div class="stack">
-        ${(c.axes || []).map((a, ai) => `
+        ${c.axes.map((a, ai) => `
           <article class="card axe">
             <p class="tag">Axe ${ai + 1}</p>
             <h3>${esc(a.titre)}</h3>
             <p class="idee">${esc(a.idee)}</p>
+            ${a.items.map((it) => `
+              <div class="cia">
+                <p class="where">${esc(it.vers)}</p>
+                <p class="quote">« ${esc(it.citation)} »</p>
+                <div class="btnrow">
+                  <button class="btn ghost" type="button" data-show="p">Je cherche le procédé</button>
+                  <button class="btn ghost" type="button" data-show="a" disabled>Voir l'analyse</button>
+                </div>
+                <div class="reveal">
+                  <div class="box" data-box="p" hidden><b>Procédé</b>${esc(it.procede)}</div>
+                  <div class="box" data-box="a" hidden><b>Analyse</b>${esc(it.analyse)}</div>
+                </div>
+              </div>`).join('')}
           </article>`).join('')}
+      </div>
+      <div class="card" style="margin-top:1rem">
+        <h3>Progression et transitions</h3>
+        <p>${esc(c.progression)}</p>
+        <ul class="bullets">${c.transitions.map((t) => '<li>' + esc(t) + '</li>').join('')}</ul>
+      </div>
+      <div class="card" style="margin-top:1rem">
+        <h3>Conclusion : bilan et ouverture</h3>
+        <p>${esc(c.conclusion.bilan)}</p>
+        <p class="small">Ouvertures possibles :</p>
+        <ul class="bullets">${c.conclusion.ouvertures.map((t) => '<li>' + esc(t) + '</li>').join('')}</ul>
       </div>`;
+    $$('.cia', el).forEach((blk) => {
+      const [bp, ba] = $$('button', blk);
+      bp.addEventListener('click', () => {
+        $('[data-box="p"]', blk).hidden = false;
+        bp.disabled = true;
+        ba.disabled = false;
+      });
+      ba.addEventListener('click', () => {
+        $('[data-box="a"]', blk).hidden = false;
+        ba.disabled = true;
+      });
+    });
     return el;
   }
 
@@ -237,7 +259,49 @@
     el.id = 'view-intro';
     el.innerHTML = `
       <h2>Écrire l'introduction</h2>
-      <p class="intro">Remplis les cinq cases dans l'ordre.</p>`;
+      <p class="intro">Remplis les cinq cases dans l'ordre. En bas, ton introduction s'assemble. Tu peux afficher le modèle de chaque partie pour te comparer. Ce que tu écris est gardé dans ce navigateur.</p>
+      <div class="stack">
+        ${it.parties.map((p, i) => `
+          <article class="card intro-part" data-k="${esc(p.cle)}">
+            <p class="tag">${i + 1} sur ${it.parties.length}</p>
+            <h3>${esc(p.titre)}</h3>
+            <p>${esc(p.consigne)}</p>
+            <div class="amorces" aria-label="Débuts de phrase possibles">${p.amorces.map((a) => '<span>' + esc(a) + '</span>').join('')}</div>
+            <textarea id="ta-${esc(p.cle)}" aria-label="${esc(p.titre)}" placeholder="Écris ta partie ici…">${esc(saved[p.cle] || '')}</textarea>
+            <div><button class="btn ghost" type="button" data-model>Voir le modèle</button></div>
+            <div class="tip" data-modelbox hidden><b>Modèle :</b> ${esc(p.modele)}<br><span class="small"><b>À éviter :</b> ${esc(p.erreur)}</span></div>
+          </article>`).join('')}
+      </div>
+      <div class="card" style="margin-top:1rem">
+        <h3>Ton introduction</h3>
+        <div class="assemble empty" id="assemble">Ton texte apparaît ici.</div>
+        <p style="margin-top:.6rem"><button class="btn" type="button" id="copy-intro">Copier</button></p>
+        <h3 style="margin-top:1rem">Vérifie</h3>
+        <ul class="checklist">${it.checklist.map((c, i) => `<li><label><input type="checkbox" id="chk-${i}"> <span>${esc(c)}</span></label></li>`).join('')}</ul>
+      </div>`;
+    const asm = $('#assemble', el);
+    const build = () => {
+      const txt = it.parties.map((p) => ($('#ta-' + p.cle, el).value || '').trim()).filter(Boolean).join(' ');
+      asm.textContent = txt || 'Ton texte apparaît ici.';
+      asm.classList.toggle('empty', !txt);
+      return txt;
+    };
+    $$('textarea', el).forEach((ta) => ta.addEventListener('input', () => {
+      const obj = {};
+      it.parties.forEach((p) => { obj[p.cle] = $('#ta-' + p.cle, el).value; });
+      store.set('intro', obj);
+      build();
+    }));
+    $$('[data-model]', el).forEach((b) => b.addEventListener('click', () => {
+      const box = $('[data-modelbox]', b.closest('.card'));
+      box.hidden = !box.hidden;
+      b.textContent = box.hidden ? 'Voir le modèle' : 'Cacher le modèle';
+    }));
+    $('#copy-intro', el).addEventListener('click', (ev) => {
+      const t = build();
+      if (t) copyText(t, ev.currentTarget);
+    });
+    build();
     return el;
   }
 
@@ -246,25 +310,133 @@
     const el = document.createElement('section');
     el.className = 'view';
     el.id = 'view-procedes';
-    el.innerHTML = `<h2>Les procédés à connaître</h2>`;
+    el.innerHTML = `
+      <h2>Les procédés à connaître</h2>
+      <p class="intro">Pour chaque procédé : une définition, un exemple et l'effet à dire dans ton analyse. Un procédé sans effet ne vaut rien.</p>
+      <label for="q" class="small">Chercher un procédé</label><br>
+      <input class="search" id="q" type="search" placeholder="métaphore, hyperbole, enjambement…" autocomplete="off">
+      <div class="chips" id="cats" role="group" aria-label="Filtrer par catégorie">
+        <button class="chip" type="button" data-cat="" aria-pressed="true">Tous</button>
+        ${pr.categories.map((c) => `<button class="chip" type="button" data-cat="${esc(c)}" aria-pressed="false">${esc(c)}</button>`).join('')}
+      </div>
+      <div class="grid2" id="plist"></div>`;
+    let cat = '';
+    const list = $('#plist', el);
+    const render = () => {
+      const q = $('#q', el).value.trim().toLowerCase();
+      const items = pr.procedes.filter((p) => (!cat || p.cat === cat) &&
+        (!q || (p.nom + ' ' + p.def + ' ' + p.ex + ' ' + p.effet).toLowerCase().includes(q)));
+      list.innerHTML = items.length ? items.map((p) => `
+        <article class="card proc">
+          <span class="tag">${esc(p.cat)}</span>
+          <h3>${esc(p.nom)}</h3>
+          <dl>
+            <dt>Définition</dt><dd>${esc(p.def)}</dd>
+            <dt>Exemple</dt><dd>${esc(p.ex)}</dd>
+            <dt>Effet</dt><dd>${esc(p.effet)}</dd>
+          </dl>
+        </article>`).join('') : '<p class="small">Aucun procédé ne correspond.</p>';
+    };
+    $('#q', el).addEventListener('input', render);
+    $$('#cats .chip', el).forEach((b) => b.addEventListener('click', () => {
+      cat = b.dataset.cat;
+      $$('#cats .chip', el).forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
+      render();
+    }));
+    render();
     return el;
   }
 
   function viewQuiz(d) {
+    const qs = d.quiz.questions;
     const el = document.createElement('section');
     el.className = 'view';
     el.id = 'view-quiz';
-    el.innerHTML = `<h2>Quiz</h2>`;
+    el.innerHTML = '<h2>Quiz</h2><p class="intro">Dix questions pour vérifier la méthode et « Le Mal ». Tu vois la correction après chaque réponse.</p><div class="card quiz" id="qbox"></div>';
+    const box = $('#qbox', el);
+    let i = 0, score = 0;
+    const render = () => {
+      if (i >= qs.length) {
+        box.innerHTML = `
+          <p class="count">Terminé</p>
+          <p class="score">${score} / ${qs.length}</p>
+          <p>${score >= 8 ? 'Très bien : la méthode est solide.' : score >= 5 ? 'Bon début : relis les étapes où tu as hésité.' : 'Reprends l\'onglet Méthode, puis recommence.'}</p>
+          <button class="btn" type="button" id="again">Recommencer</button>`;
+        $('#again', box).addEventListener('click', () => { i = 0; score = 0; render(); });
+        return;
+      }
+      const q = qs[i];
+      box.innerHTML = `
+        <p class="count">Question ${i + 1} sur ${qs.length}</p>
+        <p class="q">${esc(q.q)}</p>
+        <ul class="opts">${q.options.map((o, k) => `<li><button class="opt" type="button" data-k="${k}">${esc(o)}</button></li>`).join('')}</ul>
+        <div id="fb" aria-live="polite"></div>`;
+      $$('.opt', box).forEach((b) => b.addEventListener('click', () => {
+        const k = +b.dataset.k;
+        $$('.opt', box).forEach((x) => {
+          x.disabled = true;
+          if (+x.dataset.k === q.bonne) x.classList.add('ok');
+        });
+        if (k === q.bonne) score++; else b.classList.add('ko');
+        $('#fb', box).innerHTML = `<p class="${k === q.bonne ? 'tip' : 'note'}"><b>${k === q.bonne ? 'Juste.' : 'Pas tout à fait.'}</b> ${esc(q.explication)}</p>
+          <p><button class="btn" type="button" id="next">${i + 1 < qs.length ? 'Question suivante' : 'Voir mon score'}</button></p>`;
+        $('#next', box).addEventListener('click', () => { i++; render(); });
+        $('#next', box).focus();
+      }));
+    };
+    render();
     return el;
   }
 
   function viewFiche(d) {
+    const p = d.poeme, c = d.cia, it = d.intro;
+    const intro = it.parties.map((x) => x.modele).join(' ');
+    const lines = [];
+    lines.push('LE MAL (Rimbaud, octobre 1870) : fiche de synthèse');
+    lines.push('');
+    lines.push('CONTEXTE ET FORME');
+    p.contexte.concat(p.forme).forEach((x) => lines.push('- ' + x));
+    lines.push('');
+    lines.push('AXES (CIA)');
+    c.axes.forEach((a, i) => {
+      lines.push('Axe ' + (i + 1) + ' : ' + a.titre);
+      lines.push('  Idée : ' + a.idee);
+      a.items.forEach((x) => lines.push('  - (' + x.vers + ') « ' + x.citation + ' » : ' + x.procede));
+    });
+    lines.push('');
+    lines.push('INTRODUCTION');
+    lines.push(intro);
+    lines.push('');
+    lines.push('OUVERTURES');
+    c.conclusion.ouvertures.forEach((x) => lines.push('- ' + x));
+    const text = lines.join('\n');
     const el = document.createElement('section');
     el.className = 'view';
     el.id = 'view-fiche';
-    el.innerHTML = `<h2>La fiche de synthèse</h2>`;
+    el.innerHTML = `
+      <h2>La fiche de synthèse</h2>
+      <p class="intro">Tout « Le Mal » sur une seule page, à relire avant le devoir.</p>
+      <div class="grid2">
+        <article class="card fiche">
+          <h3>Contexte et forme</h3>
+          <ul>${p.contexte.concat(p.forme).map((x) => '<li>' + esc(x) + '</li>').join('')}</ul>
+          <h3>Introduction (modèle)</h3>
+          <p>${esc(intro)}</p>
+        </article>
+        <article class="card fiche">
+          <h3>Les trois axes</h3>
+          ${c.axes.map((a, i) => `<p><b>Axe ${i + 1} : ${esc(a.titre)}</b><br><span class="small">${esc(a.idee)}</span></p>
+            <ul>${a.items.map((x) => '<li>« ' + esc(x.citation) + ' » (' + esc(x.vers) + ') : ' + esc(x.procede) + '</li>').join('')}</ul>`).join('')}
+          <h3>Ouvertures</h3>
+          <ul>${c.conclusion.ouvertures.map((x) => '<li>' + esc(x) + '</li>').join('')}</ul>
+        </article>
+      </div>
+      <p style="margin-top:1rem"><button class="btn" type="button" id="copy-fiche">Copier la fiche en texte</button></p>`;
+    $('#copy-fiche', el).addEventListener('click', (ev) => copyText(text, ev.currentTarget));
     return el;
   }
+
+  /* ---------- Navigation ---------- */
 
   const FR_VIEWS = [
     { id: 'methode', label: 'Méthode', render: viewMethode },
@@ -315,9 +487,6 @@
     const main = $('#main');
     main.innerHTML = '';
     const all = [];
-    subjects.forEach((s) => s.views.pop() && s.views.forEach((v) => {})); // safe
-    
-    // Simplification du montage des vues
     subjects.forEach((s) => s.views.forEach((v) => {
       const full = s.key + '-' + v.id;
       const box = document.createElement('div');
