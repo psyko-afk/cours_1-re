@@ -1,0 +1,399 @@
+{
+ "page": 7,
+ "recueil": "Cahiers de Douai",
+ "auteur": "Arthur Rimbaud",
+ "poemes": [
+  {
+   "id": "morts_de_quatre_vingt_douze",
+   "titre": "« Morts de Quatre-vingt-douze... »",
+   "date": "1870",
+   "auteur": "Arthur Rimbaud",
+   "recueil": "Cahiers de Douai",
+   "contexte": [
+    "Hommage aux soldats de l'An II morts pour défendre la République."
+   ],
+   "forme": [
+    "Alexandrins."
+   ],
+   "champs": {
+    "histoire": {
+     "label": "Histoire & Patrie"
+    }
+   },
+   "strophes": [
+    {
+     "id": "s1",
+     "nom": "Strophe 1",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s2",
+     "nom": "Strophe 2",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s3",
+     "nom": "Strophe 3",
+     "vers": "Tercet - Alexandrins"
+    },
+    {
+     "id": "s4",
+     "nom": "Strophe 4",
+     "vers": "Tercet - Alexandrins"
+    }
+   ],
+   "lignes": [
+    {
+     "n": 1,
+     "strophe": "s1",
+     "texte": "Morts de Quatre-vingt-douze et de Quatre-vingt-treize,",
+     "rime": "èze",
+     "procede": "Anaphore / Évocation",
+     "effet": "Commémoration héroïque.",
+     "champs": [
+      "histoire"
+     ]
+    },
+    {
+     "n": 2,
+     "strophe": "s1",
+     "texte": "Qui, pâles du baiser fort de la liberté,",
+     "rime": "é",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "histoire"
+     ]
+    },
+    {
+     "n": 3,
+     "strophe": "s1",
+     "texte": "Calmes, sous vos sabots, brisiez le joug qui pèse",
+     "rime": "ès",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "histoire"
+     ]
+    },
+    {
+     "n": 4,
+     "strophe": "s1",
+     "texte": "Sur l'âme et sur le front de toute humanité ;",
+     "rime": "é",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "histoire"
+     ]
+    },
+    {
+     "n": 5,
+     "strophe": "s2",
+     "texte": "Hommes extasiés et grands dans la tourmente,",
+     "rime": "ent",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "histoire"
+     ]
+    },
+    {
+     "n": 6,
+     "strophe": "s2",
+     "texte": "Vous dont les cœurs sautaient d'amour sous les haillons,",
+     "rime": "on",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "histoire"
+     ]
+    },
+    {
+     "n": 7,
+     "strophe": "s2",
+     "texte": "Ô Soldats que la Mort a semés, noble Amante,",
+     "rime": "ant",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "histoire"
+     ]
+    },
+    {
+     "n": 8,
+     "strophe": "s2",
+     "texte": "Pour les régénérer, dans tous les vieux sillons ;",
+     "rime": "on",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "histoire"
+     ]
+    },
+    {
+     "n": 9,
+     "strophe": "s3",
+     "texte": "Vous dont le sang lavait toute grandeur salie,",
+     "rime": "ie",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "histoire"
+     ]
+    },
+    {
+     "n": 10,
+     "strophe": "s3",
+     "texte": "Morts de Valmy, Morts de Fleurus, Morts d'Italie,",
+     "rime": "ie",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "histoire"
+     ]
+    },
+    {
+     "n": 11,
+     "strophe": "s3",
+     "texte": "Ô million de Christs aux yeux sombres et doux ;",
+     "rime": "oux",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "histoire"
+     ]
+    },
+    {
+     "n": 12,
+     "strophe": "s4",
+     "texte": "Nous vous laissions dormir avec la République,",
+     "rime": "ue",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "histoire"
+     ]
+    },
+    {
+     "n": 13,
+     "strophe": "s4",
+     "texte": "Nous, courbés sous les rois comme sous une trique :",
+     "rime": "ue",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "histoire"
+     ]
+    },
+    {
+     "n": 14,
+     "strophe": "s4",
+     "texte": "— Messieurs de Cassagnac nous reparlent de vous !",
+     "rime": "ou",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "histoire"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "le_mal",
+   "titre": "Le Mal",
+   "date": "1870",
+   "auteur": "Arthur Rimbaud",
+   "recueil": "Cahiers de Douai",
+   "contexte": [
+    "Poème pacifiste et anticlérical dénonçant l'horreur de la guerre et l'indifférence de Dieu."
+   ],
+   "forme": [
+    "Sonnet en alexandrins."
+   ],
+   "champs": {
+    "guerre": {
+     "label": "Guerre & Souffrance"
+    }
+   },
+   "strophes": [
+    {
+     "id": "s1",
+     "nom": "Strophe 1",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s2",
+     "nom": "Strophe 2",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s3",
+     "nom": "Strophe 3",
+     "vers": "Tercet - Alexandrins"
+    },
+    {
+     "id": "s4",
+     "nom": "Strophe 4",
+     "vers": "Tercet - Alexandrins"
+    }
+   ],
+   "lignes": [
+    {
+     "n": 1,
+     "strophe": "s1",
+     "texte": "Tandis que les crachats rouges de la mitraille",
+     "rime": "aille",
+     "procede": "Métaphore violente",
+     "effet": "Brutalité de la guerre.",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 2,
+     "strophe": "s1",
+     "texte": "Sifflent tout le jour par l'infini du ciel bleu ;",
+     "rime": "eu",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 3,
+     "strophe": "s1",
+     "texte": "Qu'écarlates ou verts, près du Roi qui les raille,",
+     "rime": "aill",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 4,
+     "strophe": "s1",
+     "texte": "Croulent les bataillons en masse dans le feu ;",
+     "rime": "eu",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 5,
+     "strophe": "s2",
+     "texte": "Tandis qu'une folie épouvantable, broie",
+     "rime": "oie",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 6,
+     "strophe": "s2",
+     "texte": "Et fait de cent milliers d'hommes un tas fumant ;",
+     "rime": "ant",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 7,
+     "strophe": "s2",
+     "texte": "— Pauvres morts ! dans l'été, dans l'herbe, dans ta joie,",
+     "rime": "oie",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 8,
+     "strophe": "s2",
+     "texte": "Nature ! ô toi qui fis ces hommes saintement !… —",
+     "rime": "ent",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 9,
+     "strophe": "s3",
+     "texte": "— Il est un Dieu, qui rit aux nappes damassées",
+     "rime": "ée",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 10,
+     "strophe": "s3",
+     "texte": "Des autels, à l'encens, aux grands calices d'or,",
+     "rime": "or",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 11,
+     "strophe": "s3",
+     "texte": "Qui dans le bercement des hosannah s'endort",
+     "rime": "ort",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 12,
+     "strophe": "s4",
+     "texte": "Et se réveille, quand des mères, ramassées",
+     "rime": "ée",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 13,
+     "strophe": "s4",
+     "texte": "Dans l'angoisse, et pleurant sous leur vieux bonnet noir,",
+     "rime": "oir",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 14,
+     "strophe": "s4",
+     "texte": "Lui donnent un gros sou lié dans leur mouchoir !…",
+     "rime": "oir",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    }
+   ]
+  }
+ ]
+}

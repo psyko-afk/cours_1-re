@@ -1,0 +1,230 @@
+{
+  "recueil": "Cahiers de Douai",
+  "auteur": "Arthur Rimbaud",
+  "dossier": "poeme",
+  "totalPages": 10,
+  "totalPoemes": 20,
+  "totalVers": 773,
+  "pages": [
+    {
+      "page": 1,
+      "fichier": "poeme/page_1.json",
+      "precedent": null,
+      "suivant": "poeme/page_2.json",
+      "poemes": [
+        {
+          "id": "premiere_soiree",
+          "titre": "Première soirée",
+          "date": "1870",
+          "vers": 32,
+          "strophes": 8
+        },
+        {
+          "id": "sensation",
+          "titre": "Sensation",
+          "date": "Mars 1870",
+          "vers": 8,
+          "strophes": 2
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "fichier": "poeme/page_2.json",
+      "precedent": "poeme/page_1.json",
+      "suivant": "poeme/page_3.json",
+      "poemes": [
+        {
+          "id": "le_forgeron",
+          "titre": "Le Forgeron",
+          "date": "1870",
+          "vers": 180,
+          "strophes": 6
+        },
+        {
+          "id": "soleil_et_chair",
+          "titre": "Soleil et chair",
+          "date": "Mai 1870",
+          "vers": 129,
+          "strophes": 4
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "fichier": "poeme/page_3.json",
+      "precedent": "poeme/page_2.json",
+      "suivant": "poeme/page_4.json",
+      "poemes": [
+        {
+          "id": "ophelie",
+          "titre": "Ophélie",
+          "date": "1870",
+          "vers": 36,
+          "strophes": 9
+        },
+        {
+          "id": "bal_des_pendus",
+          "titre": "Bal des pendus",
+          "date": "1870",
+          "vers": 44,
+          "strophes": 11
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "fichier": "poeme/page_4.json",
+      "precedent": "poeme/page_3.json",
+      "suivant": "poeme/page_5.json",
+      "poemes": [
+        {
+          "id": "chatiment_de_tartufe",
+          "titre": "Châtiment de Tartufe",
+          "date": "1870",
+          "vers": 14,
+          "strophes": 4
+        },
+        {
+          "id": "venus_anadyomène",
+          "titre": "Vénus anadyomène",
+          "date": "1870",
+          "vers": 14,
+          "strophes": 4
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "fichier": "poeme/page_5.json",
+      "precedent": "poeme/page_4.json",
+      "suivant": "poeme/page_6.json",
+      "poemes": [
+        {
+          "id": "les_reparties_de_nina",
+          "titre": "Les Réparties de Nina",
+          "date": "1870",
+          "vers": 100,
+          "strophes": 25
+        },
+        {
+          "id": "a_la_musique",
+          "titre": "À la musique",
+          "date": "1870",
+          "vers": 36,
+          "strophes": 9
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "fichier": "poeme/page_6.json",
+      "precedent": "poeme/page_5.json",
+      "suivant": "poeme/page_7.json",
+      "poemes": [
+        {
+          "id": "les_effares",
+          "titre": "Les Effarés",
+          "date": "1870",
+          "vers": 36,
+          "strophes": 12
+        },
+        {
+          "id": "roman",
+          "titre": "Roman",
+          "date": "1870",
+          "vers": 32,
+          "strophes": 8
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "fichier": "poeme/page_7.json",
+      "precedent": "poeme/page_6.json",
+      "suivant": "poeme/page_8.json",
+      "poemes": [
+        {
+          "id": "morts_de_quatre_vingt_douze",
+          "titre": "« Morts de Quatre-vingt-douze... »",
+          "date": "1870",
+          "vers": 14,
+          "strophes": 4
+        },
+        {
+          "id": "le_mal",
+          "titre": "Le Mal",
+          "date": "1870",
+          "vers": 14,
+          "strophes": 4
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "fichier": "poeme/page_8.json",
+      "precedent": "poeme/page_7.json",
+      "suivant": "poeme/page_9.json",
+      "poemes": [
+        {
+          "id": "rages_de_cesars",
+          "titre": "Rages de Césars",
+          "date": "1870",
+          "vers": 14,
+          "strophes": 4
+        },
+        {
+          "id": "reve_pour_l_hiver",
+          "titre": "Rêvé pour l'hiver",
+          "date": "1870",
+          "vers": 14,
+          "strophes": 4
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "fichier": "poeme/page_9.json",
+      "precedent": "poeme/page_8.json",
+      "suivant": "poeme/page_10.json",
+      "poemes": [
+        {
+          "id": "le_dormeur_du_val",
+          "titre": "Le Dormeur du val",
+          "date": "1870",
+          "vers": 14,
+          "strophes": 4
+        },
+        {
+          "id": "au_cabaret_vert",
+          "titre": "Au Cabaret-Vert",
+          "date": "1870",
+          "vers": 14,
+          "strophes": 4
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "fichier": "poeme/page_10.json",
+      "precedent": "poeme/page_9.json",
+      "suivant": null,
+      "poemes": [
+        {
+          "id": "la_maline",
+          "titre": "La Maline",
+          "date": "1870",
+          "vers": 14,
+          "strophes": 4
+        },
+        {
+          "id": "leclatante_victoire_de_saarbruck",
+          "titre": "L'Éclatante Victoire de Saarbruck",
+          "date": "1870",
+          "vers": 14,
+          "strophes": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+{
+ "page": 9,
+ "recueil": "Cahiers de Douai",
+ "auteur": "Arthur Rimbaud",
+ "poemes": [
+  {
+   "id": "le_dormeur_du_val",
+   "titre": "Le Dormeur du val",
+   "date": "1870",
+   "auteur": "Arthur Rimbaud",
+   "recueil": "Cahiers de Douai",
+   "contexte": [
+    "Sonnet célèbre sur la mort d'un jeune soldat dans la nature, punchline tragique au dernier vers."
+   ],
+   "forme": [
+    "Sonnet en alexandrins."
+   ],
+   "champs": {
+    "guerre": {
+     "label": "Nature & Mort"
+    }
+   },
+   "strophes": [
+    {
+     "id": "s1",
+     "nom": "Strophe 1",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s2",
+     "nom": "Strophe 2",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s3",
+     "nom": "Strophe 3",
+     "vers": "Tercet - Alexandrins"
+    },
+    {
+     "id": "s4",
+     "nom": "Strophe 4",
+     "vers": "Tercet - Alexandrins"
+    }
+   ],
+   "lignes": [
+    {
+     "n": 1,
+     "strophe": "s1",
+     "texte": "C'est un trou de verdure où chante une rivière",
+     "rime": "ère",
+     "procede": "Décor bucolique trompeur",
+     "effet": "Mise en scène d'un cadre paisible.",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 2,
+     "strophe": "s1",
+     "texte": "Accrochant follement aux herbes des haillons",
+     "rime": "on",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 3,
+     "strophe": "s1",
+     "texte": "D'argent ; où le soleil, de la montagne fière,",
+     "rime": "ièr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 4,
+     "strophe": "s1",
+     "texte": "Luit : c'est un petit val qui mousse de rayons.",
+     "rime": "on",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 5,
+     "strophe": "s2",
+     "texte": "Un soldat jeune, bouche ouverte, tête nue,",
+     "rime": "ue",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 6,
+     "strophe": "s2",
+     "texte": "Et la nuque baignant dans le frais cresson bleu,",
+     "rime": "eu",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 7,
+     "strophe": "s2",
+     "texte": "Dort ; il est étendu dans l'herbe, sous la nue,",
+     "rime": "ue",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 8,
+     "strophe": "s2",
+     "texte": "Pâle dans son lit vert où la lumière pleut.",
+     "rime": "eut",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 9,
+     "strophe": "s3",
+     "texte": "Les pieds dans les glaïeuls, il dort. Souriant",
+     "rime": "iant",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 10,
+     "strophe": "s3",
+     "texte": "Comme sourirait un enfant malade, il fait un somme :",
+     "rime": "omm",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 11,
+     "strophe": "s3",
+     "texte": "Nature, berce-le chaudement : il a froid.",
+     "rime": "oid",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 12,
+     "strophe": "s4",
+     "texte": "Les parfums ne font pas frissonner sa narine ;",
+     "rime": "in",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 13,
+     "strophe": "s4",
+     "texte": "Il dort dans le soleil, la main sur sa poitrine",
+     "rime": "in",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    },
+    {
+     "n": 14,
+     "strophe": "s4",
+     "texte": "Tranquille. Il a deux trous rouges au côté droit.",
+     "rime": "oit",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "guerre"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "au_cabaret_vert",
+   "titre": "Au Cabaret-Vert",
+   "date": "1870",
+   "auteur": "Arthur Rimbaud",
+   "recueil": "Cahiers de Douai",
+   "contexte": [
+    "Évocation réaliste et joyeuse d'une halte dans une auberge lors d'une marche."
+   ],
+   "forme": [
+    "Quatrains d'alexandrins."
+   ],
+   "champs": {
+    "voyage": {
+     "label": "Marche & Convivialité"
+    }
+   },
+   "strophes": [
+    {
+     "id": "s1",
+     "nom": "Strophe 1",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s2",
+     "nom": "Strophe 2",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s3",
+     "nom": "Strophe 3",
+     "vers": "Tercet - Alexandrins"
+    },
+    {
+     "id": "s4",
+     "nom": "Strophe 4",
+     "vers": "Tercet - Alexandrins"
+    }
+   ],
+   "lignes": [
+    {
+     "n": 1,
+     "strophe": "s1",
+     "texte": "Depuis huit jours, j'avais déchiré mes bottines",
+     "rime": "in",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "voyage"
+     ]
+    },
+    {
+     "n": 2,
+     "strophe": "s1",
+     "texte": "Aux cailloux des chemins. J'entrais à Charleroi.",
+     "rime": "oi",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "voyage"
+     ]
+    },
+    {
+     "n": 3,
+     "strophe": "s1",
+     "texte": "— Au Cabaret-Vert : je demandai des tartines",
+     "rime": "in",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "voyage"
+     ]
+    },
+    {
+     "n": 4,
+     "strophe": "s1",
+     "texte": "De beurre et du jambon qui fût à moitié froid,",
+     "rime": "oid",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "voyage"
+     ]
+    },
+    {
+     "n": 5,
+     "strophe": "s2",
+     "texte": "Bienheureux, j'allongeai les jambes sous la table",
+     "rime": "abl",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "voyage"
+     ]
+    },
+    {
+     "n": 6,
+     "strophe": "s2",
+     "texte": "Verte : je contemplai les sujets très naïfs",
+     "rime": "aïf",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "voyage"
+     ]
+    },
+    {
+     "n": 7,
+     "strophe": "s2",
+     "texte": "De la tapisserie. — Et ce fut adorable,",
+     "rime": "abl",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "voyage"
+     ]
+    },
+    {
+     "n": 8,
+     "strophe": "s2",
+     "texte": "Quand la fille aux tétons énormes, aux yeux vifs,",
+     "rime": "if",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "voyage"
+     ]
+    },
+    {
+     "n": 9,
+     "strophe": "s3",
+     "texte": "— Celle-là, ce n'est pas un baiser qui l'épeure ! —",
+     "rime": "eur",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "voyage"
+     ]
+    },
+    {
+     "n": 10,
+     "strophe": "s3",
+     "texte": "Rieuse, m'apporta des tartines de beurre,",
+     "rime": "eurr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "voyage"
+     ]
+    },
+    {
+     "n": 11,
+     "strophe": "s3",
+     "texte": "Du jambon tiède, dans un plat colorié,",
+     "rime": "ié",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "voyage"
+     ]
+    },
+    {
+     "n": 12,
+     "strophe": "s4",
+     "texte": "Du jambon rose et blanc parfumé d'une gousse",
+     "rime": "ouss",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "voyage"
+     ]
+    },
+    {
+     "n": 13,
+     "strophe": "s4",
+     "texte": "D'ail, — et m'emplit la chope immense, avec sa mousse",
+     "rime": "ouss",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "voyage"
+     ]
+    },
+    {
+     "n": 14,
+     "strophe": "s4",
+     "texte": "Que dorait un rayon de soleil arriéré.",
+     "rime": "é",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "voyage"
+     ]
+    }
+   ]
+  }
+ ]
+}

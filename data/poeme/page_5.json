@@ -1,0 +1,1717 @@
+{
+ "page": 5,
+ "recueil": "Cahiers de Douai",
+ "auteur": "Arthur Rimbaud",
+ "poemes": [
+  {
+   "id": "les_reparties_de_nina",
+   "titre": "Les Réparties de Nina",
+   "date": "1870",
+   "auteur": "Arthur Rimbaud",
+   "recueil": "Cahiers de Douai",
+   "contexte": [
+    "Dialogue poétique entre un jeune poète et une jeune fille (Nina) sur fond de campagne."
+   ],
+   "forme": [
+    "Strophes de vers impairs et pairs."
+   ],
+   "champs": {
+    "amour": {
+     "label": "Jeunesse & Amour"
+    }
+   },
+   "strophes": [
+    {
+     "id": "s1",
+     "nom": "Strophe 1",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s2",
+     "nom": "Strophe 2",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s3",
+     "nom": "Strophe 3",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s4",
+     "nom": "Strophe 4",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s5",
+     "nom": "Strophe 5",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s6",
+     "nom": "Strophe 6",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s7",
+     "nom": "Strophe 7",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s8",
+     "nom": "Strophe 8",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s9",
+     "nom": "Strophe 9",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s10",
+     "nom": "Strophe 10",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s11",
+     "nom": "Strophe 11",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s12",
+     "nom": "Strophe 12",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s13",
+     "nom": "Strophe 13",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s14",
+     "nom": "Strophe 14",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s15",
+     "nom": "Strophe 15",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s16",
+     "nom": "Strophe 16",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s17",
+     "nom": "Strophe 17",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s18",
+     "nom": "Strophe 18",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s19",
+     "nom": "Strophe 19",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s20",
+     "nom": "Strophe 20",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s21",
+     "nom": "Strophe 21",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s22",
+     "nom": "Strophe 22",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s23",
+     "nom": "Strophe 23",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s24",
+     "nom": "Strophe 24",
+     "vers": "Quatrain"
+    },
+    {
+     "id": "s25",
+     "nom": "Strophe 25",
+     "vers": "Quatrain"
+    }
+   ],
+   "lignes": [
+    {
+     "n": 1,
+     "strophe": "s1",
+     "texte": "Lui — Ta poitrine sur ma poitrine,",
+     "rime": "in",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 2,
+     "strophe": "s1",
+     "texte": "Hein ? nous irions,",
+     "rime": "ion",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 3,
+     "strophe": "s1",
+     "texte": "Ayant de l'air plein la narine,",
+     "rime": "in",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 4,
+     "strophe": "s1",
+     "texte": "Aux frais rayons",
+     "rime": "on",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 5,
+     "strophe": "s2",
+     "texte": "Du bon matin bleu, qui vous baigne",
+     "rime": "aign",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 6,
+     "strophe": "s2",
+     "texte": "Du vin de jour ?…",
+     "rime": "our",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 7,
+     "strophe": "s2",
+     "texte": "Quand tout le bois frissonnant saigne",
+     "rime": "aign",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 8,
+     "strophe": "s2",
+     "texte": "Muet d'amour",
+     "rime": "our",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 9,
+     "strophe": "s3",
+     "texte": "De chaque branche, gouttes vertes,",
+     "rime": "ert",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 10,
+     "strophe": "s3",
+     "texte": "Des bourgeons clairs,",
+     "rime": "air",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 11,
+     "strophe": "s3",
+     "texte": "On sent dans les choses ouvertes",
+     "rime": "ert",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 12,
+     "strophe": "s3",
+     "texte": "Frémir des chairs :",
+     "rime": "air",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 13,
+     "strophe": "s4",
+     "texte": "Tu plongerais dans la luzerne",
+     "rime": "ern",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 14,
+     "strophe": "s4",
+     "texte": "Ton blanc peignoir,",
+     "rime": "oir",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 15,
+     "strophe": "s4",
+     "texte": "Rosant à l'air ce bleu qui cerne",
+     "rime": "ern",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 16,
+     "strophe": "s4",
+     "texte": "Ton grand œil noir,",
+     "rime": "oir",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 17,
+     "strophe": "s5",
+     "texte": "Amoureuse de la campagne,",
+     "rime": "agn",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 18,
+     "strophe": "s5",
+     "texte": "Semant partout,",
+     "rime": "out",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 19,
+     "strophe": "s5",
+     "texte": "Comme une mousse de Champagne,",
+     "rime": "agn",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 20,
+     "strophe": "s5",
+     "texte": "Ton rire fou :",
+     "rime": "ou",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 21,
+     "strophe": "s6",
+     "texte": "Riant à moi, brutal d'ivresse,",
+     "rime": "ess",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 22,
+     "strophe": "s6",
+     "texte": "Qui te prendrais.",
+     "rime": "ai",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 23,
+     "strophe": "s6",
+     "texte": "Comme cela, — la belle tresse,",
+     "rime": "ess",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 24,
+     "strophe": "s6",
+     "texte": "Oh ! — qui boirais",
+     "rime": "ai",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 25,
+     "strophe": "s7",
+     "texte": "Ton goût de framboise et de fraise,",
+     "rime": "ais",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 26,
+     "strophe": "s7",
+     "texte": "Ô chair de fleur !",
+     "rime": "eur",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 27,
+     "strophe": "s7",
+     "texte": "Riant au vent vif qui te baise",
+     "rime": "ais",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 28,
+     "strophe": "s7",
+     "texte": "Comme un voleur,",
+     "rime": "eur",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 29,
+     "strophe": "s8",
+     "texte": "Au rose églantier qui t'embête",
+     "rime": "êt",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 30,
+     "strophe": "s8",
+     "texte": "Aimablement :",
+     "rime": "ent",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 31,
+     "strophe": "s8",
+     "texte": "Riant surtout, ô folle tête,",
+     "rime": "êt",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 32,
+     "strophe": "s8",
+     "texte": "À ton amant !…",
+     "rime": "ant",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 33,
+     "strophe": "s9",
+     "texte": "Ta poitrine sur ma poitrine,",
+     "rime": "in",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 34,
+     "strophe": "s9",
+     "texte": "Mêlant nos voix,",
+     "rime": "oix",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 35,
+     "strophe": "s9",
+     "texte": "Lents, nous gagnerions la ravine,",
+     "rime": "in",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 36,
+     "strophe": "s9",
+     "texte": "Puis les grands bois !…",
+     "rime": "oi",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 37,
+     "strophe": "s10",
+     "texte": "Puis, comme une petite morte,",
+     "rime": "ort",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 38,
+     "strophe": "s10",
+     "texte": "Le cœur pâmé,",
+     "rime": "é",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 39,
+     "strophe": "s10",
+     "texte": "Tu me dirais que je te porte,",
+     "rime": "ort",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 40,
+     "strophe": "s10",
+     "texte": "L'œil mi-fermé…",
+     "rime": "é",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 41,
+     "strophe": "s11",
+     "texte": "Je te porterais, palpitante,",
+     "rime": "ant",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 42,
+     "strophe": "s11",
+     "texte": "Dans le sentier :",
+     "rime": "ier",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 43,
+     "strophe": "s11",
+     "texte": "L'oiseau filerait son andante :",
+     "rime": "ant",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 44,
+     "strophe": "s11",
+     "texte": "Au Noisetier…",
+     "rime": "ier",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 45,
+     "strophe": "s12",
+     "texte": "Je te parlerais dans ta bouche :",
+     "rime": "ouch",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 46,
+     "strophe": "s12",
+     "texte": "J'irais, pressant",
+     "rime": "ant",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 47,
+     "strophe": "s12",
+     "texte": "Ton corps, comme une enfant qu'on couche,",
+     "rime": "ouch",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 48,
+     "strophe": "s12",
+     "texte": "Ivre du sang",
+     "rime": "ang",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 49,
+     "strophe": "s13",
+     "texte": "Qui coule, bleu, sous ta peau blanche",
+     "rime": "anch",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 50,
+     "strophe": "s13",
+     "texte": "Aux tons rosés :",
+     "rime": "é",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 51,
+     "strophe": "s13",
+     "texte": "Et te parlant la langue franche…",
+     "rime": "anch",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 52,
+     "strophe": "s13",
+     "texte": "Tiens !… — que tu sais…",
+     "rime": "ai",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 53,
+     "strophe": "s14",
+     "texte": "Nos grands bois sentiraient la sève",
+     "rime": "èv",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 54,
+     "strophe": "s14",
+     "texte": "Et le soleil",
+     "rime": "eil",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 55,
+     "strophe": "s14",
+     "texte": "Sablerait d'or fin leur grand rêve",
+     "rime": "êv",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 56,
+     "strophe": "s14",
+     "texte": "Vert et vermeil.",
+     "rime": "eil",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 57,
+     "strophe": "s15",
+     "texte": "Le soir ?… Nous reprendrons la route",
+     "rime": "out",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 58,
+     "strophe": "s15",
+     "texte": "Blanche qui court",
+     "rime": "ourt",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 59,
+     "strophe": "s15",
+     "texte": "Flânant, comme un troupeau qui broute,",
+     "rime": "out",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 60,
+     "strophe": "s15",
+     "texte": "Tout à l'entour",
+     "rime": "our",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 61,
+     "strophe": "s16",
+     "texte": "Les bons vergers à l'herbe bleue",
+     "rime": "eue",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 62,
+     "strophe": "s16",
+     "texte": "Aux pommiers tors !",
+     "rime": "or",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 63,
+     "strophe": "s16",
+     "texte": "Comme on les sent toute une lieue",
+     "rime": "ieue",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 64,
+     "strophe": "s16",
+     "texte": "Leurs parfums forts !",
+     "rime": "ort",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 65,
+     "strophe": "s17",
+     "texte": "Nous regagnerons le village",
+     "rime": "ag",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 66,
+     "strophe": "s17",
+     "texte": "Au ciel mi-noir ;",
+     "rime": "oir",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 67,
+     "strophe": "s17",
+     "texte": "Et ça sentira le laitage",
+     "rime": "ag",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 68,
+     "strophe": "s17",
+     "texte": "Dans l'air du soir ;",
+     "rime": "oir",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 69,
+     "strophe": "s18",
+     "texte": "Ça sentira l'étable, pleine",
+     "rime": "ein",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 70,
+     "strophe": "s18",
+     "texte": "De fumiers chauds,",
+     "rime": "aud",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 71,
+     "strophe": "s18",
+     "texte": "Pleine d'un lent rythme d'haleine,",
+     "rime": "ein",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 72,
+     "strophe": "s18",
+     "texte": "Et de grands dos",
+     "rime": "o",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 73,
+     "strophe": "s19",
+     "texte": "Blanchissant sous quelque lumière ;",
+     "rime": "ièr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 74,
+     "strophe": "s19",
+     "texte": "Et, tout là-bas,",
+     "rime": "a",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 75,
+     "strophe": "s19",
+     "texte": "Une vache fientera, fière,",
+     "rime": "ièr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 76,
+     "strophe": "s19",
+     "texte": "À chaque pas…",
+     "rime": "a",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 77,
+     "strophe": "s20",
+     "texte": "— Les lunettes de la grand'mère",
+     "rime": "èr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 78,
+     "strophe": "s20",
+     "texte": "Et son nez long",
+     "rime": "ong",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 79,
+     "strophe": "s20",
+     "texte": "Dans son missel ; le pot de bière",
+     "rime": "ièr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 80,
+     "strophe": "s20",
+     "texte": "Cerclé de plomb,",
+     "rime": "omb",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 81,
+     "strophe": "s21",
+     "texte": "Moussant entre les larges pipes",
+     "rime": "ip",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 82,
+     "strophe": "s21",
+     "texte": "Qui, crânement,",
+     "rime": "ent",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 83,
+     "strophe": "s21",
+     "texte": "Fument : les effroyables lippes",
+     "rime": "ipp",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 84,
+     "strophe": "s21",
+     "texte": "Qui, tout fumant,",
+     "rime": "ant",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 85,
+     "strophe": "s22",
+     "texte": "Happent le jambon aux fourchettes",
+     "rime": "ett",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 86,
+     "strophe": "s22",
+     "texte": "Tant, tant et plus :",
+     "rime": "u",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 87,
+     "strophe": "s22",
+     "texte": "Le feu qui claire les couchettes",
+     "rime": "ett",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 88,
+     "strophe": "s22",
+     "texte": "Et les bahuts :",
+     "rime": "ut",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 89,
+     "strophe": "s23",
+     "texte": "Que de choses verrons-nous, chère,",
+     "rime": "èr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 90,
+     "strophe": "s23",
+     "texte": "Dans ces taudis,",
+     "rime": "i",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 91,
+     "strophe": "s23",
+     "texte": "Quand la flamme illumine, claire,",
+     "rime": "air",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 92,
+     "strophe": "s23",
+     "texte": "Les carreaux gris !…",
+     "rime": "i",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 93,
+     "strophe": "s24",
+     "texte": "— Puis, petite et toute nichée",
+     "rime": "ée",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 94,
+     "strophe": "s24",
+     "texte": "Dans les lilas",
+     "rime": "a",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 95,
+     "strophe": "s24",
+     "texte": "Noirs et frais : la vitre cachée,",
+     "rime": "ée",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 96,
+     "strophe": "s24",
+     "texte": "Qui rit là-bas…",
+     "rime": "a",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 97,
+     "strophe": "s25",
+     "texte": "Tu viendras, tu viendras, je t'aime !",
+     "rime": "aim",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 98,
+     "strophe": "s25",
+     "texte": "Ce sera beau.",
+     "rime": "eau",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 99,
+     "strophe": "s25",
+     "texte": "Tu viendras, n'est-ce pas, et même…",
+     "rime": "êm",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 100,
+     "strophe": "s25",
+     "texte": "Elle. — Et mon bureau ?",
+     "rime": "eau",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a_la_musique",
+   "titre": "À la musique",
+   "date": "1870",
+   "auteur": "Arthur Rimbaud",
+   "recueil": "Cahiers de Douai",
+   "contexte": [
+    "Satire de la bourgeoise provinciale écouter de la musique sur la place publique à Charleville."
+   ],
+   "forme": [
+    "Quatrains en alexandrins."
+   ],
+   "champs": {
+    "satire": {
+     "label": "Satire & Bourgeoisie"
+    }
+   },
+   "strophes": [
+    {
+     "id": "s1",
+     "nom": "Strophe 1",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s2",
+     "nom": "Strophe 2",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s3",
+     "nom": "Strophe 3",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s4",
+     "nom": "Strophe 4",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s5",
+     "nom": "Strophe 5",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s6",
+     "nom": "Strophe 6",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s7",
+     "nom": "Strophe 7",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s8",
+     "nom": "Strophe 8",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s9",
+     "nom": "Strophe 9",
+     "vers": "Quatrain - Alexandrins"
+    }
+   ],
+   "lignes": [
+    {
+     "n": 1,
+     "strophe": "s1",
+     "texte": "Sur la place taillée en mesquines pelouses,",
+     "rime": "ous",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 2,
+     "strophe": "s1",
+     "texte": "Square où tout est correct, les arbres et les fleurs,",
+     "rime": "eur",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 3,
+     "strophe": "s1",
+     "texte": "Tous les bourgeois poussifs qu'étranglent les chaleurs",
+     "rime": "eur",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 4,
+     "strophe": "s1",
+     "texte": "Portent, les jeudis soirs, leurs bêtises jalouses.",
+     "rime": "ous",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 5,
+     "strophe": "s2",
+     "texte": "— L'orchestre militaire, au milieu du jardin,",
+     "rime": "in",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 6,
+     "strophe": "s2",
+     "texte": "Balance ses schakos dans la Valse des fifres :",
+     "rime": "ifr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 7,
+     "strophe": "s2",
+     "texte": "— Autour, aux premiers rangs, parade le gandin ;",
+     "rime": "in",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 8,
+     "strophe": "s2",
+     "texte": "Le notaire pend à ses breloques à chiffres :",
+     "rime": "iffr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 9,
+     "strophe": "s3",
+     "texte": "Des rentiers à lorgnons soulignent tous les couacs :",
+     "rime": "ouac",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 10,
+     "strophe": "s3",
+     "texte": "Les gros bureaux bouffis traînent leurs grosses daines",
+     "rime": "ain",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 11,
+     "strophe": "s3",
+     "texte": "Auprès desquelles vont, officieux cornacs,",
+     "rime": "ac",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 12,
+     "strophe": "s3",
+     "texte": "Celles dont les volants ont des airs de réclames ;",
+     "rime": "am",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 13,
+     "strophe": "s4",
+     "texte": "Sur les bancs verts, des clubs d'épiciers retraités",
+     "rime": "é",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 14,
+     "strophe": "s4",
+     "texte": "Qui tisonnent le sable avec leur canne à pomme,",
+     "rime": "omm",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 15,
+     "strophe": "s4",
+     "texte": "Fort sérieusement discutent les traités,",
+     "rime": "é",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 16,
+     "strophe": "s4",
+     "texte": "Puis prisent en argent, et reprennent : « En somme !… »",
+     "rime": "omm",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 17,
+     "strophe": "s5",
+     "texte": "Épatant sur son banc les rondeurs de ses reins,",
+     "rime": "ein",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 18,
+     "strophe": "s5",
+     "texte": "Un bourgeois à boutons clairs, bedaine flamande,",
+     "rime": "and",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 19,
+     "strophe": "s5",
+     "texte": "Savoure son onnaing d'où le tabac par brins",
+     "rime": "in",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 20,
+     "strophe": "s5",
+     "texte": "Déborde — vous savez, c'est de la contrebande ; —",
+     "rime": "and",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 21,
+     "strophe": "s6",
+     "texte": "Le long des gazons verts ricanent les voyous ;",
+     "rime": "ou",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 22,
+     "strophe": "s6",
+     "texte": "Et, rendus amoureux par le chant des trombones,",
+     "rime": "on",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 23,
+     "strophe": "s6",
+     "texte": "Très naïfs, et fumant des roses, les pioupious",
+     "rime": "iou",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 24,
+     "strophe": "s6",
+     "texte": "Caressent les bébés pour enjôler les bonnes…",
+     "rime": "onn",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 25,
+     "strophe": "s7",
+     "texte": "— Moi, je suis, débraillé comme un étudiant,",
+     "rime": "iant",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 26,
+     "strophe": "s7",
+     "texte": "Sous les marronniers verts les alertes fillettes :",
+     "rime": "ett",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 27,
+     "strophe": "s7",
+     "texte": "Elles le savent bien, et tournent en riant,",
+     "rime": "iant",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 28,
+     "strophe": "s7",
+     "texte": "Vers moi, leurs yeux tout pleins de choses indiscrètes.",
+     "rime": "èt",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 29,
+     "strophe": "s8",
+     "texte": "Je ne dis pas un mot : je regarde toujours",
+     "rime": "our",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 30,
+     "strophe": "s8",
+     "texte": "La chair de leurs cous blancs brodés de mèches folles :",
+     "rime": "oll",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 31,
+     "strophe": "s8",
+     "texte": "Je suis, sous le corsage et les frêles atours,",
+     "rime": "our",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 32,
+     "strophe": "s8",
+     "texte": "Le dos divin après la courbe des épaules.",
+     "rime": "aul",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 33,
+     "strophe": "s9",
+     "texte": "J'ai bientôt déniché la bottine, le bas…",
+     "rime": "a",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 34,
+     "strophe": "s9",
+     "texte": "— Je reconstruis les corps, brûlé de belles fièvres.",
+     "rime": "ièvr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 35,
+     "strophe": "s9",
+     "texte": "Elles me trouvent drôle et se parlent tout bas…",
+     "rime": "a",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 36,
+     "strophe": "s9",
+     "texte": "— Et je sens les baisers qui me viennent aux lèvres…",
+     "rime": "èvr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    }
+   ]
+  }
+ ]
+}

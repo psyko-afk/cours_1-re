@@ -1,0 +1,899 @@
+{
+ "page": 6,
+ "recueil": "Cahiers de Douai",
+ "auteur": "Arthur Rimbaud",
+ "poemes": [
+  {
+   "id": "les_effares",
+   "titre": "Les Effarés",
+   "date": "1870",
+   "auteur": "Arthur Rimbaud",
+   "recueil": "Cahiers de Douai",
+   "contexte": [
+    "Poème social et misérabiliste montrant des enfants pauvres regardant la chaleur sortir d'une boulangerie."
+   ],
+   "forme": [
+    "Douze tercets d'octosyllabes."
+   ],
+   "champs": {
+    "pauvrete": {
+     "label": "Misère & Enfance"
+    }
+   },
+   "strophes": [
+    {
+     "id": "s1",
+     "nom": "Strophe 1",
+     "vers": "Tercet - Octosyllabes"
+    },
+    {
+     "id": "s2",
+     "nom": "Strophe 2",
+     "vers": "Tercet - Octosyllabes"
+    },
+    {
+     "id": "s3",
+     "nom": "Strophe 3",
+     "vers": "Tercet - Octosyllabes"
+    },
+    {
+     "id": "s4",
+     "nom": "Strophe 4",
+     "vers": "Tercet - Octosyllabes"
+    },
+    {
+     "id": "s5",
+     "nom": "Strophe 5",
+     "vers": "Tercet - Octosyllabes"
+    },
+    {
+     "id": "s6",
+     "nom": "Strophe 6",
+     "vers": "Tercet - Octosyllabes"
+    },
+    {
+     "id": "s7",
+     "nom": "Strophe 7",
+     "vers": "Tercet - Octosyllabes"
+    },
+    {
+     "id": "s8",
+     "nom": "Strophe 8",
+     "vers": "Tercet - Octosyllabes"
+    },
+    {
+     "id": "s9",
+     "nom": "Strophe 9",
+     "vers": "Tercet - Octosyllabes"
+    },
+    {
+     "id": "s10",
+     "nom": "Strophe 10",
+     "vers": "Tercet - Octosyllabes"
+    },
+    {
+     "id": "s11",
+     "nom": "Strophe 11",
+     "vers": "Tercet - Octosyllabes"
+    },
+    {
+     "id": "s12",
+     "nom": "Strophe 12",
+     "vers": "Tercet - Octosyllabes"
+    }
+   ],
+   "lignes": [
+    {
+     "n": 1,
+     "strophe": "s1",
+     "texte": "Noirs dans la neige et dans la brume,",
+     "rime": "um",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 2,
+     "strophe": "s1",
+     "texte": "Au grand soupirail qui s'allume,",
+     "rime": "um",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 3,
+     "strophe": "s1",
+     "texte": "Leurs culs en rond",
+     "rime": "ond",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 4,
+     "strophe": "s2",
+     "texte": "À genoux, cinq petits, — misère ! —",
+     "rime": "èr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 5,
+     "strophe": "s2",
+     "texte": "Regardent le boulanger faire",
+     "rime": "air",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 6,
+     "strophe": "s2",
+     "texte": "Le lourd pain blond…",
+     "rime": "ond",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 7,
+     "strophe": "s3",
+     "texte": "Ils voient le fort bras blanc qui tourne",
+     "rime": "ourn",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 8,
+     "strophe": "s3",
+     "texte": "La pâte grise, et qui l'enfourne",
+     "rime": "ourn",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 9,
+     "strophe": "s3",
+     "texte": "Dans un trou clair.",
+     "rime": "air",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 10,
+     "strophe": "s4",
+     "texte": "Ils écoutent le bon pain cuire.",
+     "rime": "uir",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 11,
+     "strophe": "s4",
+     "texte": "Le boulanger au gras sourire",
+     "rime": "ir",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 12,
+     "strophe": "s4",
+     "texte": "Chante un vieil air.",
+     "rime": "air",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 13,
+     "strophe": "s5",
+     "texte": "Ils sont blottis, pas un ne bouge,",
+     "rime": "oug",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 14,
+     "strophe": "s5",
+     "texte": "Au souffle du soupirail rouge,",
+     "rime": "oug",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 15,
+     "strophe": "s5",
+     "texte": "Chaud comme un sein.",
+     "rime": "ein",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 16,
+     "strophe": "s6",
+     "texte": "Et quand, pendant que minuit sonne,",
+     "rime": "onn",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 17,
+     "strophe": "s6",
+     "texte": "Façonné, pétillant et jaune,",
+     "rime": "aun",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 18,
+     "strophe": "s6",
+     "texte": "On sort le pain ;",
+     "rime": "ain",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 19,
+     "strophe": "s7",
+     "texte": "Quand, sous les poutres enfumées,",
+     "rime": "ée",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 20,
+     "strophe": "s7",
+     "texte": "Chantent les croûtes parfumées,",
+     "rime": "ée",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 21,
+     "strophe": "s7",
+     "texte": "Et les grillons ;",
+     "rime": "on",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 22,
+     "strophe": "s8",
+     "texte": "Quand ce trou chaud souffle la vie ;",
+     "rime": "ie",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 23,
+     "strophe": "s8",
+     "texte": "Ils ont leur âme si ravie",
+     "rime": "ie",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 24,
+     "strophe": "s8",
+     "texte": "Sous leurs haillons,",
+     "rime": "on",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 25,
+     "strophe": "s9",
+     "texte": "Ils se ressentent si bien vivre,",
+     "rime": "ivr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 26,
+     "strophe": "s9",
+     "texte": "Les pauvres petits pleins de givre !",
+     "rime": "ivr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 27,
+     "strophe": "s9",
+     "texte": "— Qu'ils sont là, tous,",
+     "rime": "ou",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 28,
+     "strophe": "s10",
+     "texte": "Collant leurs petits museaux roses",
+     "rime": "os",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 29,
+     "strophe": "s10",
+     "texte": "Au grillage, chantant des choses,",
+     "rime": "os",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 30,
+     "strophe": "s10",
+     "texte": "Entre les trous,",
+     "rime": "ou",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 31,
+     "strophe": "s11",
+     "texte": "Mais bien bas, — comme une prière…",
+     "rime": "ièr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 32,
+     "strophe": "s11",
+     "texte": "Repliés vers cette lumière",
+     "rime": "ièr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 33,
+     "strophe": "s11",
+     "texte": "Du ciel rouvert,",
+     "rime": "ert",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 34,
+     "strophe": "s12",
+     "texte": "Si fort, qu'ils crèvent leur culotte,",
+     "rime": "ott",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 35,
+     "strophe": "s12",
+     "texte": "Et que leur lange blanc tremblotte",
+     "rime": "ott",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    },
+    {
+     "n": 36,
+     "strophe": "s12",
+     "texte": "Au vent d'hiver…",
+     "rime": "er",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "pauvrete"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "roman",
+   "titre": "Roman",
+   "date": "1870",
+   "auteur": "Arthur Rimbaud",
+   "recueil": "Cahiers de Douai",
+   "contexte": [
+    "Évocation de l'insouciance de la jeunesse, des premiers émois amoureux à dix-sept ans."
+   ],
+   "forme": [
+    "Quatrains d'alexandrins."
+   ],
+   "champs": {
+    "jeunesse": {
+     "label": "Jeunesse & Liberté"
+    }
+   },
+   "strophes": [
+    {
+     "id": "s1",
+     "nom": "Strophe 1",
+     "vers": "Quatrain - Alexandrins (I)"
+    },
+    {
+     "id": "s2",
+     "nom": "Strophe 2",
+     "vers": "Quatrain - Alexandrins (I)"
+    },
+    {
+     "id": "s3",
+     "nom": "Strophe 3",
+     "vers": "Quatrain - Alexandrins (II)"
+    },
+    {
+     "id": "s4",
+     "nom": "Strophe 4",
+     "vers": "Quatrain - Alexandrins (II)"
+    },
+    {
+     "id": "s5",
+     "nom": "Strophe 5",
+     "vers": "Quatrain - Alexandrins (III)"
+    },
+    {
+     "id": "s6",
+     "nom": "Strophe 6",
+     "vers": "Quatrain - Alexandrins (III)"
+    },
+    {
+     "id": "s7",
+     "nom": "Strophe 7",
+     "vers": "Quatrain - Alexandrins (IV)"
+    },
+    {
+     "id": "s8",
+     "nom": "Strophe 8",
+     "vers": "Quatrain - Alexandrins (IV)"
+    }
+   ],
+   "lignes": [
+    {
+     "n": 1,
+     "strophe": "s1",
+     "texte": "On n'est pas sérieux, quand on a dix-sept ans.",
+     "rime": "an",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 2,
+     "strophe": "s1",
+     "texte": "— Un beau soir, foin des bocks et de la limonade,",
+     "rime": "ad",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 3,
+     "strophe": "s1",
+     "texte": "Des cafés tapageurs aux lustres éclatants !",
+     "rime": "ant",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 4,
+     "strophe": "s1",
+     "texte": "— On va sous les tilleuls verts de la promenade.",
+     "rime": "ad",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 5,
+     "strophe": "s2",
+     "texte": "Les tilleuls sentent bon dans les bons soirs de juin !",
+     "rime": "uin",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 6,
+     "strophe": "s2",
+     "texte": "L'air est parfois si doux, qu'on ferme la paupière ;",
+     "rime": "ièr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 7,
+     "strophe": "s2",
+     "texte": "Le vent chargé de bruits, — la ville n'est pas loin, —",
+     "rime": "oin",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 8,
+     "strophe": "s2",
+     "texte": "A des parfums de vigne et des parfums de bière…",
+     "rime": "ièr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 9,
+     "strophe": "s3",
+     "texte": "— Voilà qu'on aperçoit un tout petit chiffon",
+     "rime": "on",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 10,
+     "strophe": "s3",
+     "texte": "D'azur sombre, encadré d'une petite branche,",
+     "rime": "anch",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 11,
+     "strophe": "s3",
+     "texte": "Piqué d'une mauvaise étoile, qui se fond",
+     "rime": "ond",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 12,
+     "strophe": "s3",
+     "texte": "Avec de doux frissons, petite et toute blanche…",
+     "rime": "anch",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 13,
+     "strophe": "s4",
+     "texte": "Nuit de juin ! Dix-sept ans ! — On se laisse griser.",
+     "rime": "er",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 14,
+     "strophe": "s4",
+     "texte": "La sève est du champagne et vous monte à la tête…",
+     "rime": "êt",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 15,
+     "strophe": "s4",
+     "texte": "On divague ; on se sent aux lèvres un baiser",
+     "rime": "er",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 16,
+     "strophe": "s4",
+     "texte": "Qui palpite là, comme une petite bête…",
+     "rime": "êt",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 17,
+     "strophe": "s5",
+     "texte": "Le cœur fou Robinsonne à travers les romans,",
+     "rime": "an",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 18,
+     "strophe": "s5",
+     "texte": "— Lorsque, dans la clarté d'un pâle réverbère,",
+     "rime": "èr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 19,
+     "strophe": "s5",
+     "texte": "Passe une demoiselle aux petits airs charmants,",
+     "rime": "ant",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 20,
+     "strophe": "s5",
+     "texte": "Sous l'ombre du faux-col effrayant de son père…",
+     "rime": "èr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 21,
+     "strophe": "s6",
+     "texte": "Et, comme elle vous trouve immensément naïf,",
+     "rime": "aïf",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 22,
+     "strophe": "s6",
+     "texte": "Tout en faisant trotter ses petites bottines,",
+     "rime": "in",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 23,
+     "strophe": "s6",
+     "texte": "Elle se tourne, alerte et d'un mouvement vif…",
+     "rime": "if",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 24,
+     "strophe": "s6",
+     "texte": "— Sur vos lèvres alors meurent les cavatines…",
+     "rime": "in",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 25,
+     "strophe": "s7",
+     "texte": "Vous êtes amoureux. Loué jusqu'au mois d'août.",
+     "rime": "août",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 26,
+     "strophe": "s7",
+     "texte": "Vous êtes amoureux. — Vos sonnets La font rire.",
+     "rime": "ir",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 27,
+     "strophe": "s7",
+     "texte": "Tous vos amis s'en vont, vous êtes mauvais goût.",
+     "rime": "oût",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 28,
+     "strophe": "s7",
+     "texte": "— Puis l'adorée, un soir, a daigné vous écrire… !",
+     "rime": "ir",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 29,
+     "strophe": "s8",
+     "texte": "— Ce soir-là,… — vous rentrez aux cafés éclatants,",
+     "rime": "ant",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 30,
+     "strophe": "s8",
+     "texte": "Vous demandez des bocks ou de la limonade…",
+     "rime": "ad",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 31,
+     "strophe": "s8",
+     "texte": "— On n'est pas sérieux, quand on a dix-sept ans",
+     "rime": "an",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    },
+    {
+     "n": 32,
+     "strophe": "s8",
+     "texte": "Et qu'on a des tilleuls verts sur la promenade.",
+     "rime": "ad",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "jeunesse"
+     ]
+    }
+   ]
+  }
+ ]
+}

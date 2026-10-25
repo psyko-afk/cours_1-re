@@ -1,0 +1,1035 @@
+{
+ "page": 3,
+ "recueil": "Cahiers de Douai",
+ "auteur": "Arthur Rimbaud",
+ "poemes": [
+  {
+   "id": "ophelie",
+   "titre": "Ophélie",
+   "date": "1870",
+   "auteur": "Arthur Rimbaud",
+   "recueil": "Cahiers de Douai",
+   "contexte": [
+    "Inspiré du personnage d'Ophélie dans Hamlet de Shakespeare.",
+    "Poème sur la mort, la jeunesse et la fuite de l'eau."
+   ],
+   "forme": [
+    "Strophes de quatre vers (quatrains).",
+    "Mètre : alexandrins."
+   ],
+   "champs": {
+    "mort": {
+     "label": "Mort & Eau"
+    }
+   },
+   "strophes": [
+    {
+     "id": "s1",
+     "nom": "Strophe 1",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s2",
+     "nom": "Strophe 2",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s3",
+     "nom": "Strophe 3",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s4",
+     "nom": "Strophe 4",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s5",
+     "nom": "Strophe 5",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s6",
+     "nom": "Strophe 6",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s7",
+     "nom": "Strophe 7",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s8",
+     "nom": "Strophe 8",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s9",
+     "nom": "Strophe 9",
+     "vers": "Quatrain - Alexandrins"
+    }
+   ],
+   "lignes": [
+    {
+     "n": 1,
+     "strophe": "s1",
+     "texte": "Sur l'onde calme et noire où dorment les étoiles",
+     "rime": "s",
+     "procede": "Allitérations en -l",
+     "effet": "Douceur mélancolique de l'eau.",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 2,
+     "strophe": "s1",
+     "texte": "La blanche Ophélia flotte comme un grand lys,",
+     "rime": "",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 3,
+     "strophe": "s1",
+     "texte": "Flotte très lentement, couchée en ses longs voiles…",
+     "rime": "oil",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 4,
+     "strophe": "s1",
+     "texte": "— On entend dans les bois lointains des hallalis.",
+     "rime": "i",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 5,
+     "strophe": "s2",
+     "texte": "Voici plus de mille ans que la triste Ophélie",
+     "rime": "ie",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 6,
+     "strophe": "s2",
+     "texte": "Passe, fantôme blanc, sur le long fleuve noir ;",
+     "rime": "oir",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 7,
+     "strophe": "s2",
+     "texte": "Voici plus de mille ans que sa douce folie",
+     "rime": "ie",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 8,
+     "strophe": "s2",
+     "texte": "Murmure sa romance à la brise du soir.",
+     "rime": "oir",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 9,
+     "strophe": "s3",
+     "texte": "Le vent baise ses seins et déploie en corolle",
+     "rime": "oll",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 10,
+     "strophe": "s3",
+     "texte": "Ses grands voiles bercés mollement par les eaux ;",
+     "rime": "eaux",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 11,
+     "strophe": "s3",
+     "texte": "Les saules frissonnants pleurent sur son épaule,",
+     "rime": "aul",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 12,
+     "strophe": "s3",
+     "texte": "Sur son grand front rêveur s'inclinent les roseaux.",
+     "rime": "eaux",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 13,
+     "strophe": "s4",
+     "texte": "Les nénuphars froissés soupirent autour d'elle ;",
+     "rime": "ell",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 14,
+     "strophe": "s4",
+     "texte": "Elle éveille parfois, dans un aune qui dort,",
+     "rime": "ort",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 15,
+     "strophe": "s4",
+     "texte": "Quelque nid, d'où s'échappe un petit frisson d'aile :",
+     "rime": "ail",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 16,
+     "strophe": "s4",
+     "texte": "— Un chant mystérieux tombe des astres d'or.",
+     "rime": "or",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 17,
+     "strophe": "s5",
+     "texte": "Ô pâle Ophélia ! belle comme la neige !",
+     "rime": "eig",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 18,
+     "strophe": "s5",
+     "texte": "Oui tu mourus, enfant, par un fleuve emporté !",
+     "rime": "é",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 19,
+     "strophe": "s5",
+     "texte": "— C'est que les vents tombant des grands monts de Norwège",
+     "rime": "èg",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 20,
+     "strophe": "s5",
+     "texte": "T'avaient parlé tout bas de l'âpre liberté ;",
+     "rime": "é",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 21,
+     "strophe": "s6",
+     "texte": "C'est qu'un souffle, tordant ta grande chevelure,",
+     "rime": "ur",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 22,
+     "strophe": "s6",
+     "texte": "À ton esprit rêveur portait d'étranges bruits ;",
+     "rime": "uit",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 23,
+     "strophe": "s6",
+     "texte": "Que ton cœur écoutait le chant de la Nature",
+     "rime": "ur",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 24,
+     "strophe": "s6",
+     "texte": "Dans les plaintes de l'arbre et les soupirs des nuits ;",
+     "rime": "uit",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 25,
+     "strophe": "s7",
+     "texte": "C'est que la voix des mers folles, immense râle,",
+     "rime": "âl",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 26,
+     "strophe": "s7",
+     "texte": "Brisait ton sein d'enfant, trop humain et trop doux ;",
+     "rime": "oux",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 27,
+     "strophe": "s7",
+     "texte": "C'est qu'un matin d'avril, un beau cavalier pâle,",
+     "rime": "âl",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 28,
+     "strophe": "s7",
+     "texte": "Un pauvre fou, s'assit muet à tes genoux !",
+     "rime": "oux",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 29,
+     "strophe": "s8",
+     "texte": "Ciel ! Amour ! Liberté ! Quel rêve, ô pauvre Folle !",
+     "rime": "oll",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 30,
+     "strophe": "s8",
+     "texte": "Tu te fondais à lui comme une neige au feu :",
+     "rime": "eu",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 31,
+     "strophe": "s8",
+     "texte": "Tes grandes visions étranglaient ta parole",
+     "rime": "ol",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 32,
+     "strophe": "s8",
+     "texte": "— Et l'Infini terrible effara ton œil bleu !",
+     "rime": "eu",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 33,
+     "strophe": "s9",
+     "texte": "— Et le Poète dit qu'aux rayons des étoiles",
+     "rime": "oil",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 34,
+     "strophe": "s9",
+     "texte": "Tu viens chercher, la nuit, les fleurs que tu cueillis,",
+     "rime": "i",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 35,
+     "strophe": "s9",
+     "texte": "Et qu'il a vu sur l'eau, couchée en ses longs voiles,",
+     "rime": "oil",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    },
+    {
+     "n": 36,
+     "strophe": "s9",
+     "texte": "La blanche Ophélia flotter, comme un grand lys.",
+     "rime": "",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "mort"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bal_des_pendus",
+   "titre": "Bal des pendus",
+   "date": "1870",
+   "auteur": "Arthur Rimbaud",
+   "recueil": "Cahiers de Douai",
+   "contexte": [
+    "Poème macabre et grotesque, inspiré d'une danse macabre médiévale.",
+    "Mise en scène de squelettes qui dansent dans le vent."
+   ],
+   "forme": [
+    "Quatrains en octosyllabes.",
+    "Ton satirique et macabre."
+   ],
+   "champs": {
+    "macabre": {
+     "label": "Macabre & Danse"
+    }
+   },
+   "strophes": [
+    {
+     "id": "s1",
+     "nom": "Strophe 1",
+     "vers": "Quatrain - Octosyllabes"
+    },
+    {
+     "id": "s2",
+     "nom": "Strophe 2",
+     "vers": "Quatrain - Octosyllabes"
+    },
+    {
+     "id": "s3",
+     "nom": "Strophe 3",
+     "vers": "Quatrain - Octosyllabes"
+    },
+    {
+     "id": "s4",
+     "nom": "Strophe 4",
+     "vers": "Quatrain - Octosyllabes"
+    },
+    {
+     "id": "s5",
+     "nom": "Strophe 5",
+     "vers": "Quatrain - Octosyllabes"
+    },
+    {
+     "id": "s6",
+     "nom": "Strophe 6",
+     "vers": "Quatrain - Octosyllabes"
+    },
+    {
+     "id": "s7",
+     "nom": "Strophe 7",
+     "vers": "Quatrain - Octosyllabes"
+    },
+    {
+     "id": "s8",
+     "nom": "Strophe 8",
+     "vers": "Quatrain - Octosyllabes"
+    },
+    {
+     "id": "s9",
+     "nom": "Strophe 9",
+     "vers": "Quatrain - Octosyllabes"
+    },
+    {
+     "id": "s10",
+     "nom": "Strophe 10",
+     "vers": "Quatrain - Octosyllabes"
+    },
+    {
+     "id": "s11",
+     "nom": "Strophe 11",
+     "vers": "Quatrain - Octosyllabes"
+    }
+   ],
+   "lignes": [
+    {
+     "n": 1,
+     "strophe": "s1",
+     "texte": "Au gibet noir, manchot aimable,",
+     "rime": "abl",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 2,
+     "strophe": "s1",
+     "texte": "Dansent, dansent les paladins,",
+     "rime": "in",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 3,
+     "strophe": "s1",
+     "texte": "Les maigres paladins du diable.",
+     "rime": "iabl",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 4,
+     "strophe": "s1",
+     "texte": "Les squelettes de Saladins.",
+     "rime": "in",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 5,
+     "strophe": "s2",
+     "texte": "Messire Belzébuth tire par la cravate",
+     "rime": "at",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 6,
+     "strophe": "s2",
+     "texte": "Ses petits pantins noirs grimaçant sur le ciel,",
+     "rime": "iel",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 7,
+     "strophe": "s2",
+     "texte": "Et, leur claquant au front un revers de savate,",
+     "rime": "at",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 8,
+     "strophe": "s2",
+     "texte": "Les fait danser, danser aux sons d'un vieux Noël !",
+     "rime": "oël",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 9,
+     "strophe": "s3",
+     "texte": "Et les pantins choqués enlacent leurs bras grêles :",
+     "rime": "êl",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 10,
+     "strophe": "s3",
+     "texte": "Comme des orgues noirs, les poitrines à jour",
+     "rime": "our",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 11,
+     "strophe": "s3",
+     "texte": "Que serraient autrefois les gentes damoiselles,",
+     "rime": "ell",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 12,
+     "strophe": "s3",
+     "texte": "Se heurtent longuement dans un hideux amour.",
+     "rime": "our",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 13,
+     "strophe": "s4",
+     "texte": "Hurrah ! Les gais danseurs, qui n'avez plus de panse !",
+     "rime": "ans",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 14,
+     "strophe": "s4",
+     "texte": "On peut cabrioler, les tréteaux sont si longs !",
+     "rime": "ong",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 15,
+     "strophe": "s4",
+     "texte": "Hop ! qu'on ne sache plus si c'est bataille ou danse !",
+     "rime": "ans",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 16,
+     "strophe": "s4",
+     "texte": "Belzébuth enragé racle ses violons !",
+     "rime": "on",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 17,
+     "strophe": "s5",
+     "texte": "Ô durs talons, jamais on n'use sa sandale !",
+     "rime": "al",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 18,
+     "strophe": "s5",
+     "texte": "Presque tous ont quitté la chemise de peau :",
+     "rime": "eau",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 19,
+     "strophe": "s5",
+     "texte": "Le reste est peu gênant et se voit sans scandale.",
+     "rime": "al",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 20,
+     "strophe": "s5",
+     "texte": "Sur les crânes, la neige applique un blanc chapeau :",
+     "rime": "eau",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 21,
+     "strophe": "s6",
+     "texte": "Le corbeau fait panache à ces têtes fêlées,",
+     "rime": "ée",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 22,
+     "strophe": "s6",
+     "texte": "Un morceau de chair tremble à leur maigre menton :",
+     "rime": "on",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 23,
+     "strophe": "s6",
+     "texte": "On dirait, tournoyant dans les sombres mêlées,",
+     "rime": "ée",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 24,
+     "strophe": "s6",
+     "texte": "Des preux, raides, heurtant armures de carton.",
+     "rime": "on",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 25,
+     "strophe": "s7",
+     "texte": "Hurrah ! La bise siffle au grand bal des squelettes !",
+     "rime": "ett",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 26,
+     "strophe": "s7",
+     "texte": "Le gibet noir mugit comme un orgue de fer !",
+     "rime": "er",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 27,
+     "strophe": "s7",
+     "texte": "Les loups vont répondant des forêts violettes :",
+     "rime": "ett",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 28,
+     "strophe": "s7",
+     "texte": "À l'horizon, le ciel est d'un rouge d'enfer…",
+     "rime": "er",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 29,
+     "strophe": "s8",
+     "texte": "Holà, secouez-moi ces capitans funèbres",
+     "rime": "èbr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 30,
+     "strophe": "s8",
+     "texte": "Qui défilent, sournois, de leurs gros doigts cassés",
+     "rime": "é",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 31,
+     "strophe": "s8",
+     "texte": "Un chapelet d'amour sur leurs pâles vertèbres :",
+     "rime": "èbr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 32,
+     "strophe": "s8",
+     "texte": "Ce n'est pas un moustier ici, les trépassés !",
+     "rime": "é",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 33,
+     "strophe": "s9",
+     "texte": "Oh ! voilà qu'au miheu de la danse macabre",
+     "rime": "abr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 34,
+     "strophe": "s9",
+     "texte": "Bondit dans le ciel rouge un grand squelette fou",
+     "rime": "ou",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 35,
+     "strophe": "s9",
+     "texte": "Emporté par l'élan, comme un cheval se cabre :",
+     "rime": "abr",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 36,
+     "strophe": "s9",
+     "texte": "Et, se sentant encor la corde raide au cou,",
+     "rime": "ou",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 37,
+     "strophe": "s10",
+     "texte": "Crispe ses petits doigts sur son fémur qui craque",
+     "rime": "ue",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 38,
+     "strophe": "s10",
+     "texte": "Avec des cris pareils à des ricanements,",
+     "rime": "ent",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 39,
+     "strophe": "s10",
+     "texte": "Et, comme un baladin rentre dans la baraque,",
+     "rime": "ue",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 40,
+     "strophe": "s10",
+     "texte": "Rebondit dans le bal au chant des ossements.",
+     "rime": "ent",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 41,
+     "strophe": "s11",
+     "texte": "Au gibet noir, manchot aimable,",
+     "rime": "abl",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 42,
+     "strophe": "s11",
+     "texte": "Dansent, dansent les paladins,",
+     "rime": "in",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 43,
+     "strophe": "s11",
+     "texte": "Les maigres paladins du diable.",
+     "rime": "iabl",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    },
+    {
+     "n": 44,
+     "strophe": "s11",
+     "texte": "Les squelettes de Saladins.",
+     "rime": "in",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "macabre"
+     ]
+    }
+   ]
+  }
+ ]
+}

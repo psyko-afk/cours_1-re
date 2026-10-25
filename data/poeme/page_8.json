@@ -1,0 +1,399 @@
+{
+ "page": 8,
+ "recueil": "Cahiers de Douai",
+ "auteur": "Arthur Rimbaud",
+ "poemes": [
+  {
+   "id": "rages_de_cesars",
+   "titre": "Rages de Césars",
+   "date": "1870",
+   "auteur": "Arthur Rimbaud",
+   "recueil": "Cahiers de Douai",
+   "contexte": [
+    "Satire virulente de Napoléon III et du Second Empire."
+   ],
+   "forme": [
+    "Quatrains d'alexandrins."
+   ],
+   "champs": {
+    "satire": {
+     "label": "Satire Politique"
+    }
+   },
+   "strophes": [
+    {
+     "id": "s1",
+     "nom": "Strophe 1",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s2",
+     "nom": "Strophe 2",
+     "vers": "Quatrain - Alexandrins"
+    },
+    {
+     "id": "s3",
+     "nom": "Strophe 3",
+     "vers": "Tercet - Alexandrins"
+    },
+    {
+     "id": "s4",
+     "nom": "Strophe 4",
+     "vers": "Tercet - Alexandrins"
+    }
+   ],
+   "lignes": [
+    {
+     "n": 1,
+     "strophe": "s1",
+     "texte": "L'Homme pâle, le long des pelouses fleuries,",
+     "rime": "ie",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 2,
+     "strophe": "s1",
+     "texte": "Chemine, en habit noir, et le cigare aux dents :",
+     "rime": "ent",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 3,
+     "strophe": "s1",
+     "texte": "L'Homme pâle repense aux fleurs des Tuileries",
+     "rime": "ie",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 4,
+     "strophe": "s1",
+     "texte": "— Et parfois son œil terne a des regards ardents…",
+     "rime": "ent",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 5,
+     "strophe": "s2",
+     "texte": "Car l'Empereur est soûl de ses vingt ans d'orgie !",
+     "rime": "ie",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 6,
+     "strophe": "s2",
+     "texte": "Il s'était dit : « Je vais souffler la Liberté",
+     "rime": "é",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 7,
+     "strophe": "s2",
+     "texte": "Bien délicatement, ainsi qu'une bougie ! »",
+     "rime": "ie",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 8,
+     "strophe": "s2",
+     "texte": "La Liberté revit ! Il se sent éreinté !",
+     "rime": "é",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 9,
+     "strophe": "s3",
+     "texte": "Il est pris. — Oh ! quel nom sur ses lèvres muettes",
+     "rime": "uett",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 10,
+     "strophe": "s3",
+     "texte": "Tressaille ? Quel regret implacable le mord ?",
+     "rime": "ord",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 11,
+     "strophe": "s3",
+     "texte": "On ne le saura pas. L'Empereur a l'œil mort.",
+     "rime": "ort",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 12,
+     "strophe": "s4",
+     "texte": "Il repense peut-être au Compère en lunettes…",
+     "rime": "ett",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 13,
+     "strophe": "s4",
+     "texte": "— Et regarde filer de son cigare en feu,",
+     "rime": "eu",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    },
+    {
+     "n": 14,
+     "strophe": "s4",
+     "texte": "Comme aux soirs de Saint-Cloud, un fin nuage bleu.",
+     "rime": "eu",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "satire"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reve_pour_l_hiver",
+   "titre": "Rêvé pour l'hiver",
+   "date": "1870",
+   "auteur": "Arthur Rimbaud",
+   "recueil": "Cahiers de Douai",
+   "contexte": [
+    "Poème intimiste et tendre imaginant un voyage en train douillet en plein hiver avec une amie."
+   ],
+   "forme": [
+    "Quatrains."
+   ],
+   "champs": {
+    "amour": {
+     "label": "Intimité & Voyage"
+    }
+   },
+   "strophes": [
+    {
+     "id": "s1",
+     "nom": "Strophe 1",
+     "vers": "Quatrain - Vers variés"
+    },
+    {
+     "id": "s2",
+     "nom": "Strophe 2",
+     "vers": "Quatrain - Vers variés"
+    },
+    {
+     "id": "s3",
+     "nom": "Strophe 3",
+     "vers": "Tercet - Vers variés"
+    },
+    {
+     "id": "s4",
+     "nom": "Strophe 4",
+     "vers": "Tercet - Vers variés"
+    }
+   ],
+   "lignes": [
+    {
+     "n": 1,
+     "strophe": "s1",
+     "texte": "L'hiver, nous irons dans un petit wagon rose",
+     "rime": "os",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 2,
+     "strophe": "s1",
+     "texte": "Avec des coussins bleus.",
+     "rime": "eu",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 3,
+     "strophe": "s1",
+     "texte": "Nous serons bien. Un nid de baisers fous repose",
+     "rime": "os",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 4,
+     "strophe": "s1",
+     "texte": "Dans chaque coin moelleux.",
+     "rime": "eux",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 5,
+     "strophe": "s2",
+     "texte": "Tu fermeras l'œil, pour ne point voir, par la glace,",
+     "rime": "ac",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 6,
+     "strophe": "s2",
+     "texte": "Grimacer les ombres des soirs,",
+     "rime": "oir",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 7,
+     "strophe": "s2",
+     "texte": "Ces monstruosités hargneuses, populace",
+     "rime": "ac",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 8,
+     "strophe": "s2",
+     "texte": "De démons noirs et de loups noirs.",
+     "rime": "oir",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 9,
+     "strophe": "s3",
+     "texte": "Puis tu te sentiras la joue égratignée…",
+     "rime": "ée",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 10,
+     "strophe": "s3",
+     "texte": "Un petit baiser, comme une folle araignée,",
+     "rime": "ée",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 11,
+     "strophe": "s3",
+     "texte": "Te courra par le cou…",
+     "rime": "ou",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 12,
+     "strophe": "s4",
+     "texte": "Et tu me diras : « Cherche ! » en inclinant la tête,",
+     "rime": "êt",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 13,
+     "strophe": "s4",
+     "texte": "— Et nous prendrons du temps à trouver cette bête",
+     "rime": "êt",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    },
+    {
+     "n": 14,
+     "strophe": "s4",
+     "texte": "— Qui voyage beaucoup…",
+     "rime": "oup",
+     "procede": "",
+     "effet": "",
+     "champs": [
+      "amour"
+     ]
+    }
+   ]
+  }
+ ]
+}
