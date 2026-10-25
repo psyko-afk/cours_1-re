@@ -1,399 +1,399 @@
 {
- "page": 10,
- "recueil": "Cahiers de Douai",
- "auteur": "Arthur Rimbaud",
- "poemes": [
-  {
-   "id": "la_maline",
-   "titre": "La Maline",
-   "date": "1870",
-   "auteur": "Arthur Rimbaud",
-   "recueil": "Cahiers de Douai",
-   "contexte": [
-    "Scène de cuisine coquine et provocante avec une servante."
-   ],
-   "forme": [
-    "Quatrains."
-   ],
-   "champs": {
-    "sensualite": {
-     "label": "Coquinerie & Cuisine"
+  "page": 10,
+  "recueil": "Cahiers de Douai",
+  "auteur": "Arthur Rimbaud",
+  "poemes": [
+    {
+      "id": "la_maline",
+      "titre": "La Maline",
+      "date": "1870",
+      "auteur": "Arthur Rimbaud",
+      "recueil": "Cahiers de Douai",
+      "contexte": [
+        "Scène de cuisine coquine et provocante avec une servante."
+      ],
+      "forme": [
+        "Quatrains."
+      ],
+      "champs": {
+        "sensualite": {
+          "label": "Coquinerie & Cuisine"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Quatrain - Alexandrins"
+        },
+        {
+          "id": "s2",
+          "nom": "Strophe 2",
+          "vers": "Quatrain - Alexandrins"
+        },
+        {
+          "id": "s3",
+          "nom": "Strophe 3",
+          "vers": "Tercet - Alexandrins"
+        },
+        {
+          "id": "s4",
+          "nom": "Strophe 4",
+          "vers": "Tercet - Alexandrins"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "Dans la salle à manger brune, que parfumait",
+          "rime": "ait",
+          "procede": "Chromaticisme intérieur « salle à manger brune »",
+          "effet": "L'intérieur, cocon domestique et odorant.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 2,
+          "strophe": "s1",
+          "texte": "Une odeur de vernis et de fruits, à mon aise",
+          "rime": "ais",
+          "procede": "Olfaction mêlée « vernis et de fruits »",
+          "effet": "Le confort, odeurs domestiques superposées.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 3,
+          "strophe": "s1",
+          "texte": "Je ramassais un plat de je ne sais quel mets",
+          "rime": "et",
+          "procede": "Imprécision voulue « je ne sais quel mets »",
+          "effet": "Le plaisir, indifférent au détail.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 4,
+          "strophe": "s1",
+          "texte": "Belge, et je m'épatais dans mon immense chaise.",
+          "rime": "ais",
+          "procede": "Verbe familier « je m'épatais »",
+          "effet": "Le contentement, bouffi dans son immense chaise.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 5,
+          "strophe": "s2",
+          "texte": "En mangeant, j'écoutais l'horloge, — heureux et coi.",
+          "rime": "oi",
+          "procede": "Sérénité animale « heureux et coi »",
+          "effet": "La satiété, paisible, bercée par l'horloge.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 6,
+          "strophe": "s2",
+          "texte": "La cuisine s'ouvrit avec une bouffée,",
+          "rime": "ée",
+          "procede": "Image du souffle « avec une bouffée »",
+          "effet": "L'ouverture de la cuisine annonce l'arrivée de la servante.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 7,
+          "strophe": "s2",
+          "texte": "— Et la servante vint, je ne sais pas pourquoi,",
+          "rime": "uoi",
+          "procede": "Imprécision narrative « je ne sais pas pourquoi »",
+          "effet": "Le hasard, moteur du récit érotique.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 8,
+          "strophe": "s2",
+          "texte": "Fichu moitié défait, malinement coiffée.",
+          "rime": "ée",
+          "procede": "Détail vestimentaire « Fichu moitié défait »",
+          "effet": "La tenue participe au jeu de séduction de la servante.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 9,
+          "strophe": "s3",
+          "texte": "Et tout en promenant son petit doigt tremblant",
+          "rime": "ant",
+          "procede": "Geste de coquetterie « petit doigt tremblant »",
+          "effet": "La coquetterie, timide et théâtrale.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 10,
+          "strophe": "s3",
+          "texte": "Sur sa joue, un velours de pêche rose et blanc,",
+          "rime": "anc",
+          "procede": "Métaphore tactile « un velours de pêche »",
+          "effet": "La joue, fruit mûr et velouté.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 11,
+          "strophe": "s3",
+          "texte": "En faisant, de sa lèvre enfantine, une moue,",
+          "rime": "oue",
+          "procede": "Image de la moue enfantine",
+          "effet": "L'enfantillage, charme de la séduction.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 12,
+          "strophe": "s4",
+          "texte": "Elle arrangeait les plats, près de moi, pour m'aiser ;",
+          "rime": "er",
+          "procede": "Sollicitude « pour m'aiser »",
+          "effet": "Le service, prétexte à la proximité.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 13,
+          "strophe": "s4",
+          "texte": "— Puis, comme ça, — bien sûr, pour avoir un baiser,",
+          "rime": "er",
+          "procede": "Aparté complice « bien sûr, pour avoir un baiser »",
+          "effet": "La stratégie féminine, évidente et attendrie.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 14,
+          "strophe": "s4",
+          "texte": "Tout bas : « Sens donc, j'ai pris une froid sur la joue… »",
+          "rime": "oue",
+          "procede": "Chute ingénue « j'ai pris une froid »",
+          "effet": "La ruse naïve, invitation au baiser.",
+          "champs": [
+            "sensualite"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leclatante_victoire_de_saarbruck",
+      "titre": "L'Éclatante Victoire de Saarbruck",
+      "date": "1870",
+      "auteur": "Arthur Rimbaud",
+      "recueil": "Cahiers de Douai",
+      "contexte": [
+        "Satire politique féroce de la guerre et de la propagande impériale."
+      ],
+      "forme": [
+        "Alexandrins."
+      ],
+      "champs": {
+        "satire": {
+          "label": "Satire & Guerre"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Quatrain - Alexandrins"
+        },
+        {
+          "id": "s2",
+          "nom": "Strophe 2",
+          "vers": "Quatrain - Alexandrins"
+        },
+        {
+          "id": "s3",
+          "nom": "Strophe 3",
+          "vers": "Tercet - Alexandrins"
+        },
+        {
+          "id": "s4",
+          "nom": "Strophe 4",
+          "vers": "Tercet - Alexandrins"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "Au milieu, l'Empereur, dans une apothéose",
+          "rime": "éos",
+          "procede": "Mise en scène « Au milieu, l'Empereur »",
+          "effet": "L'empereur, tableau central de la fausse gloire.",
+          "champs": [
+            "satire"
+          ]
+        },
+        {
+          "n": 2,
+          "strophe": "s1",
+          "texte": "Bleue et jaune, s'en va, raide, sur son dada",
+          "rime": "a",
+          "procede": "Registre familier « sur son dada »",
+          "effet": "La majesté, dégonflée par le langage enfantin.",
+          "champs": [
+            "satire"
+          ]
+        },
+        {
+          "n": 3,
+          "strophe": "s1",
+          "texte": "Flamboyant ; très heureux, — car il voit tout en rose,",
+          "rime": "os",
+          "procede": "Ironie de l'expression « voit tout en rose »",
+          "effet": "L'optimisme, aveuglement pathétique.",
+          "champs": [
+            "satire"
+          ]
+        },
+        {
+          "n": 4,
+          "strophe": "s1",
+          "texte": "Féroce comme Zeus et doux comme un papa ;",
+          "rime": "a",
+          "procede": "Double comparaison « comme Zeus / comme un papa »",
+          "effet": "Le double visage du souverain, comique.",
+          "champs": [
+            "satire"
+          ]
+        },
+        {
+          "n": 5,
+          "strophe": "s2",
+          "texte": "En bas, les bons Pioupious qui faisaient la sieste",
+          "rime": "iest",
+          "procede": "Diminutif moqueur « bons Pioupious »",
+          "effet": "Les soldats, enfants paresseux en pleine sieste.",
+          "champs": [
+            "satire"
+          ]
+        },
+        {
+          "n": 6,
+          "strophe": "s2",
+          "texte": "Près des tambours dorés et des rouges canons,",
+          "rime": "on",
+          "procede": "Chromaticisme guerrier « dorés et rouges »",
+          "effet": "Le matériel, décor de théâtre opérette.",
+          "champs": [
+            "satire"
+          ]
+        },
+        {
+          "n": 7,
+          "strophe": "s2",
+          "texte": "Se lèvent gentiment. Pitou remet sa veste,",
+          "rime": "est",
+          "procede": "Familiarité domestique « remet sa veste »",
+          "effet": "La guerre, routine domestique et molle.",
+          "champs": [
+            "satire"
+          ]
+        },
+        {
+          "n": 8,
+          "strophe": "s2",
+          "texte": "Et, tourné vers le Chef, s'étourdit de grands noms !",
+          "rime": "om",
+          "procede": "Verbe ironique « s'étourdit de grands noms »",
+          "effet": "L'enthousiasme, vertige nominal et factice.",
+          "champs": [
+            "satire"
+          ]
+        },
+        {
+          "n": 9,
+          "strophe": "s3",
+          "texte": "À droite, Dumanet, appuyé sur la crosse",
+          "rime": "oss",
+          "procede": "Mise en scène « À droite »",
+          "effet": "Le soldat, figure populaire de la parade.",
+          "champs": [
+            "satire"
+          ]
+        },
+        {
+          "n": 10,
+          "strophe": "s3",
+          "texte": "De son chassepot, sent frémir sa nuque en brosse,",
+          "rime": "oss",
+          "procede": "Image du frisson « nuque en brosse »",
+          "effet": "L'émotion, chair de poule du soldat.",
+          "champs": [
+            "satire"
+          ]
+        },
+        {
+          "n": 11,
+          "strophe": "s3",
+          "texte": "Et : « Vive l'Empereur !!! » — Son voisin reste coi…",
+          "rime": "oi",
+          "procede": "Antithèse « Vive l'Empereur !!! » / « reste coi »",
+          "effet": "L'indifférence, contraste révélateur.",
+          "champs": [
+            "satire"
+          ]
+        },
+        {
+          "n": 12,
+          "strophe": "s4",
+          "texte": "Un schako surgit, comme un soleil noir… — Au centre,",
+          "rime": "entr",
+          "procede": "Image paradoxale « comme un soleil noir »",
+          "effet": "Le schako, astre menaçant de la comédie.",
+          "champs": [
+            "satire"
+          ]
+        },
+        {
+          "n": 13,
+          "strophe": "s4",
+          "texte": "Boquillon rouge et bleu, très naïf, sur son ventre",
+          "rime": "entr",
+          "procede": "Caricature du soldat « Boquillon »",
+          "effet": "La parade, grotesque de cirque.",
+          "champs": [
+            "satire"
+          ]
+        },
+        {
+          "n": 14,
+          "strophe": "s4",
+          "texte": "Se dresse, et, — présentant ses derrières — : « De quoi ?… »",
+          "rime": "uoi",
+          "procede": "Chute scatologique « présentant ses derrières »",
+          "effet": "Le cul, réponse du peuple à la fausse gloire.",
+          "champs": [
+            "satire"
+          ]
+        }
+      ]
     }
-   },
-   "strophes": [
-    {
-     "id": "s1",
-     "nom": "Strophe 1",
-     "vers": "Quatrain - Alexandrins"
-    },
-    {
-     "id": "s2",
-     "nom": "Strophe 2",
-     "vers": "Quatrain - Alexandrins"
-    },
-    {
-     "id": "s3",
-     "nom": "Strophe 3",
-     "vers": "Tercet - Alexandrins"
-    },
-    {
-     "id": "s4",
-     "nom": "Strophe 4",
-     "vers": "Tercet - Alexandrins"
-    }
-   ],
-   "lignes": [
-    {
-     "n": 1,
-     "strophe": "s1",
-     "texte": "Dans la salle à manger brune, que parfumait",
-     "rime": "ait",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 2,
-     "strophe": "s1",
-     "texte": "Une odeur de vernis et de fruits, à mon aise",
-     "rime": "ais",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 3,
-     "strophe": "s1",
-     "texte": "Je ramassais un plat de je ne sais quel mets",
-     "rime": "et",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 4,
-     "strophe": "s1",
-     "texte": "Belge, et je m'épatais dans mon immense chaise.",
-     "rime": "ais",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 5,
-     "strophe": "s2",
-     "texte": "En mangeant, j'écoutais l'horloge, — heureux et coi.",
-     "rime": "oi",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 6,
-     "strophe": "s2",
-     "texte": "La cuisine s'ouvrit avec une bouffée,",
-     "rime": "ée",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 7,
-     "strophe": "s2",
-     "texte": "— Et la servante vint, je ne sais pas pourquoi,",
-     "rime": "uoi",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 8,
-     "strophe": "s2",
-     "texte": "Fichu moitié défait, malinement coiffée.",
-     "rime": "ée",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 9,
-     "strophe": "s3",
-     "texte": "Et tout en promenant son petit doigt tremblant",
-     "rime": "ant",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 10,
-     "strophe": "s3",
-     "texte": "Sur sa joue, un velours de pêche rose et blanc,",
-     "rime": "anc",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 11,
-     "strophe": "s3",
-     "texte": "En faisant, de sa lèvre enfantine, une moue,",
-     "rime": "oue",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 12,
-     "strophe": "s4",
-     "texte": "Elle arrangeait les plats, près de moi, pour m'aiser ;",
-     "rime": "er",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 13,
-     "strophe": "s4",
-     "texte": "— Puis, comme ça, — bien sûr, pour avoir un baiser,",
-     "rime": "er",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 14,
-     "strophe": "s4",
-     "texte": "Tout bas : « Sens donc, j'ai pris une froid sur la joue… »",
-     "rime": "oue",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "leclatante_victoire_de_saarbruck",
-   "titre": "L'Éclatante Victoire de Saarbruck",
-   "date": "1870",
-   "auteur": "Arthur Rimbaud",
-   "recueil": "Cahiers de Douai",
-   "contexte": [
-    "Satire politique féroce de la guerre et de la propagande impériale."
-   ],
-   "forme": [
-    "Alexandrins."
-   ],
-   "champs": {
-    "satire": {
-     "label": "Satire & Guerre"
-    }
-   },
-   "strophes": [
-    {
-     "id": "s1",
-     "nom": "Strophe 1",
-     "vers": "Quatrain - Alexandrins"
-    },
-    {
-     "id": "s2",
-     "nom": "Strophe 2",
-     "vers": "Quatrain - Alexandrins"
-    },
-    {
-     "id": "s3",
-     "nom": "Strophe 3",
-     "vers": "Tercet - Alexandrins"
-    },
-    {
-     "id": "s4",
-     "nom": "Strophe 4",
-     "vers": "Tercet - Alexandrins"
-    }
-   ],
-   "lignes": [
-    {
-     "n": 1,
-     "strophe": "s1",
-     "texte": "Au milieu, l'Empereur, dans une apothéose",
-     "rime": "éos",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "satire"
-     ]
-    },
-    {
-     "n": 2,
-     "strophe": "s1",
-     "texte": "Bleue et jaune, s'en va, raide, sur son dada",
-     "rime": "a",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "satire"
-     ]
-    },
-    {
-     "n": 3,
-     "strophe": "s1",
-     "texte": "Flamboyant ; très heureux, — car il voit tout en rose,",
-     "rime": "os",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "satire"
-     ]
-    },
-    {
-     "n": 4,
-     "strophe": "s1",
-     "texte": "Féroce comme Zeus et doux comme un papa ;",
-     "rime": "a",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "satire"
-     ]
-    },
-    {
-     "n": 5,
-     "strophe": "s2",
-     "texte": "En bas, les bons Pioupious qui faisaient la sieste",
-     "rime": "iest",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "satire"
-     ]
-    },
-    {
-     "n": 6,
-     "strophe": "s2",
-     "texte": "Près des tambours dorés et des rouges canons,",
-     "rime": "on",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "satire"
-     ]
-    },
-    {
-     "n": 7,
-     "strophe": "s2",
-     "texte": "Se lèvent gentiment. Pitou remet sa veste,",
-     "rime": "est",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "satire"
-     ]
-    },
-    {
-     "n": 8,
-     "strophe": "s2",
-     "texte": "Et, tourné vers le Chef, s'étourdit de grands noms !",
-     "rime": "om",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "satire"
-     ]
-    },
-    {
-     "n": 9,
-     "strophe": "s3",
-     "texte": "À droite, Dumanet, appuyé sur la crosse",
-     "rime": "oss",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "satire"
-     ]
-    },
-    {
-     "n": 10,
-     "strophe": "s3",
-     "texte": "De son chassepot, sent frémir sa nuque en brosse,",
-     "rime": "oss",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "satire"
-     ]
-    },
-    {
-     "n": 11,
-     "strophe": "s3",
-     "texte": "Et : « Vive l'Empereur !!! » — Son voisin reste coi…",
-     "rime": "oi",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "satire"
-     ]
-    },
-    {
-     "n": 12,
-     "strophe": "s4",
-     "texte": "Un schako surgit, comme un soleil noir… — Au centre,",
-     "rime": "entr",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "satire"
-     ]
-    },
-    {
-     "n": 13,
-     "strophe": "s4",
-     "texte": "Boquillon rouge et bleu, très naïf, sur son ventre",
-     "rime": "entr",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "satire"
-     ]
-    },
-    {
-     "n": 14,
-     "strophe": "s4",
-     "texte": "Se dresse, et, — présentant ses derrières — : « De quoi ?… »",
-     "rime": "uoi",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "satire"
-     ]
-    }
-   ]
-  }
- ]
+  ]
 }

@@ -1,554 +1,554 @@
 {
- "page": 1,
- "recueil": "Cahiers de Douai",
- "auteur": "Arthur Rimbaud",
- "poemes": [
-  {
-   "id": "premiere_soiree",
-   "titre": "Première soirée",
-   "date": "1870",
-   "auteur": "Arthur Rimbaud",
-   "recueil": "Cahiers de Douai",
-   "contexte": [
-    "Écrit pendant l'été 1870 lors des premiers vagabondages de Rimbaud.",
-    "Poème de la sensualité adolescente et du jeu érotique."
-   ],
-   "forme": [
-    "Poème composé de 8 quatrains.",
-    "Mètre : octosyllabes.",
-    "Rimes croisées (ABAB)."
-   ],
-   "champs": {
-    "sensualite": {
-     "label": "Sensualité & Rire"
+  "page": 1,
+  "recueil": "Cahiers de Douai",
+  "auteur": "Arthur Rimbaud",
+  "poemes": [
+    {
+      "id": "premiere_soiree",
+      "titre": "Première soirée",
+      "date": "1870",
+      "auteur": "Arthur Rimbaud",
+      "recueil": "Cahiers de Douai",
+      "contexte": [
+        "Écrit pendant l'été 1870 lors des premiers vagabondages de Rimbaud.",
+        "Poème de la sensualité adolescente et du jeu érotique."
+      ],
+      "forme": [
+        "Poème composé de 8 quatrains.",
+        "Mètre : octosyllabes.",
+        "Rimes croisées (ABAB)."
+      ],
+      "champs": {
+        "sensualite": {
+          "label": "Sensualité & Rire"
+        },
+        "nature": {
+          "label": "Nature & Intimité"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Quatrain - Octosyllabes"
+        },
+        {
+          "id": "s2",
+          "nom": "Strophe 2",
+          "vers": "Quatrain - Octosyllabes"
+        },
+        {
+          "id": "s3",
+          "nom": "Strophe 3",
+          "vers": "Quatrain - Octosyllabes"
+        },
+        {
+          "id": "s4",
+          "nom": "Strophe 4",
+          "vers": "Quatrain - Octosyllabes"
+        },
+        {
+          "id": "s5",
+          "nom": "Strophe 5",
+          "vers": "Quatrain - Octosyllabes"
+        },
+        {
+          "id": "s6",
+          "nom": "Strophe 6",
+          "vers": "Quatrain - Octosyllabes"
+        },
+        {
+          "id": "s7",
+          "nom": "Strophe 7",
+          "vers": "Quatrain - Octosyllabes"
+        },
+        {
+          "id": "s8",
+          "nom": "Strophe 8",
+          "vers": "Quatrain - Octosyllabes"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "Elle était fort déshabillée",
+          "rime": "é",
+          "procede": "Proposition affirmative",
+          "effet": "Mise en scène immédiate de l'intimité.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 2,
+          "strophe": "s1",
+          "texte": "Et de grands arbres indiscrets",
+          "rime": "è",
+          "procede": "Personnification",
+          "effet": "La nature semble participer à la scène.",
+          "champs": [
+            "nature"
+          ]
+        },
+        {
+          "n": 3,
+          "strophe": "s1",
+          "texte": "Aux vitres jetaient leur feuillée",
+          "rime": "é",
+          "procede": "Image poétique",
+          "effet": "Cadre naturel entourant la chambre.",
+          "champs": [
+            "nature"
+          ]
+        },
+        {
+          "n": 4,
+          "strophe": "s1",
+          "texte": "Malinement, tout près, tout près.",
+          "rime": "è",
+          "procede": "Répétition « tout près, tout près »",
+          "effet": "Intimité insistante, presque murmure.",
+          "champs": [
+            "nature"
+          ]
+        },
+        {
+          "n": 5,
+          "strophe": "s2",
+          "texte": "Assise sur ma grande chaise,",
+          "rime": "ais",
+          "procede": "Détente possessive « ma grande chaise »",
+          "effet": "Intimité domestique : l'héroïne est mise à l'aise.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 6,
+          "strophe": "s2",
+          "texte": "Mi-nue, elle joignait les mains.",
+          "rime": "ain",
+          "procede": "Euphémisme « mi-nue »",
+          "effet": "Pudeur et abandon mêlés.",
+          "champs": [
+            "nature"
+          ]
+        },
+        {
+          "n": 7,
+          "strophe": "s2",
+          "texte": "Sur le plancher frissonnaient d'aise",
+          "rime": "ais",
+          "procede": "Personnification des pieds « frissonnaient d'aise »",
+          "effet": "Frisson de plaisir, pied anthropomorphisé.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 8,
+          "strophe": "s2",
+          "texte": "Ses petits pieds si fins, si fins.",
+          "rime": "in",
+          "procede": "Répétition « si fins, si fins »",
+          "effet": "Douceur caressante du détail.",
+          "champs": [
+            "nature"
+          ]
+        },
+        {
+          "n": 9,
+          "strophe": "s3",
+          "texte": "— Je regardai, couleur de cire,",
+          "rime": "ir",
+          "procede": "Chromaticisme « couleur de cire »",
+          "effet": "Pâleur de l'aube, lumière de bougie.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 10,
+          "strophe": "s3",
+          "texte": "Un petit rayon buissonnier",
+          "rime": "ier",
+          "procede": "Personnification « rayon buissonnier »",
+          "effet": "Le rayon, écolier espiègle.",
+          "champs": [
+            "nature"
+          ]
+        },
+        {
+          "n": 11,
+          "strophe": "s3",
+          "texte": "Papillonner dans son sourire",
+          "rime": "ir",
+          "procede": "Verbe ailé « papillonner »",
+          "effet": "Le rayon, papillon dans le sourire.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 12,
+          "strophe": "s3",
+          "texte": "Et sur son sein, — mouche au rosier.",
+          "rime": "ier",
+          "procede": "Comparaison « mouche au rosier »",
+          "effet": "Érotisme discret : fleur et insecte.",
+          "champs": [
+            "nature"
+          ]
+        },
+        {
+          "n": 13,
+          "strophe": "s4",
+          "texte": "— Je baisai ses fines chevilles.",
+          "rime": "ill",
+          "procede": "Geste amoureux « je baisai »",
+          "effet": "Première audace du baiser.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 14,
+          "strophe": "s4",
+          "texte": "Elle eut un doux rire brutal",
+          "rime": "al",
+          "procede": "Oxymore « doux rire brutal »",
+          "effet": "Plaisir et réticence mêlés.",
+          "champs": [
+            "nature"
+          ]
+        },
+        {
+          "n": 15,
+          "strophe": "s4",
+          "texte": "Qui s'égrenait en claires trilles,",
+          "rime": "ill",
+          "procede": "Image musicale « claires trilles »",
+          "effet": "Le rire, chant d'oiseau.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 16,
+          "strophe": "s4",
+          "texte": "Un joli rire de cristal.",
+          "rime": "al",
+          "procede": "Comparaison « rire de cristal »",
+          "effet": "Pureté sonore, éclat.",
+          "champs": [
+            "nature"
+          ]
+        },
+        {
+          "n": 17,
+          "strophe": "s5",
+          "texte": "Les petits pieds sous la chemise",
+          "rime": "is",
+          "procede": "Image de la cachette « sous la chemise »",
+          "effet": "Jeu du cache-cache érotique.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 18,
+          "strophe": "s5",
+          "texte": "Se sauvèrent : « Veux-tu finir ! »",
+          "rime": "ir",
+          "procede": "Didascalie orale « Veux-tu finir ! »",
+          "effet": "Fausse protestation, complicité.",
+          "champs": [
+            "nature"
+          ]
+        },
+        {
+          "n": 19,
+          "strophe": "s5",
+          "texte": "— La première audace permise,",
+          "rime": "is",
+          "procede": "Euphémisme « première audace permise »",
+          "effet": "Consentement accordé, franchissement.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 20,
+          "strophe": "s5",
+          "texte": "Le rire feignait de punir !",
+          "rime": "ir",
+          "procede": "Personnification « le rire feignait de punir »",
+          "effet": "Sanction simulée, jeu amoureux.",
+          "champs": [
+            "nature"
+          ]
+        },
+        {
+          "n": 21,
+          "strophe": "s6",
+          "texte": "— Pauvrets palpitants sous ma lèvre,",
+          "rime": "èvr",
+          "procede": "Diminutif affectueux « pauvrets »",
+          "effet": "Tendresse pour les pieds baisés.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 22,
+          "strophe": "s6",
+          "texte": "Je baisai doucement ses yeux :",
+          "rime": "eux",
+          "procede": "Parallélisme des gestes « baisai doucement »",
+          "effet": "Baisers successifs, progression.",
+          "champs": [
+            "nature"
+          ]
+        },
+        {
+          "n": 23,
+          "strophe": "s6",
+          "texte": "— Elle jeta sa tête mièvre",
+          "rime": "ièvr",
+          "procede": "Épithète « tête mièvre »",
+          "effet": "Tête renversée, abandon.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 24,
+          "strophe": "s6",
+          "texte": "En arrière : « Oh ! c'est encor mieux !…",
+          "rime": "ieux",
+          "procede": "Exclamation « Oh ! c'est encor mieux !… »",
+          "effet": "Plaisir avoué.",
+          "champs": [
+            "nature"
+          ]
+        },
+        {
+          "n": 25,
+          "strophe": "s7",
+          "texte": "Monsieur, j'ai deux mots à te dire… »",
+          "rime": "ir",
+          "procede": "Fausse solennité « Monsieur » / tutoiement",
+          "effet": "Distance ironique et complicité.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 26,
+          "strophe": "s7",
+          "texte": "— Je lui jetai le reste au sein",
+          "rime": "ein",
+          "procede": "Ellipse audacieuse « le reste au sein »",
+          "effet": "Passage à l'acte, sous-entendu.",
+          "champs": [
+            "nature"
+          ]
+        },
+        {
+          "n": 27,
+          "strophe": "s7",
+          "texte": "Dans un baiser, qui la fit rire",
+          "rime": "ir",
+          "procede": "Baiser qui fait rire",
+          "effet": "Plaisir et affection réunis.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 28,
+          "strophe": "s7",
+          "texte": "D'un bon rire qui voulait bien…",
+          "rime": "ien",
+          "procede": "Personnification « rire qui voulait bien »",
+          "effet": "Consentement joyeux.",
+          "champs": [
+            "nature"
+          ]
+        },
+        {
+          "n": 29,
+          "strophe": "s8",
+          "texte": "— Elle était fort déshabillée",
+          "rime": "ée",
+          "procede": "Reprise en écho du v. 1",
+          "effet": "Le poème se referme sur son incipit : boucle.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 30,
+          "strophe": "s8",
+          "texte": "Et de grands arbres indiscrets",
+          "rime": "et",
+          "procede": "Reprise du v. 2",
+          "effet": "Éternel retour de la scène.",
+          "champs": [
+            "nature"
+          ]
+        },
+        {
+          "n": 31,
+          "strophe": "s8",
+          "texte": "Aux vitres jetaient leur feuillée",
+          "rime": "ée",
+          "procede": "Reprise du v. 3",
+          "effet": "La scène recommence, hors du temps.",
+          "champs": [
+            "sensualite"
+          ]
+        },
+        {
+          "n": 32,
+          "strophe": "s8",
+          "texte": "Malinement, tout près, tout près.",
+          "rime": "è",
+          "procede": "Reprise du v. 4",
+          "effet": "Clôture sur le murmure initial.",
+          "champs": [
+            "nature"
+          ]
+        }
+      ]
     },
-    "nature": {
-     "label": "Nature & Intimité"
+    {
+      "id": "sensation",
+      "titre": "Sensation",
+      "date": "Mars 1870",
+      "auteur": "Arthur Rimbaud",
+      "recueil": "Cahiers de Douai",
+      "contexte": [
+        "L'un des poèmes les plus célèbres du jeune Rimbaud.",
+        "Exprime le désir d'évasion, de fusion avec la nature et de liberté."
+      ],
+      "forme": [
+        "Deux quatrains.",
+        "Mètre : alexandrins (12 syllabes).",
+        "Rimes croisées (ABAB)."
+      ],
+      "champs": {
+        "nature": {
+          "label": "Nature & Sensation"
+        },
+        "voyage": {
+          "label": "Vagabondage & Amour"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Quatrain - Alexandrins"
+        },
+        {
+          "id": "s2",
+          "nom": "Strophe 2",
+          "vers": "Quatrain - Alexandrins"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "Par les soirs bleus d'été, j'irai dans les sentiers,",
+          "rime": "ier",
+          "procede": "Futur de l'évasion « j'irai » / chromaticisme « soirs bleus »",
+          "effet": "Rêve d'évasion lyrique.",
+          "champs": [
+            "nature"
+          ]
+        },
+        {
+          "n": 2,
+          "strophe": "s1",
+          "texte": "Picoté par les blés, fouler l'herbe menue :",
+          "rime": "ue",
+          "procede": "Verbe sensitif « picoté » / « fouler »",
+          "effet": "Contact vivant avec les blés et l'herbe.",
+          "champs": [
+            "voyage"
+          ]
+        },
+        {
+          "n": 3,
+          "strophe": "s1",
+          "texte": "Rêveur, j'en sentirai la fraîcheur à mes pieds.",
+          "rime": "é",
+          "procede": "Champ lexical des sens",
+          "effet": "Bien-être et communion sensorielle.",
+          "champs": [
+            "nature"
+          ]
+        },
+        {
+          "n": 4,
+          "strophe": "s1",
+          "texte": "Je laisserai le vent baigner ma tête nue.",
+          "rime": "u",
+          "procede": "Metaphore du vent-eau",
+          "effet": "Impression de liberté pure.",
+          "champs": [
+            "nature",
+            "voyage"
+          ]
+        },
+        {
+          "n": 5,
+          "strophe": "s2",
+          "texte": "Je ne parlerai pas, je ne penserai rien :",
+          "rime": "i",
+          "procede": "Double négation / Parallélisme",
+          "effet": "Lâcher-prise et méditation silencieuse.",
+          "champs": [
+            "voyage"
+          ]
+        },
+        {
+          "n": 6,
+          "strophe": "s2",
+          "texte": "Mais l'amour infini me montera dans l'âme,",
+          "rime": "âm",
+          "procede": "Hyperbole de « l'amour infini »",
+          "effet": "Plénitude intérieure, grâce.",
+          "champs": [
+            "voyage"
+          ]
+        },
+        {
+          "n": 7,
+          "strophe": "s2",
+          "texte": "Et j'irai loin, bien loin, comme un bohémien,",
+          "rime": "i",
+          "procede": "Répétition / Comparaison",
+          "effet": "Thème du vagabond indépendant.",
+          "champs": [
+            "voyage"
+          ]
+        },
+        {
+          "n": 8,
+          "strophe": "s2",
+          "texte": "Par la Nature, — heureux comme avec une femme.",
+          "rime": "emm",
+          "procede": "Comparaison femme / nature « heureux comme avec une femme »",
+          "effet": "La nature, amante du poète.",
+          "champs": [
+            "voyage"
+          ]
+        }
+      ]
     }
-   },
-   "strophes": [
-    {
-     "id": "s1",
-     "nom": "Strophe 1",
-     "vers": "Quatrain - Octosyllabes"
-    },
-    {
-     "id": "s2",
-     "nom": "Strophe 2",
-     "vers": "Quatrain - Octosyllabes"
-    },
-    {
-     "id": "s3",
-     "nom": "Strophe 3",
-     "vers": "Quatrain - Octosyllabes"
-    },
-    {
-     "id": "s4",
-     "nom": "Strophe 4",
-     "vers": "Quatrain - Octosyllabes"
-    },
-    {
-     "id": "s5",
-     "nom": "Strophe 5",
-     "vers": "Quatrain - Octosyllabes"
-    },
-    {
-     "id": "s6",
-     "nom": "Strophe 6",
-     "vers": "Quatrain - Octosyllabes"
-    },
-    {
-     "id": "s7",
-     "nom": "Strophe 7",
-     "vers": "Quatrain - Octosyllabes"
-    },
-    {
-     "id": "s8",
-     "nom": "Strophe 8",
-     "vers": "Quatrain - Octosyllabes"
-    }
-   ],
-   "lignes": [
-    {
-     "n": 1,
-     "strophe": "s1",
-     "texte": "Elle était fort déshabillée",
-     "rime": "é",
-     "procede": "Proposition affirmative",
-     "effet": "Mise en scène immédiate de l'intimité.",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 2,
-     "strophe": "s1",
-     "texte": "Et de grands arbres indiscrets",
-     "rime": "è",
-     "procede": "Personnification",
-     "effet": "La nature semble participer à la scène.",
-     "champs": [
-      "nature"
-     ]
-    },
-    {
-     "n": 3,
-     "strophe": "s1",
-     "texte": "Aux vitres jetaient leur feuillée",
-     "rime": "é",
-     "procede": "Image poétique",
-     "effet": "Cadre naturel entourant la chambre.",
-     "champs": [
-      "nature"
-     ]
-    },
-    {
-     "n": 4,
-     "strophe": "s1",
-     "texte": "Malinement, tout près, tout près.",
-     "rime": "è",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "nature"
-     ]
-    },
-    {
-     "n": 5,
-     "strophe": "s2",
-     "texte": "Assise sur ma grande chaise,",
-     "rime": "ais",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 6,
-     "strophe": "s2",
-     "texte": "Mi-nue, elle joignait les mains.",
-     "rime": "ain",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "nature"
-     ]
-    },
-    {
-     "n": 7,
-     "strophe": "s2",
-     "texte": "Sur le plancher frissonnaient d'aise",
-     "rime": "ais",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 8,
-     "strophe": "s2",
-     "texte": "Ses petits pieds si fins, si fins.",
-     "rime": "in",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "nature"
-     ]
-    },
-    {
-     "n": 9,
-     "strophe": "s3",
-     "texte": "— Je regardai, couleur de cire,",
-     "rime": "ir",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 10,
-     "strophe": "s3",
-     "texte": "Un petit rayon buissonnier",
-     "rime": "ier",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "nature"
-     ]
-    },
-    {
-     "n": 11,
-     "strophe": "s3",
-     "texte": "Papillonner dans son sourire",
-     "rime": "ir",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 12,
-     "strophe": "s3",
-     "texte": "Et sur son sein, — mouche au rosier.",
-     "rime": "ier",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "nature"
-     ]
-    },
-    {
-     "n": 13,
-     "strophe": "s4",
-     "texte": "— Je baisai ses fines chevilles.",
-     "rime": "ill",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 14,
-     "strophe": "s4",
-     "texte": "Elle eut un doux rire brutal",
-     "rime": "al",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "nature"
-     ]
-    },
-    {
-     "n": 15,
-     "strophe": "s4",
-     "texte": "Qui s'égrenait en claires trilles,",
-     "rime": "ill",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 16,
-     "strophe": "s4",
-     "texte": "Un joli rire de cristal.",
-     "rime": "al",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "nature"
-     ]
-    },
-    {
-     "n": 17,
-     "strophe": "s5",
-     "texte": "Les petits pieds sous la chemise",
-     "rime": "is",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 18,
-     "strophe": "s5",
-     "texte": "Se sauvèrent : « Veux-tu finir ! »",
-     "rime": "ir",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "nature"
-     ]
-    },
-    {
-     "n": 19,
-     "strophe": "s5",
-     "texte": "— La première audace permise,",
-     "rime": "is",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 20,
-     "strophe": "s5",
-     "texte": "Le rire feignait de punir !",
-     "rime": "ir",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "nature"
-     ]
-    },
-    {
-     "n": 21,
-     "strophe": "s6",
-     "texte": "— Pauvrets palpitants sous ma lèvre,",
-     "rime": "èvr",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 22,
-     "strophe": "s6",
-     "texte": "Je baisai doucement ses yeux :",
-     "rime": "eux",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "nature"
-     ]
-    },
-    {
-     "n": 23,
-     "strophe": "s6",
-     "texte": "— Elle jeta sa tête mièvre",
-     "rime": "ièvr",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 24,
-     "strophe": "s6",
-     "texte": "En arrière : « Oh ! c'est encor mieux !…",
-     "rime": "ieux",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "nature"
-     ]
-    },
-    {
-     "n": 25,
-     "strophe": "s7",
-     "texte": "Monsieur, j'ai deux mots à te dire… »",
-     "rime": "ir",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 26,
-     "strophe": "s7",
-     "texte": "— Je lui jetai le reste au sein",
-     "rime": "ein",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "nature"
-     ]
-    },
-    {
-     "n": 27,
-     "strophe": "s7",
-     "texte": "Dans un baiser, qui la fit rire",
-     "rime": "ir",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 28,
-     "strophe": "s7",
-     "texte": "D'un bon rire qui voulait bien…",
-     "rime": "ien",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "nature"
-     ]
-    },
-    {
-     "n": 29,
-     "strophe": "s8",
-     "texte": "— Elle était fort déshabillée",
-     "rime": "ée",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 30,
-     "strophe": "s8",
-     "texte": "Et de grands arbres indiscrets",
-     "rime": "et",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "nature"
-     ]
-    },
-    {
-     "n": 31,
-     "strophe": "s8",
-     "texte": "Aux vitres jetaient leur feuillée",
-     "rime": "ée",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "sensualite"
-     ]
-    },
-    {
-     "n": 32,
-     "strophe": "s8",
-     "texte": "Malinement, tout près, tout près.",
-     "rime": "è",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "nature"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "sensation",
-   "titre": "Sensation",
-   "date": "Mars 1870",
-   "auteur": "Arthur Rimbaud",
-   "recueil": "Cahiers de Douai",
-   "contexte": [
-    "L'un des poèmes les plus célèbres du jeune Rimbaud.",
-    "Exprime le désir d'évasion, de fusion avec la nature et de liberté."
-   ],
-   "forme": [
-    "Deux quatrains.",
-    "Mètre : alexandrins (12 syllabes).",
-    "Rimes croisées (ABAB)."
-   ],
-   "champs": {
-    "nature": {
-     "label": "Nature & Sensation"
-    },
-    "voyage": {
-     "label": "Vagabondage & Amour"
-    }
-   },
-   "strophes": [
-    {
-     "id": "s1",
-     "nom": "Strophe 1",
-     "vers": "Quatrain - Alexandrins"
-    },
-    {
-     "id": "s2",
-     "nom": "Strophe 2",
-     "vers": "Quatrain - Alexandrins"
-    }
-   ],
-   "lignes": [
-    {
-     "n": 1,
-     "strophe": "s1",
-     "texte": "Par les soirs bleus d'été, j'irai dans les sentiers,",
-     "rime": "ier",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "nature"
-     ]
-    },
-    {
-     "n": 2,
-     "strophe": "s1",
-     "texte": "Picoté par les blés, fouler l'herbe menue :",
-     "rime": "ue",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "voyage"
-     ]
-    },
-    {
-     "n": 3,
-     "strophe": "s1",
-     "texte": "Rêveur, j'en sentirai la fraîcheur à mes pieds.",
-     "rime": "é",
-     "procede": "Champ lexical des sens",
-     "effet": "Bien-être et communion sensorielle.",
-     "champs": [
-      "nature"
-     ]
-    },
-    {
-     "n": 4,
-     "strophe": "s1",
-     "texte": "Je laisserai le vent baigner ma tête nue.",
-     "rime": "u",
-     "procede": "Metaphore du vent-eau",
-     "effet": "Impression de liberté pure.",
-     "champs": [
-      "nature",
-      "voyage"
-     ]
-    },
-    {
-     "n": 5,
-     "strophe": "s2",
-     "texte": "Je ne parlerai pas, je ne penserai rien :",
-     "rime": "i",
-     "procede": "Double négation / Parallélisme",
-     "effet": "Lâcher-prise et méditation silencieuse.",
-     "champs": [
-      "voyage"
-     ]
-    },
-    {
-     "n": 6,
-     "strophe": "s2",
-     "texte": "Mais l'amour infini me montera dans l'âme,",
-     "rime": "âm",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "voyage"
-     ]
-    },
-    {
-     "n": 7,
-     "strophe": "s2",
-     "texte": "Et j'irai loin, bien loin, comme un bohémien,",
-     "rime": "i",
-     "procede": "Répétition / Comparaison",
-     "effet": "Thème du vagabond indépendant.",
-     "champs": [
-      "voyage"
-     ]
-    },
-    {
-     "n": 8,
-     "strophe": "s2",
-     "texte": "Par la Nature, — heureux comme avec une femme.",
-     "rime": "emm",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "voyage"
-     ]
-    }
-   ]
-  }
- ]
+  ]
 }

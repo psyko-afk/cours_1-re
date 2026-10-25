@@ -1,398 +1,398 @@
 {
- "page": 4,
- "recueil": "Cahiers de Douai",
- "auteur": "Arthur Rimbaud",
- "poemes": [
-  {
-   "id": "chatiment_de_tartufe",
-   "titre": "Châtiment de Tartufe",
-   "date": "1870",
-   "auteur": "Arthur Rimbaud",
-   "contexte": [
-    "Critique violente de l'hypocrisie religieuse et de la censure napoléonienne."
-   ],
-   "forme": [
-    "Alexandrins, sonnet ou quatrains."
-   ],
-   "champs": {
-    "religion": {
-     "label": "Religion & Hypocrisie"
+  "page": 4,
+  "recueil": "Cahiers de Douai",
+  "auteur": "Arthur Rimbaud",
+  "poemes": [
+    {
+      "id": "chatiment_de_tartufe",
+      "titre": "Châtiment de Tartufe",
+      "date": "1870",
+      "auteur": "Arthur Rimbaud",
+      "contexte": [
+        "Critique violente de l'hypocrisie religieuse et de la censure napoléonienne."
+      ],
+      "forme": [
+        "Alexandrins, sonnet ou quatrains."
+      ],
+      "champs": {
+        "religion": {
+          "label": "Religion & Hypocrisie"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Quatrain - Alexandrins"
+        },
+        {
+          "id": "s2",
+          "nom": "Strophe 2",
+          "vers": "Quatrain - Alexandrins"
+        },
+        {
+          "id": "s3",
+          "nom": "Strophe 3",
+          "vers": "Tercet - Alexandrins"
+        },
+        {
+          "id": "s4",
+          "nom": "Strophe 4",
+          "vers": "Tercet - Alexandrins"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "Tisonnant, tisonnant son cœur amoureux sous",
+          "rime": "ou",
+          "procede": "Répétition insistante « Tisonnant, tisonnant »",
+          "effet": "Le désir du prêtre, feu qu'il entretient lui-même.",
+          "champs": [
+            "religion"
+          ]
+        },
+        {
+          "n": 2,
+          "strophe": "s1",
+          "texte": "Sa chaste robe noire, heureux, la main gantée,",
+          "rime": "ée",
+          "procede": "Contraste apparence dévote / désir",
+          "effet": "L'hypocrisie du dévot, désir sous l'uniforme.",
+          "champs": [
+            "religion"
+          ]
+        },
+        {
+          "n": 3,
+          "strophe": "s1",
+          "texte": "Un jour qu'il s'en allait, effroyablement doux,",
+          "rime": "oux",
+          "procede": "Oxymore « effroyablement doux »",
+          "effet": "La douceur de façade, monstruosité réelle.",
+          "champs": [
+            "religion"
+          ]
+        },
+        {
+          "n": 4,
+          "strophe": "s1",
+          "texte": "Jaune, bavant la foi de sa bouche édentée,",
+          "rime": "ée",
+          "procede": "Lexique corporel dépréciatif « bavant », « édentée »",
+          "effet": "La foi, bave sénile : dégradation grotesque du dévot.",
+          "champs": [
+            "religion"
+          ]
+        },
+        {
+          "n": 5,
+          "strophe": "s2",
+          "texte": "Un jour qu'il s'en allait, « Oremus », — un Méchant",
+          "rime": "ant",
+          "procede": "Reprise « Un jour qu'il s'en allait »",
+          "effet": "Rupture narrative, annonce du châtiment.",
+          "champs": [
+            "religion"
+          ]
+        },
+        {
+          "n": 6,
+          "strophe": "s2",
+          "texte": "Le prit rudement par son oreille benoîte :",
+          "rime": "oît",
+          "procede": "Antithèse « rudement » / « oreille benoîte »",
+          "effet": "Punition physique du dévot, vulgarité salvatrice.",
+          "champs": [
+            "religion"
+          ]
+        },
+        {
+          "n": 7,
+          "strophe": "s2",
+          "texte": "Et lui jeta des mots affreux, en arrachant",
+          "rime": "ant",
+          "procede": "Lexique de la violence « jeta / arrachant »",
+          "effet": "Le châtiment, violence verbale et physique.",
+          "champs": [
+            "religion"
+          ]
+        },
+        {
+          "n": 8,
+          "strophe": "s2",
+          "texte": "Sa chaste robe noire autour de sa peau moite !",
+          "rime": "oit",
+          "procede": "Antithèse « robe noire » / « peau moite »",
+          "effet": "L'hypocrisie, démasquée par la chair.",
+          "champs": [
+            "religion"
+          ]
+        },
+        {
+          "n": 9,
+          "strophe": "s3",
+          "texte": "Châtiment !… Ses habits étaient déboutonnés,",
+          "rime": "é",
+          "procede": "Exclamation « Châtiment ! »",
+          "effet": "La mise à nu, sentence du titre.",
+          "champs": [
+            "religion"
+          ]
+        },
+        {
+          "n": 10,
+          "strophe": "s3",
+          "texte": "Et le long chapelet des péchés pardonnés",
+          "rime": "é",
+          "procede": "Métaphore du chapelet des péchés",
+          "effet": "Les péchés, grains égrenés un à un.",
+          "champs": [
+            "religion"
+          ]
+        },
+        {
+          "n": 11,
+          "strophe": "s3",
+          "texte": "S'égrenait dans son cœur, Saint Tartufe était pâle !…",
+          "rime": "âl",
+          "procede": "Ironie de la majuscule « Saint Tartufe »",
+          "effet": "Canonisation parodique, chute morale.",
+          "champs": [
+            "religion"
+          ]
+        },
+        {
+          "n": 12,
+          "strophe": "s4",
+          "texte": "Donc, il se confessait, priait, avec un râle !",
+          "rime": "âl",
+          "procede": "Notation sonore « avec un râle »",
+          "effet": "Agonie burlesque de l'hypocrite.",
+          "champs": [
+            "religion"
+          ]
+        },
+        {
+          "n": 13,
+          "strophe": "s4",
+          "texte": "L'homme se contenta d'emporter ses rabats…",
+          "rime": "at",
+          "procede": "Restriction « se contenta d'emporter »",
+          "effet": "Vol dérisoire, punition suffisante.",
+          "champs": [
+            "religion"
+          ]
+        },
+        {
+          "n": 14,
+          "strophe": "s4",
+          "texte": "— Peuh ! Tartufe était nu du haut jusques en bas !",
+          "rime": "a",
+          "procede": "Chute crue « nu du haut jusques en bas »",
+          "effet": "L'hypocrite, entièrement démasqué.",
+          "champs": [
+            "religion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "venus_anadyomène",
+      "titre": "Vénus anadyomène",
+      "date": "1870",
+      "auteur": "Arthur Rimbaud",
+      "contexte": [
+        "Parodie de la naissance de Vénus et de la peinture académique.",
+        "Peinture réaliste et caustique d'une femme sortant de son bain."
+      ],
+      "forme": [
+        "Forme de sonnet (alexandrins)."
+      ],
+      "champs": {
+        "corps": {
+          "label": "Corps & Parodie"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Quatrain - Alexandrins"
+        },
+        {
+          "id": "s2",
+          "nom": "Strophe 2",
+          "vers": "Quatrain - Alexandrins"
+        },
+        {
+          "id": "s3",
+          "nom": "Strophe 3",
+          "vers": "Tercet - Alexandrins"
+        },
+        {
+          "id": "s4",
+          "nom": "Strophe 4",
+          "vers": "Tercet - Alexandrins"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "Comme d'un cercueil vert en fer blanc, une tête",
+          "rime": "êt",
+          "procede": "Comparaison au « cercueil vert »",
+          "effet": "La baignoire, tombeau de la beauté.",
+          "champs": [
+            "corps"
+          ]
+        },
+        {
+          "n": 2,
+          "strophe": "s1",
+          "texte": "De femme à cheveux bruns fortement pommadés",
+          "rime": "é",
+          "procede": "Précision déplaisante « fortement pommadés »",
+          "effet": "Réalisme repoussant, grotesque de la toilette.",
+          "champs": [
+            "corps"
+          ]
+        },
+        {
+          "n": 3,
+          "strophe": "s1",
+          "texte": "D'une vieille baignoire émerge, lente et bête,",
+          "rime": "êt",
+          "procede": "Épithètes dévalorisantes « lente et bête »",
+          "effet": "L'émergence, lourdeur animale de la chair.",
+          "champs": [
+            "corps"
+          ]
+        },
+        {
+          "n": 4,
+          "strophe": "s1",
+          "texte": "Avec des déficits assez mal ravaudés ;",
+          "rime": "é",
+          "procede": "Vocabulaire comptable « déficits »",
+          "effet": "Le corps, bilan de défaillances.",
+          "champs": [
+            "corps"
+          ]
+        },
+        {
+          "n": 5,
+          "strophe": "s2",
+          "texte": "Puis le col gras et gris, les larges omoplates",
+          "rime": "at",
+          "procede": "Inventaire anatomique « col gras, omoplates »",
+          "effet": "Le corps, catalogue de chair.",
+          "champs": [
+            "corps"
+          ]
+        },
+        {
+          "n": 6,
+          "strophe": "s2",
+          "texte": "Qui saillent ; le dos court qui rentre et qui ressort ;",
+          "rime": "ort",
+          "procede": "Rythme ondulant « rentre et ressort »",
+          "effet": "Le dos, vague de chair grasse.",
+          "champs": [
+            "corps"
+          ]
+        },
+        {
+          "n": 7,
+          "strophe": "s2",
+          "texte": "Puis les rondeurs des reins semblent prendre l'essor ;",
+          "rime": "or",
+          "procede": "Métaphore de l'envol « prendre l'essor »",
+          "effet": "La graisse, parodie du vol.",
+          "champs": [
+            "corps"
+          ]
+        },
+        {
+          "n": 8,
+          "strophe": "s2",
+          "texte": "La graisse sous la peau paraît en feuilles plates ;",
+          "rime": "at",
+          "procede": "Image des « feuilles plates »",
+          "effet": "La chair, feuillage mort et empilé.",
+          "champs": [
+            "corps"
+          ]
+        },
+        {
+          "n": 9,
+          "strophe": "s3",
+          "texte": "L'échine est un peu rouge, et le tout sent un goût",
+          "rime": "oût",
+          "procede": "Synesthésie « sent un goût »",
+          "effet": "Le corps, émanation repoussante : odorat et goût mêlés.",
+          "champs": [
+            "corps"
+          ]
+        },
+        {
+          "n": 10,
+          "strophe": "s3",
+          "texte": "Horrible étrangement ; on remarque surtout",
+          "rime": "out",
+          "procede": "Didascalie du regard « on remarque surtout »",
+          "effet": "Le poète, guide du dégoût.",
+          "champs": [
+            "corps"
+          ]
+        },
+        {
+          "n": 11,
+          "strophe": "s3",
+          "texte": "Des singularités qu'il faut voir à la loupe…",
+          "rime": "oup",
+          "procede": "Précision optique « voir à la loupe »",
+          "effet": "Le regard, instrument d'autopsie.",
+          "champs": [
+            "corps"
+          ]
+        },
+        {
+          "n": 12,
+          "strophe": "s4",
+          "texte": "Les reins portent deux mots gravés : Clara Venus ;",
+          "rime": "u",
+          "procede": "Inscription gravée « Clara Venus »",
+          "effet": "Le corps, statue dégradée par l'usage.",
+          "champs": [
+            "corps"
+          ]
+        },
+        {
+          "n": 13,
+          "strophe": "s4",
+          "texte": "— Et tout ce corps remue et tend sa large croupe",
+          "rime": "oup",
+          "procede": "Mouvement de la masse « remue et tend »",
+          "effet": "La chair, croupe offerte et obscène.",
+          "champs": [
+            "corps"
+          ]
+        },
+        {
+          "n": 14,
+          "strophe": "s4",
+          "texte": "Belle hideusement d'un ulcère à l'anus.",
+          "rime": "u",
+          "procede": "Oxymore « Belle hideusement »",
+          "effet": "Renverse l'idéal de beauté associé à Vénus.",
+          "champs": [
+            "corps"
+          ]
+        }
+      ]
     }
-   },
-   "strophes": [
-    {
-     "id": "s1",
-     "nom": "Strophe 1",
-     "vers": "Quatrain - Alexandrins"
-    },
-    {
-     "id": "s2",
-     "nom": "Strophe 2",
-     "vers": "Quatrain - Alexandrins"
-    },
-    {
-     "id": "s3",
-     "nom": "Strophe 3",
-     "vers": "Tercet - Alexandrins"
-    },
-    {
-     "id": "s4",
-     "nom": "Strophe 4",
-     "vers": "Tercet - Alexandrins"
-    }
-   ],
-   "lignes": [
-    {
-     "n": 1,
-     "strophe": "s1",
-     "texte": "Tisonnant, tisonnant son cœur amoureux sous",
-     "rime": "ou",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "religion"
-     ]
-    },
-    {
-     "n": 2,
-     "strophe": "s1",
-     "texte": "Sa chaste robe noire, heureux, la main gantée,",
-     "rime": "ée",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "religion"
-     ]
-    },
-    {
-     "n": 3,
-     "strophe": "s1",
-     "texte": "Un jour qu'il s'en allait, effroyablement doux,",
-     "rime": "oux",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "religion"
-     ]
-    },
-    {
-     "n": 4,
-     "strophe": "s1",
-     "texte": "Jaune, bavant la foi de sa bouche édentée,",
-     "rime": "ée",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "religion"
-     ]
-    },
-    {
-     "n": 5,
-     "strophe": "s2",
-     "texte": "Un jour qu'il s'en allait, « Oremus », — un Méchant",
-     "rime": "ant",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "religion"
-     ]
-    },
-    {
-     "n": 6,
-     "strophe": "s2",
-     "texte": "Le prit rudement par son oreille benoîte :",
-     "rime": "oît",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "religion"
-     ]
-    },
-    {
-     "n": 7,
-     "strophe": "s2",
-     "texte": "Et lui jeta des mots affreux, en arrachant",
-     "rime": "ant",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "religion"
-     ]
-    },
-    {
-     "n": 8,
-     "strophe": "s2",
-     "texte": "Sa chaste robe noire autour de sa peau moite !",
-     "rime": "oit",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "religion"
-     ]
-    },
-    {
-     "n": 9,
-     "strophe": "s3",
-     "texte": "Châtiment !… Ses habits étaient déboutonnés,",
-     "rime": "é",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "religion"
-     ]
-    },
-    {
-     "n": 10,
-     "strophe": "s3",
-     "texte": "Et le long chapelet des péchés pardonnés",
-     "rime": "é",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "religion"
-     ]
-    },
-    {
-     "n": 11,
-     "strophe": "s3",
-     "texte": "S'égrenait dans son cœur, Saint Tartufe était pâle !…",
-     "rime": "âl",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "religion"
-     ]
-    },
-    {
-     "n": 12,
-     "strophe": "s4",
-     "texte": "Donc, il se confessait, priait, avec un râle !",
-     "rime": "âl",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "religion"
-     ]
-    },
-    {
-     "n": 13,
-     "strophe": "s4",
-     "texte": "L'homme se contenta d'emporter ses rabats…",
-     "rime": "at",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "religion"
-     ]
-    },
-    {
-     "n": 14,
-     "strophe": "s4",
-     "texte": "— Peuh ! Tartufe était nu du haut jusques en bas !",
-     "rime": "a",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "religion"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "venus_anadyomène",
-   "titre": "Vénus anadyomène",
-   "date": "1870",
-   "auteur": "Arthur Rimbaud",
-   "contexte": [
-    "Parodie de la naissance de Vénus et de la peinture académique.",
-    "Peinture réaliste et caustique d'une femme sortant de son bain."
-   ],
-   "forme": [
-    "Forme de sonnet (alexandrins)."
-   ],
-   "champs": {
-    "corps": {
-     "label": "Corps & Parodie"
-    }
-   },
-   "strophes": [
-    {
-     "id": "s1",
-     "nom": "Strophe 1",
-     "vers": "Quatrain - Alexandrins"
-    },
-    {
-     "id": "s2",
-     "nom": "Strophe 2",
-     "vers": "Quatrain - Alexandrins"
-    },
-    {
-     "id": "s3",
-     "nom": "Strophe 3",
-     "vers": "Tercet - Alexandrins"
-    },
-    {
-     "id": "s4",
-     "nom": "Strophe 4",
-     "vers": "Tercet - Alexandrins"
-    }
-   ],
-   "lignes": [
-    {
-     "n": 1,
-     "strophe": "s1",
-     "texte": "Comme d'un cercueil vert en fer blanc, une tête",
-     "rime": "êt",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "corps"
-     ]
-    },
-    {
-     "n": 2,
-     "strophe": "s1",
-     "texte": "De femme à cheveux bruns fortement pommadés",
-     "rime": "é",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "corps"
-     ]
-    },
-    {
-     "n": 3,
-     "strophe": "s1",
-     "texte": "D'une vieille baignoire émerge, lente et bête,",
-     "rime": "êt",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "corps"
-     ]
-    },
-    {
-     "n": 4,
-     "strophe": "s1",
-     "texte": "Avec des déficits assez mal ravaudés ;",
-     "rime": "é",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "corps"
-     ]
-    },
-    {
-     "n": 5,
-     "strophe": "s2",
-     "texte": "Puis le col gras et gris, les larges omoplates",
-     "rime": "at",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "corps"
-     ]
-    },
-    {
-     "n": 6,
-     "strophe": "s2",
-     "texte": "Qui saillent ; le dos court qui rentre et qui ressort ;",
-     "rime": "ort",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "corps"
-     ]
-    },
-    {
-     "n": 7,
-     "strophe": "s2",
-     "texte": "Puis les rondeurs des reins semblent prendre l'essor ;",
-     "rime": "or",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "corps"
-     ]
-    },
-    {
-     "n": 8,
-     "strophe": "s2",
-     "texte": "La graisse sous la peau paraît en feuilles plates ;",
-     "rime": "at",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "corps"
-     ]
-    },
-    {
-     "n": 9,
-     "strophe": "s3",
-     "texte": "L'échine est un peu rouge, et le tout sent un goût",
-     "rime": "oût",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "corps"
-     ]
-    },
-    {
-     "n": 10,
-     "strophe": "s3",
-     "texte": "Horrible étrangement ; on remarque surtout",
-     "rime": "out",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "corps"
-     ]
-    },
-    {
-     "n": 11,
-     "strophe": "s3",
-     "texte": "Des singularités qu'il faut voir à la loupe…",
-     "rime": "oup",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "corps"
-     ]
-    },
-    {
-     "n": 12,
-     "strophe": "s4",
-     "texte": "Les reins portent deux mots gravés : Clara Venus ;",
-     "rime": "u",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "corps"
-     ]
-    },
-    {
-     "n": 13,
-     "strophe": "s4",
-     "texte": "— Et tout ce corps remue et tend sa large croupe",
-     "rime": "oup",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "corps"
-     ]
-    },
-    {
-     "n": 14,
-     "strophe": "s4",
-     "texte": "Belle hideusement d'un ulcère à l'anus.",
-     "rime": "u",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "corps"
-     ]
-    }
-   ]
-  }
- ]
+  ]
 }

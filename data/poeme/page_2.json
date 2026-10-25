@@ -1,3512 +1,3512 @@
 {
- "page": 2,
- "recueil": "Cahiers de Douai",
- "auteur": "Arthur Rimbaud",
- "poemes": [
-  {
-   "id": "le_forgeron",
-   "titre": "Le Forgeron",
-   "date": "1870",
-   "auteur": "Arthur Rimbaud",
-   "recueil": "Cahiers de Douai",
-   "contexte": [
-    "Poème engagé situé le 20 juin 1792 au Palais des Tuileries.",
-    "Invective d'un artisan-forgeron s'adressant directement au roi Louis XVI."
-   ],
-   "forme": [
-    "Grand poème épique et dramatique.",
-    "Mètre : alexandrins.",
-    "Rimes suivies et croisées selon les répliques."
-   ],
-   "champs": {
-    "peuple": {
-     "label": "Peuple & Révolution"
+  "page": 2,
+  "recueil": "Cahiers de Douai",
+  "auteur": "Arthur Rimbaud",
+  "poemes": [
+    {
+      "id": "le_forgeron",
+      "titre": "Le Forgeron",
+      "date": "1870",
+      "auteur": "Arthur Rimbaud",
+      "recueil": "Cahiers de Douai",
+      "contexte": [
+        "Poème engagé situé le 20 juin 1792 au Palais des Tuileries.",
+        "Invective d'un artisan-forgeron s'adressant directement au roi Louis XVI."
+      ],
+      "forme": [
+        "Grand poème épique et dramatique.",
+        "Mètre : alexandrins.",
+        "Rimes suivies et croisées selon les répliques."
+      ],
+      "champs": {
+        "peuple": {
+          "label": "Peuple & Révolution"
+        },
+        "colere": {
+          "label": "Révolte & Invective"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Alexandrins - Strophe 1"
+        },
+        {
+          "id": "s2",
+          "nom": "Strophe 2",
+          "vers": "Alexandrins - Strophe 2"
+        },
+        {
+          "id": "s3",
+          "nom": "Strophe 3",
+          "vers": "Alexandrins - Strophe 3"
+        },
+        {
+          "id": "s4",
+          "nom": "Strophe 4",
+          "vers": "Alexandrins - Strophe 4"
+        },
+        {
+          "id": "s5",
+          "nom": "Strophe 5",
+          "vers": "Alexandrins - Strophe 5"
+        },
+        {
+          "id": "s6",
+          "nom": "Strophe 6",
+          "vers": "Alexandrins - Strophe 6"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "Le bras sur un marteau gigantesque, effrayant",
+          "rime": "ant",
+          "procede": "Portrait in medias res / adjectif hyperbolique « gigantesque »",
+          "effet": "Le Forgeron s'impose d'emblée par sa force colossale.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 2,
+          "strophe": "s1",
+          "texte": "D'ivresse et de grandeur, le front vaste, riant",
+          "rime": "iant",
+          "procede": "Doublet abstrait « ivresse / grandeur »",
+          "effet": "Allure titanesque et joyeuse du géant populaire.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 3,
+          "strophe": "s1",
+          "texte": "Comme un clairon d'airain, avec toute sa bouche,",
+          "rime": "ouch",
+          "procede": "Comparaison « comme un clairon d'airain »",
+          "effet": "Le rire du Forgeron éclate, sonore comme un instrument d'airain.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 4,
+          "strophe": "s1",
+          "texte": "Et prenant ce gros-là dans son regard farouche,",
+          "rime": "ouch",
+          "procede": "Désignation dépréciative « ce gros-là » / regard farouche",
+          "effet": "Le roi, rabaisse à une apparence grotesque, est tenu en joue par le peuple.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 5,
+          "strophe": "s1",
+          "texte": "Le Forgeron parlait à Louis Seize, un jour",
+          "rime": "our",
+          "procede": "Majuscule allégorique « Le Forgeron »",
+          "effet": "Le personnage incarne tout le peuple travailleur.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 6,
+          "strophe": "s1",
+          "texte": "Que le Peuple était là, se tordant tout autour,",
+          "rime": "our",
+          "procede": "Majuscule allégorique « le Peuple » / verbe « se tordant »",
+          "effet": "Présence enveloppante et menaçante de la foule autour du roi.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 7,
+          "strophe": "s1",
+          "texte": "Et sur les lambris d'or tramant sa veste sale.",
+          "rime": "al",
+          "procede": "Antithèse « lambris d'or » / « veste sale »",
+          "effet": "Confrontation brutale du luxe royal et de la misère populaire.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 8,
+          "strophe": "s1",
+          "texte": "Or le bon roi, debout sur son ventre, était pâle,",
+          "rime": "âl",
+          "procede": "Ironie du « bon roi » / comique de la posture « sur son ventre »",
+          "effet": "Le roi, grotesque et terrifié, perd toute majesté.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 9,
+          "strophe": "s1",
+          "texte": "Pâle comme un vaincu qu'on prend pour le gibet,",
+          "rime": "et",
+          "procede": "Comparaison « comme un vaincu » / répétition « pâle »",
+          "effet": "Le roi est d'avance un condamné promis au gibet.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 10,
+          "strophe": "s1",
+          "texte": "Et, soumis comme un chien, jamais ne regimbait,",
+          "rime": "ait",
+          "procede": "Comparaison animale « comme un chien »",
+          "effet": "Abaissement complet : soumission servile du monarque.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 11,
+          "strophe": "s1",
+          "texte": "Car ce maraud de forge aux énormes épaules",
+          "rime": "aul",
+          "procede": "Insulte « maraud » contrastant avec les « énormes épaules »",
+          "effet": "Le mépris du langage se heurte à la puissance physique du peuple.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 12,
+          "strophe": "s1",
+          "texte": "Lui disait de vieux mots et des choses si drôles,",
+          "rime": "ôl",
+          "procede": "Registre familier « choses si drôles »",
+          "effet": "Familiarité révolutionnaire du parler direct.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 13,
+          "strophe": "s1",
+          "texte": "Que cela l'empoignait au front, comme cela !",
+          "rime": "a",
+          "procede": "Ponctuation d'oralité « comme cela ! »",
+          "effet": "Véhémence du discours populaire, gestuel et direct.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 14,
+          "strophe": "s1",
+          "texte": "« Or, tu sais bien, Monsieur, nous chantions tra la la",
+          "rime": "a",
+          "procede": "Tutoiement ironique « tu sais bien, Monsieur » / onomatopée « tra la la »",
+          "effet": "Fausse politesse qui rabaisse le roi au rang d'interlocuteur familier.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 15,
+          "strophe": "s1",
+          "texte": "Et nous piquions les bœufs vers les sillons des autres :",
+          "rime": "autr",
+          "procede": "Notation du travail forcé « sillons des autres »",
+          "effet": "Exploitation du paysan, qui laboure pour autrui.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 16,
+          "strophe": "s1",
+          "texte": "Le Chanoine au soleil filait des patenôtres",
+          "rime": "ôtr",
+          "procede": "Ironie du Chanoine oisif « filait des patenôtres »",
+          "effet": "Critique du clergé parasite, riche et inutile.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 17,
+          "strophe": "s1",
+          "texte": "Sur des chapelets clairs grenés de pièces d'or.",
+          "rime": "or",
+          "procede": "Association des « pièces d'or » au chapelet",
+          "effet": "L'or envahit jusqu'à la prière : dévotion intéressée.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 18,
+          "strophe": "s1",
+          "texte": "Le Seigneur, à cheval, passait, sonnant du cor",
+          "rime": "or",
+          "procede": "Évocation féodale « sonnant du cor »",
+          "effet": "Le seigneur chasseur passe, indifférent aux travaux.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 19,
+          "strophe": "s1",
+          "texte": "Et l'un avec la hart, l'autre avec la cravache",
+          "rime": "ach",
+          "procede": "Parallélisme « l'un… l'autre… » des instruments de punition",
+          "effet": "Violence quotidienne et banalisée des dominants.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 20,
+          "strophe": "s1",
+          "texte": "Nous fouaillaient. — Hébétés comme des yeux de vache,",
+          "rime": "ach",
+          "procede": "Comparaison animale « comme des yeux de vache »",
+          "effet": "Abrutissement du peuple, réduit à une bête de somme.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 21,
+          "strophe": "s1",
+          "texte": "Nos yeux ne pleuraient plus ; nous allions, nous allions,",
+          "rime": "ion",
+          "procede": "Répétition « nous allions, nous allions »",
+          "effet": "Marche résignée, automatisme du travail forcé.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 22,
+          "strophe": "s1",
+          "texte": "Et quand nous avions mis le pays en sillons,",
+          "rime": "on",
+          "procede": "Image du « pays en sillons »",
+          "effet": "Ampleur du labour accompli par les paysans.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 23,
+          "strophe": "s1",
+          "texte": "Quand nous avions laissé dans cette terre noire",
+          "rime": "oir",
+          "procede": "Anaphore de « Quand »",
+          "effet": "Énumération des sacrifices payés par le peuple.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 24,
+          "strophe": "s1",
+          "texte": "Un peu de notre chair… nous avions un pourboire :",
+          "rime": "oir",
+          "procede": "Métonymie « un peu de notre chair » / ironie du « pourboire »",
+          "effet": "Sang et sueur du peuple payés d'une misérable récompense.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 25,
+          "strophe": "s1",
+          "texte": "On nous faisait flamber nos taudis dans la nuit ;",
+          "rime": "uit",
+          "procede": "Image violente « flamber nos taudis »",
+          "effet": "Brutalité des châtiments seigneuriaux.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 26,
+          "strophe": "s1",
+          "texte": "Nos petits y faisaient un gâteau fort bien cuit.",
+          "rime": "uit",
+          "procede": "Métaphore culinaire macabre « un gâteau fort bien cuit »",
+          "effet": "Les enfants brûlés dans l'incendie, effroyable dérision.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 27,
+          "strophe": "s1",
+          "texte": "… « Oh ! je ne me plains pas. Je te dis mes bêtises,",
+          "rime": "is",
+          "procede": "Antiphrase « je ne me plains pas »",
+          "effet": "Fausse modestie qui redouble la force de l'accusation.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 28,
+          "strophe": "s1",
+          "texte": "C'est entre nous. J'admets que tu me contredises.",
+          "rime": "is",
+          "procede": "Faux-dialogue « j'admets que tu me contredises »",
+          "effet": "Ironie du forgeron, maître absolu de l'échange.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 29,
+          "strophe": "s1",
+          "texte": "Or, n'est-ce pas joyeux de voir, au mois de juin",
+          "rime": "uin",
+          "procede": "Question rhétorique « n'est-ce pas joyeux »",
+          "effet": "Évocation enthousiaste des joies de la moisson.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 30,
+          "strophe": "s1",
+          "texte": "Dans les granges entrer des voitures de foin",
+          "rime": "oin",
+          "procede": "Image champêtre « voitures de foin »",
+          "effet": "Bonheur simple rêvé par le travailleur.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 31,
+          "strophe": "s1",
+          "texte": "Énormes ? De sentir l'odeur de ce qui pousse,",
+          "rime": "ouss",
+          "procede": "Évocation olfactive « odeur de ce qui pousse »",
+          "effet": "Communion sensorielle avec la nature féconde.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 32,
+          "strophe": "s1",
+          "texte": "Des vergers quand il pleut un peu, de l'herbe rousse ?",
+          "rime": "ouss",
+          "procede": "Notation délicate « l'herbe rousse »",
+          "effet": "Rêve de plénitude, teinté de réalisme.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 33,
+          "strophe": "s1",
+          "texte": "De voir des blés, des blés, des épis pleins de grain,",
+          "rime": "ain",
+          "procede": "Répétition « des blés, des blés »",
+          "effet": "La répétition fait ressentir l'abondance des récoltes.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 34,
+          "strophe": "s1",
+          "texte": "De penser que cela prépare bien du pain ?…",
+          "rime": "ain",
+          "procede": "Passage du blé au pain « prépare bien du pain »",
+          "effet": "Le travail devrait nourrir ceux qui le font.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 35,
+          "strophe": "s1",
+          "texte": "Oh ! plus fort, on irait, au fourneau qui s'allume,",
+          "rime": "um",
+          "procede": "Exclamation lyrique « Oh ! plus fort »",
+          "effet": "Élan enthousiaste du rêve de justice.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 36,
+          "strophe": "s1",
+          "texte": "Chanter joyeusement en martelant l'enclume,",
+          "rime": "um",
+          "procede": "Alliance chant / travail « en martelant l'enclume »",
+          "effet": "Figure du travailleur heureux, enfin réconcilié.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 37,
+          "strophe": "s1",
+          "texte": "Si l'on était certain de pouvoir prendre un peu,",
+          "rime": "eu",
+          "procede": "Subordonnée conditionnelle « si l'on était certain »",
+          "effet": "Tout le bonheur rêvé reste suspendu à une condition.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 38,
+          "strophe": "s1",
+          "texte": "Étant homme, à la fin ! de ce que donne Dieu !",
+          "rime": "ieu",
+          "procede": "Exclamation revendicative « Étant homme, à la fin ! »",
+          "effet": "Dignité arrachée : le peuple réclame sa part.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 39,
+          "strophe": "s1",
+          "texte": "— Mais voilà, c'est toujours la même vieille histoire !",
+          "rime": "oir",
+          "procede": "Formule proverbiale « la même vieille histoire »",
+          "effet": "Retour au désenchantement : l'injustice persiste.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 40,
+          "strophe": "s1",
+          "texte": "« Mais je sais, maintenant ! Moi, je ne peux plus croire,",
+          "rime": "oir",
+          "procede": "Opposition « je sais, maintenant » / « je ne peux plus croire »",
+          "effet": "Prise de conscience révolutionnaire, fin de la résignation.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 41,
+          "strophe": "s1",
+          "texte": "Quand j'ai deux bonnes mains, mon front et mon marteau,",
+          "rime": "eau",
+          "procede": "Énumération des biens du travailleur « deux bonnes mains, mon front et mon marteau »",
+          "effet": "Le forgeron n'a que son corps et son travail pour tout bien.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 42,
+          "strophe": "s1",
+          "texte": "Qu'un homme vienne là, dague sur le manteau,",
+          "rime": "eau",
+          "procede": "Portrait du gentilhomme « dague sur le manteau »",
+          "effet": "La menace nobiliaire pèse sur l'ordre du travail.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 43,
+          "strophe": "s1",
+          "texte": "Et me dise : Mon gars, ensemence ma terre ;",
+          "rime": "err",
+          "procede": "Discours direct rapporté / tutoiement méprisant « Mon gars »",
+          "effet": "L'ordre seigneurial s'énonce dans sa brutalité familière.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 44,
+          "strophe": "s1",
+          "texte": "Que l'on arrive en cor, quand ce serait la guerre,",
+          "rime": "uerr",
+          "procede": "Évocation de la réquisition « en cor »",
+          "effet": "Le seigneur mobilise le paysan même pour ses guerres.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 45,
+          "strophe": "s1",
+          "texte": "Me prendre mon garçon comme cela, chez moi !",
+          "rime": "oi",
+          "procede": "Exclamation indignée « chez moi ! »",
+          "effet": "L'atteinte à la famille est le comble de l'injustice.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 46,
+          "strophe": "s1",
+          "texte": "— Moi, je serais un homme, et toi, tu serais roi,",
+          "rime": "oi",
+          "procede": "Parallélisme antithétique « moi, homme / toi, roi »",
+          "effet": "Renversement des rôles : l'homme vaudrait plus que le roi.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 47,
+          "strophe": "s1",
+          "texte": "Tu me dirais : Je veux !… — Tu vois bien, c'est stupide.",
+          "rime": "id",
+          "procede": "Dialogisme « Tu vois bien, c'est stupide »",
+          "effet": "L'arbitraire royal réduit à l'absurde.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 48,
+          "strophe": "s1",
+          "texte": "Tu crois que j'aime voir ta baraque splendide,",
+          "rime": "id",
+          "procede": "Ironie du diminutif « ta baraque splendide »",
+          "effet": "Le luxe royal n'impose que du mépris.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 49,
+          "strophe": "s1",
+          "texte": "Tes officiers dorés, tes mille chenapans,",
+          "rime": "an",
+          "procede": "Énumération méprisante « dorés, chenapans »",
+          "effet": "La cour se réduit à des dorures et des fripons.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 50,
+          "strophe": "s1",
+          "texte": "Tes palsembleu bâtards tournant comme des paons :",
+          "rime": "aon",
+          "procede": "Comparaison animale « comme des paons »",
+          "effet": "Vanité grotesque des courtisans.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 51,
+          "strophe": "s1",
+          "texte": "Ils ont rempli ton nid de l'odeur de nos filles",
+          "rime": "ill",
+          "procede": "Image de la souillure « l'odeur de nos filles »",
+          "effet": "La cour exploite jusqu'aux femmes du peuple.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 52,
+          "strophe": "s1",
+          "texte": "Et de petits billets pour nous mettre aux Bastilles,",
+          "rime": "ill",
+          "procede": "Métonymie des « petits billets » (lettres de cachet)",
+          "effet": "L'arbitraire emprisonne le peuple sur simple papier.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 53,
+          "strophe": "s1",
+          "texte": "Et nous dirons : C'est bien : les pauvres à genoux !",
+          "rime": "oux",
+          "procede": "Discours rapporté résigné « les pauvres à genoux »",
+          "effet": "La soumission attendue des pauvres, dénoncée en creux.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 54,
+          "strophe": "s1",
+          "texte": "Nous dorerons ton Louvre en donnant nos gros sous !",
+          "rime": "ou",
+          "procede": "Antithèse « dorer ton Louvre » / « nos gros sous »",
+          "effet": "Le peuple paie le luxe qui l'écrase.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 55,
+          "strophe": "s1",
+          "texte": "Et tu te soûleras, tu feras belle fête.",
+          "rime": "êt",
+          "procede": "Futur prophétique « tu te soûleras »",
+          "effet": "Débauche royale aux frais du peuple.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 56,
+          "strophe": "s1",
+          "texte": "— Et ces Messieurs riront, les reins sur notre tête !",
+          "rime": "êt",
+          "procede": "Image de l'écrasement « les reins sur notre tête »",
+          "effet": "Domination physique et symbolique des puissants.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 57,
+          "strophe": "s1",
+          "texte": "« Non. Ces saletés-là datent de nos papas !",
+          "rime": "a",
+          "procede": "Registre familier « ces saletés-là »",
+          "effet": "Rupture : la honte n'est plus héritée mais rejetée.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 58,
+          "strophe": "s1",
+          "texte": "Oh ! Le Peuple n'est plus une putain. Trois pas",
+          "rime": "a",
+          "procede": "Métaphore de la putain",
+          "effet": "Le peuple refuse d'être vendu.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 59,
+          "strophe": "s1",
+          "texte": "Et, tous, nous avons mis ta Bastille en poussière.",
+          "rime": "ièr",
+          "procede": "Image de l'écroulement « en poussière »",
+          "effet": "L'œuvre révolutionnaire accomplie par tous.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 60,
+          "strophe": "s1",
+          "texte": "Cette bête suait du sang à chaque pierre",
+          "rime": "ierr",
+          "procede": "Personnification de la Bastille-monstre « suait du sang »",
+          "effet": "La prison se rend coupable du sang du peuple.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 61,
+          "strophe": "s1",
+          "texte": "Et c'était dégoûtant, la Bastille debout",
+          "rime": "out",
+          "procede": "Registre du dégoût « c'était dégoûtant »",
+          "effet": "Répulsion physique devant l'arbitraire.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 62,
+          "strophe": "s1",
+          "texte": "Avec ses murs lépreux qui nous racontaient tout",
+          "rime": "out",
+          "procede": "Personnification des « murs lépreux » témoins",
+          "effet": "Les pierres portent la mémoire des crimes.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 63,
+          "strophe": "s1",
+          "texte": "Et, toujours, nous tenaient enfermés dans leur ombre !",
+          "rime": "ombr",
+          "procede": "Image carcérale de l'ombre",
+          "effet": "La prison étouffe le peuple dans l'obscurité.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 64,
+          "strophe": "s1",
+          "texte": "— Citoyen ! citoyen ! c'était le passé sombre",
+          "rime": "ombr",
+          "procede": "Apostrophe révolutionnaire « Citoyen ! citoyen ! »",
+          "effet": "Élan civique qui chasse les ténèbres de l'Ancien Régime.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 65,
+          "strophe": "s1",
+          "texte": "Qui croulait, qui râlait, quand nous prîmes la tour !",
+          "rime": "our",
+          "procede": "Personnification agonisante du « passé sombre »",
+          "effet": "Mort haletante de la tyrannie.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 66,
+          "strophe": "s1",
+          "texte": "Nous avions quelque chose au cœur comme l'amour.",
+          "rime": "our",
+          "procede": "Comparaison atténuée « comme l'amour »",
+          "effet": "Émotion fraternelle, mi-amour mi-espérance.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 67,
+          "strophe": "s1",
+          "texte": "Nous avions embrassé nos fils sur nos poitrines.",
+          "rime": "in",
+          "procede": "Geste paternel de l'étreinte",
+          "effet": "La fraternité révolutionnaire passe par la famille.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 68,
+          "strophe": "s1",
+          "texte": "Et, comme des chevaux, en soufflant des narines",
+          "rime": "in",
+          "procede": "Comparaison animale « comme des chevaux »",
+          "effet": "Force vibrante du peuple en marche.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 69,
+          "strophe": "s1",
+          "texte": "Nous allions, fiers et forts, et ça nous battait là…",
+          "rime": "à",
+          "procede": "Oralité populaire « ça nous battait là »",
+          "effet": "Le cœur du peuple bat de fierté.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 70,
+          "strophe": "s1",
+          "texte": "Nous marchions au soleil, front haut, — comme cela —,",
+          "rime": "a",
+          "procede": "Geste de dignité « front haut, — comme cela — »",
+          "effet": "Dignité retrouvée, debout au grand jour.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 71,
+          "strophe": "s1",
+          "texte": "Dans Paris ! On venait devant nos vestes sales.",
+          "rime": "al",
+          "procede": "Exclamation « Dans Paris ! »",
+          "effet": "Le peuple en haillons entre dans sa capitale.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 72,
+          "strophe": "s1",
+          "texte": "Enfin ! Nous nous sentions Hommes ! Nous étions pâles,",
+          "rime": "âl",
+          "procede": "Majuscule à « Hommes »",
+          "effet": "Conscience d'humanité retrouvée, malgré l'épuisement.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 73,
+          "strophe": "s1",
+          "texte": "Sire, nous étions soûls de terribles espoirs :",
+          "rime": "oir",
+          "procede": "Métaphore de l'ivresse « soûls de terribles espoirs »",
+          "effet": "L'espoir révolutionnaire grise le peuple.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 74,
+          "strophe": "s1",
+          "texte": "Et quand nous fûmes là, devant les donjons noirs,",
+          "rime": "oir",
+          "procede": "Chromaticisme sombre « donjons noirs »",
+          "effet": "Face à la forteresse, l'heure solennelle.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 75,
+          "strophe": "s1",
+          "texte": "Agitant nos clairons et nos feuilles de chêne,",
+          "rime": "ên",
+          "procede": "Symboles civiques « clairons, feuilles de chêne »",
+          "effet": "Emblèmes de la foule, guerrière et végétale.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 76,
+          "strophe": "s1",
+          "texte": "Les piques à la main ; nous n'eûmes pas de haine,",
+          "rime": "ain",
+          "procede": "Antithèse « piques à la main » / « pas de haine »",
+          "effet": "Révolution sans vengeance : pureté du peuple.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 77,
+          "strophe": "s1",
+          "texte": "— Nous nous sentions si forts, nous voulions être doux !",
+          "rime": "oux",
+          "procede": "Antithèse « si forts / être doux »",
+          "effet": "La puissance rend la clémence possible.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 78,
+          "strophe": "s2",
+          "texte": "Et depuis ce jour-là, nous sommes comme fous !",
+          "rime": "ou",
+          "procede": "Rupture temporelle « depuis ce jour-là » / comparaison « comme fous »",
+          "effet": "Bascule : l'espoir tourne à la fureur.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 79,
+          "strophe": "s2",
+          "texte": "Le tas des ouvriers a monté dans la rue,",
+          "rime": "ue",
+          "procede": "Image collective du « tas des ouvriers »",
+          "effet": "Le peuple urbain envahit l'espace public.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 80,
+          "strophe": "s2",
+          "texte": "Et ces maudits s'en vont, foule toujours accrue",
+          "rime": "ue",
+          "procede": "Foule « toujours accrue »",
+          "effet": "La foule grandit, inarrêtable.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 81,
+          "strophe": "s2",
+          "texte": "De sombres revenants, aux portes des richards.",
+          "rime": "ard",
+          "procede": "Métaphore des « sombres revenants »",
+          "effet": "Le peuple, fantôme hantant les portes des riches.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 82,
+          "strophe": "s2",
+          "texte": "Moi, je cours avec eux assommer les mouchards :",
+          "rime": "ard",
+          "procede": "Admission brutale « assommer les mouchards »",
+          "effet": "Le forgeron assume la violence populaire.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 83,
+          "strophe": "s2",
+          "texte": "Et je vais dans Paris, noir, marteau sur l'épaule,",
+          "rime": "aul",
+          "procede": "Autoportrait « noir, marteau sur l'épaule »",
+          "effet": "Figure du justicier sombre dans Paris.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 84,
+          "strophe": "s2",
+          "texte": "Farouche, à chaque coin balayant quelque drôle,",
+          "rime": "ôl",
+          "procede": "Énergie purificatrice « balayant quelque drôle »",
+          "effet": "Purge morale de la ville.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 85,
+          "strophe": "s2",
+          "texte": "Et, si tu me riais au nez, je te tuerais !",
+          "rime": "ai",
+          "procede": "Futur brutal « je te tuerais »",
+          "effet": "Menace sans détour adressée au roi.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 86,
+          "strophe": "s2",
+          "texte": "— Puis, tu peux y compter, tu te feras des frais",
+          "rime": "ai",
+          "procede": "Ironie comptable « tu te feras des frais »",
+          "effet": "La répression coûtera cher au pouvoir.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 87,
+          "strophe": "s2",
+          "texte": "Avec tes hommes noirs, qui prennent nos requêtes",
+          "rime": "uêt",
+          "procede": "Image inquiétante des « hommes noirs »",
+          "effet": "Fonctionnaires opaques qui interceptent la parole populaire.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 88,
+          "strophe": "s2",
+          "texte": "Pour se les renvoyer comme sur des raquettes",
+          "rime": "uett",
+          "procede": "Image dérisoire « comme sur des raquettes »",
+          "effet": "Les requêtes du peuple se perdent en jeu de passe-passe.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 89,
+          "strophe": "s2",
+          "texte": "Et, tout bas, les malins !",
+          "rime": "in",
+          "procede": "Aparté théâtral « tout bas, les malins »",
+          "effet": "Convoitise chuchotée des puissants.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 90,
+          "strophe": "s2",
+          "texte": "se disent : « Qu'ils sont sots ! »",
+          "rime": "ot",
+          "procede": "Discours rapporté méprisant « Qu'ils sont sots ! »",
+          "effet": "Le mépris de classe à voix basse.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 91,
+          "strophe": "s2",
+          "texte": "Pour mitonner des lois, coller de petits pots",
+          "rime": "ot",
+          "procede": "Vocabulaire culinaire familier « mitonner des lois »",
+          "effet": "Les lois mijotées en coulisses.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 92,
+          "strophe": "s2",
+          "texte": "Pleins de jolis décrets roses et de droguailles,",
+          "rime": "uaill",
+          "procede": "Diminutifs mièvres « jolis décrets roses »",
+          "effet": "Législation frelatée, mensongère.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 93,
+          "strophe": "s2",
+          "texte": "S'amuser à couper proprement quelques tailles,",
+          "rime": "aill",
+          "procede": "Euphémisme administratif « couper proprement quelques tailles »",
+          "effet": "Les coupes sèches se font aux dépens du peuple.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 94,
+          "strophe": "s2",
+          "texte": "Puis se boucher le nez quand nous marchons près d'eux,",
+          "rime": "eux",
+          "procede": "Geste de dégoût « se boucher le nez »",
+          "effet": "Le mépris physique des élus envers les travailleurs.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 95,
+          "strophe": "s2",
+          "texte": "— Nos doux représentants qui nous trouvent crasseux ! —",
+          "rime": "eux",
+          "procede": "Ironie de « nos doux représentants »",
+          "effet": "Représentants décevants, dégoûtés du peuple.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 96,
+          "strophe": "s2",
+          "texte": "Pour ne rien redouter, rien, que les baïonnettes…,",
+          "rime": "ett",
+          "procede": "Négation insistante « rien, que les baïonnettes »",
+          "effet": "Le pouvoir ne comprend que la force.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 97,
+          "strophe": "s2",
+          "texte": "C'est très bien. Foin de leur tabatière à sornettes !",
+          "rime": "ett",
+          "procede": "Registre familier « Foin de »",
+          "effet": "Rejet global des mensonges d'apparat.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 98,
+          "strophe": "s2",
+          "texte": "Nous en avons assez, là, de ces cerveaux plats",
+          "rime": "at",
+          "procede": "Métonymie des « cerveaux plats »",
+          "effet": "Médiocrité intellectuelle des gouvernants.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 99,
+          "strophe": "s2",
+          "texte": "Et de ces ventres-dieux. Ah ! ce sont là les plats",
+          "rime": "at",
+          "procede": "Néologisme méprisant « ventres-dieux »",
+          "effet": "Les élus, ventrus et autosatisfaits.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 100,
+          "strophe": "s2",
+          "texte": "Que tu nous sers, bourgeois, quand nous sommes féroces,",
+          "rime": "oc",
+          "procede": "Apostrophe au « bourgeois »",
+          "effet": "Le menu servi au peuple affamé de justice.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 101,
+          "strophe": "s2",
+          "texte": "Quand nous brisons déjà les sceptres et les crosses !… »",
+          "rime": "oss",
+          "procede": "Symboles brisés « sceptres et crosses »",
+          "effet": "Renversement des pouvoirs politique et religieux.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 102,
+          "strophe": "s2",
+          "texte": "Il le prend par le bras, arrache le velours",
+          "rime": "our",
+          "procede": "Gestuelle théâtrale « arrache le velours »",
+          "effet": "Le forgeron fait voir, de force, la réalité au roi.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 103,
+          "strophe": "s3",
+          "texte": "Des rideaux, et lui montre en bas les larges cours",
+          "rime": "our",
+          "procede": "Mise en scène du regard « lui montre en bas »",
+          "effet": "Le balcon devient tribune face au peuple.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 104,
+          "strophe": "s3",
+          "texte": "Où fourmille, où fourmille, où se lève la foule,",
+          "rime": "oul",
+          "procede": "Anaphore « où fourmille, où fourmille »",
+          "effet": "La foule grouille et surgit, océanique.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 105,
+          "strophe": "s3",
+          "texte": "La foule épouvantable avec des bruits de houle,",
+          "rime": "oul",
+          "procede": "Comparaison marine « bruits de houle »",
+          "effet": "Le peuple en tempête menaçante.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 106,
+          "strophe": "s3",
+          "texte": "Hurlant comme une chienne, hurlant comme une mer,",
+          "rime": "er",
+          "procede": "Double comparaison « comme une chienne / comme une mer »",
+          "effet": "Rugissement élémentaire de la foule.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 107,
+          "strophe": "s3",
+          "texte": "Avec ses bâtons forts et ses piques de fer,",
+          "rime": "er",
+          "procede": "Énumération d'armes « bâtons, piques de fer »",
+          "effet": "L'armement improvisé du peuple.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 108,
+          "strophe": "s3",
+          "texte": "Ses tambours, ses grands cris de halles et de bouges,",
+          "rime": "oug",
+          "procede": "Énumération sonore « halles et de bouges »",
+          "effet": "Frange populaire, bruyante et méprisée.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 109,
+          "strophe": "s3",
+          "texte": "Tas sombre de haillons saignant de bonnets rouges :",
+          "rime": "oug",
+          "procede": "Image colorée « saignant de bonnets rouges »",
+          "effet": "Le peuple ensanglanté sous ses emblèmes.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 110,
+          "strophe": "s3",
+          "texte": "L'Homme, par la fenêtre ouverte, montre tout",
+          "rime": "out",
+          "procede": "Majuscule à « l'Homme »",
+          "effet": "Le Forgeron se fait l'ambassadeur de l'humanité entière.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 111,
+          "strophe": "s3",
+          "texte": "Au roi pâle et suant qui chancelle debout,",
+          "rime": "out",
+          "procede": "Pathétique royal « pâle et suant »",
+          "effet": "Effondrement physique du monarque.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 112,
+          "strophe": "s3",
+          "texte": "Malade à regarder cela ! « C'est la Crapule,",
+          "rime": "ul",
+          "procede": "Reprise ironique de l'injure « la Crapule »",
+          "effet": "Le forgeron s'approprie l'injure pour retourner la honte.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 113,
+          "strophe": "s3",
+          "texte": "Sire. Ça bave aux murs, ça monte, ça pullule :",
+          "rime": "ul",
+          "procede": "Anaphore de « ça »",
+          "effet": "La populace décrite comme une prolifération vivante.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 114,
+          "strophe": "s3",
+          "texte": "— Puisqu'ils ne mangent pas, Sire, ce sont des gueux !",
+          "rime": "ueux",
+          "procede": "Logique de bon sens « puisqu'ils ne mangent pas »",
+          "effet": "La révolte naît de la faim : évidence dénonciatrice.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 115,
+          "strophe": "s3",
+          "texte": "Je suis un forgeron : ma femme est avec eux.",
+          "rime": "eux",
+          "procede": "Révélation personnelle « ma femme est avec eux »",
+          "effet": "Le sort du forgeron est indissociable du peuple.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 116,
+          "strophe": "s3",
+          "texte": "Folle ! Elle croit trouver du pain aux Tuileries !",
+          "rime": "ie",
+          "procede": "Exclamation désespérée « Folle ! »",
+          "effet": "La femme affamée court après un espoir naïf de pain.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 117,
+          "strophe": "s3",
+          "texte": "— On ne veut pas de nous dans les boulangeries.",
+          "rime": "ie",
+          "procede": "Constat amer « on ne veut pas de nous »",
+          "effet": "L'exclusion frappe jusqu'au pain quotidien.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 118,
+          "strophe": "s3",
+          "texte": "J'ai trois petits. Je suis crapule. — Je connais",
+          "rime": "ai",
+          "procede": "Rythme ternaire « trois petits » / injure assumée « je suis crapule »",
+          "effet": "L'injure devient identité revendiquée.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 119,
+          "strophe": "s3",
+          "texte": "Des vieilles qui s'en vont pleurant sous leurs bonnets",
+          "rime": "et",
+          "procede": "Image des « vieilles pleurant sous leurs bonnets »",
+          "effet": "Le deuil populaire, discret et permanent.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 120,
+          "strophe": "s3",
+          "texte": "Parce qu'on leur a pris leur garçon ou leur fille :",
+          "rime": "ill",
+          "procede": "Cause directe « on leur a pris »",
+          "effet": "L'arbitraire déchire les familles.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 121,
+          "strophe": "s3",
+          "texte": "C'est la crapule. — Un homme était à la Bastille,",
+          "rime": "ill",
+          "procede": "Leitmotiv de l'injure « C'est la crapule »",
+          "effet": "L'injure revient comme un refrain accusateur.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 122,
+          "strophe": "s3",
+          "texte": "Un autre était forçat : et tous deux, citoyens",
+          "rime": "en",
+          "procede": "Antithèse « forçats / citoyens honnêtes »",
+          "effet": "L'honnêteté du peuple ternie par la prison.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 123,
+          "strophe": "s3",
+          "texte": "Honnêtes. Libérés, ils sont comme des chiens :",
+          "rime": "ien",
+          "procede": "Comparaison animale « comme des chiens »",
+          "effet": "Les anciens détenus restent des parias.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 124,
+          "strophe": "s3",
+          "texte": "On les insulte ! Alors, ils ont là quelque chose",
+          "rime": "os",
+          "procede": "Blessure intérieure « quelque chose qui leur fait mal »",
+          "effet": "La douleur morale de l'exclusion.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 125,
+          "strophe": "s3",
+          "texte": "Qui leur fait mal, allez ! C'est terrible, et c'est cause",
+          "rime": "aus",
+          "procede": "Oralité « allez ! »",
+          "effet": "L'injustice subie devient cause de la révolte.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 126,
+          "strophe": "s3",
+          "texte": "Que se sentant brisés, que, se sentant damnés,",
+          "rime": "é",
+          "procede": "Répétition « se sentant brisés / se sentant damnés »",
+          "effet": "Conscience de classe brisée et maudite.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 127,
+          "strophe": "s3",
+          "texte": "Ils sont là, maintenant, hurlant sous votre nez !",
+          "rime": "ez",
+          "procede": "Déictiques « là, maintenant »",
+          "effet": "Le peuple méprisé impose sa présence.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 128,
+          "strophe": "s3",
+          "texte": "Crapule. — Là-dedans sont des filles, infâmes",
+          "rime": "âm",
+          "procede": "Poursuite du leitmotiv « filles, infâmes »",
+          "effet": "Les femmes tombées, victimes du mépris.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 129,
+          "strophe": "s3",
+          "texte": "Parce que, — vous saviez que c'est faible, les femmes, —",
+          "rime": "emm",
+          "procede": "Aparté dénonciateur « vous saviez que c'est faible »",
+          "effet": "La faiblesse exploitée par les puissants.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 130,
+          "strophe": "s3",
+          "texte": "Messeigneurs de la cour, — que ça veut toujours bien, —",
+          "rime": "ien",
+          "procede": "Apostrophe ironique « Messeigneurs de la cour »",
+          "effet": "La cour, hypocrite et prédatrice.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 131,
+          "strophe": "s3",
+          "texte": "Vous [leur] avez craché sur l'âme, comme rien !",
+          "rime": "ien",
+          "procede": "Image du crachat « craché sur l'âme »",
+          "effet": "Le mépris souille jusqu'à l'âme.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 132,
+          "strophe": "s3",
+          "texte": "Vos belles, aujourd'hui, sont là. C'est la crapule.",
+          "rime": "ul",
+          "procede": "Retournement ironique « vos belles… c'est la crapule »",
+          "effet": "Les femmes des puissants rejoignent la foule injuriée.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 133,
+          "strophe": "s4",
+          "texte": "« Oh ! tous les Malheureux, tous ceux dont le dos brûle",
+          "rime": "ûl",
+          "procede": "Apostrophe élargie « tous les Malheureux »",
+          "effet": "Le forgeron devient la voix de tous les opprimés.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 134,
+          "strophe": "s4",
+          "texte": "Sous le soleil féroce, et qui vont, et qui vont,",
+          "rime": "ont",
+          "procede": "Personnification du « soleil féroce » / répétition « qui vont »",
+          "effet": "Le travail épuisant, sans fin, sous le soleil hostile.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 135,
+          "strophe": "s4",
+          "texte": "Qui dans ce travail-là sentent crever leur front…",
+          "rime": "ont",
+          "procede": "Verbe intense « sentent crever leur front »",
+          "effet": "L'épuisement physique porté à son comble.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 136,
+          "strophe": "s4",
+          "texte": "Chapeau bas, mes bourgeois ! Oh ! ceux-là, sont les Hommes !",
+          "rime": "omm",
+          "procede": "Injonction « Chapeau bas, mes bourgeois ! »",
+          "effet": "Le respect dû aux vrais travailleurs.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 137,
+          "strophe": "s4",
+          "texte": "Nous sommes Ouvriers, Sire ! Ouvriers ! Nous sommes",
+          "rime": "omm",
+          "procede": "Anaphore « Ouvriers ! »",
+          "effet": "Fierté de classe affirmée, identité collective.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 138,
+          "strophe": "s4",
+          "texte": "Pour les grands temps nouveaux où l'on voudra savoir,",
+          "rime": "oir",
+          "procede": "Vision prophétique « les grands temps nouveaux »",
+          "effet": "L'avenir promis au savoir du peuple.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 139,
+          "strophe": "s4",
+          "texte": "Où l'Homme forgera du matin jusqu'au soir,",
+          "rime": "oir",
+          "procede": "Verbe métaphorique « forgera »",
+          "effet": "L'humanité devient artisan de son destin.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 140,
+          "strophe": "s4",
+          "texte": "Chasseur des grands effets, chasseur des grandes causes,",
+          "rime": "aus",
+          "procede": "Anaphore « Chasseur des… »",
+          "effet": "L'Homme conquéreur des lois du monde.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 141,
+          "strophe": "s4",
+          "texte": "Où, lentement vainqueur, il domptera les choses",
+          "rime": "os",
+          "procede": "Image du dressage « domptera les choses »",
+          "effet": "Maîtrise progressive de la nature.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 142,
+          "strophe": "s4",
+          "texte": "Et montera sur Tout, comme sur un cheval !",
+          "rime": "al",
+          "procede": "Comparaison équestre « comme sur un cheval »",
+          "effet": "Domination souveraine de l'univers.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 143,
+          "strophe": "s4",
+          "texte": "Oh ! splendides lueurs des forges ! Plus de mal,",
+          "rime": "al",
+          "procede": "Exclamation lyrique « splendides lueurs des forges »",
+          "effet": "Le travail en gloire, fin de la souffrance.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 144,
+          "strophe": "s4",
+          "texte": "Plus ! — Ce qu'on ne sait pas, c'est peut-être terrible :",
+          "rime": "ibl",
+          "procede": "Suspension inquiétante « c'est peut-être terrible »",
+          "effet": "Le mystère de l'inconnu, promesse et menace.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 145,
+          "strophe": "s4",
+          "texte": "Nous saurons ! — Nos marteaux en main, passons au crible",
+          "rime": "ibl",
+          "procede": "Image du crible « passons au crible »",
+          "effet": "Le peuple triera le vrai du faux.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 146,
+          "strophe": "s4",
+          "texte": "Tout ce que nous savons : puis, Frères, en avant !",
+          "rime": "ant",
+          "procede": "Apostrophe fraternelle « Frères »",
+          "effet": "L'élan collectif, fraternel et conquérant.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 147,
+          "strophe": "s4",
+          "texte": "Nous faisons quelquefois ce grand rêve émouvant",
+          "rime": "ant",
+          "procede": "Aveu du « grand rêve émouvant »",
+          "effet": "L'utopie avouée, humble et touchante.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 148,
+          "strophe": "s4",
+          "texte": "De vivre simplement, ardemment, sans rien dire",
+          "rime": "ir",
+          "procede": "Rythme des adverbes « simplement, ardemment »",
+          "effet": "Idéal de vie sobre et intense.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 149,
+          "strophe": "s4",
+          "texte": "De mauvais, travaillant sous l'auguste sourire",
+          "rime": "ir",
+          "procede": "Épithète noble « auguste sourire »",
+          "effet": "Le travail bénin, protégé par l'amour.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 150,
+          "strophe": "s4",
+          "texte": "D'une femme qu'on aime avec un noble amour :",
+          "rime": "our",
+          "procede": "Élévation de l'amour « noble amour »",
+          "effet": "L'amour conjugal porté à sa plus haute dignité.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 151,
+          "strophe": "s4",
+          "texte": "Et l'on travaillerait fièrement tout le jour,",
+          "rime": "our",
+          "procede": "Conditionnel prolongé « on travaillerait »",
+          "effet": "Le rêve continue : travail digne et heureux.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 152,
+          "strophe": "s4",
+          "texte": "Écoutant le devoir comme un clairon qui sonne :",
+          "rime": "onn",
+          "procede": "Comparaison au clairon « comme un clairon qui sonne »",
+          "effet": "Le devoir, militaire et musical, guide le travailleur.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 153,
+          "strophe": "s4",
+          "texte": "Et l'on se sentirait très heureux ; et personne.",
+          "rime": "onn",
+          "procede": "Suspension étrange « et personne »",
+          "effet": "Le bonheur absolu, sans ombre de plainte.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 154,
+          "strophe": "s4",
+          "texte": "Oh ! personne, surtout, ne vous ferait ployer !",
+          "rime": "er",
+          "procede": "Anaphore « personne, surtout »",
+          "effet": "L'invulnérabilité du peuple libre.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 155,
+          "strophe": "s4",
+          "texte": "On aurait un fusil au-dessus du foyer…",
+          "rime": "er",
+          "procede": "Détail concret du « fusil au-dessus du foyer »",
+          "effet": "La liberté armée, même au cœur du foyer.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 156,
+          "strophe": "s5",
+          "texte": "« Oh ! mais l'air est tout plein d'une odeur de bataille !",
+          "rime": "aill",
+          "procede": "Rupture lyrique « une odeur de bataille »",
+          "effet": "Le rêve se brise sur l'odeur de la guerre.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 157,
+          "strophe": "s5",
+          "texte": "Que te disais-je donc ? Je suis de la canaille !",
+          "rime": "aill",
+          "procede": "Autodésignation « je suis de la canaille »",
+          "effet": "Le forgeron reprend à son compte l'injure.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 158,
+          "strophe": "s5",
+          "texte": "Il reste des mouchards et des accapareurs.",
+          "rime": "eur",
+          "procede": "Énumération des ennemis « mouchards et accapareurs »",
+          "effet": "La révolution reste inachevée.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 159,
+          "strophe": "s5",
+          "texte": "Nous sommes libres, nous ! Nous avons des terreurs",
+          "rime": "eur",
+          "procede": "Antithèse « libres / terreurs »",
+          "effet": "La liberté naissante s'accompagne d'angoisses.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 160,
+          "strophe": "s5",
+          "texte": "Où nous nous sentons grands, oh ! si grands ! Tout à l'heure",
+          "rime": "eur",
+          "procede": "Hyperbole « oh ! si grands ! »",
+          "effet": "Grandeur intérieure née du péril.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 161,
+          "strophe": "s5",
+          "texte": "Je parlais de devoir calme, d'une demeure…",
+          "rime": "eur",
+          "procede": "Reprise du rêve brisé « devoir calme, demeure »",
+          "effet": "Le rêve domestique s'efface devant l'action.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 162,
+          "strophe": "s5",
+          "texte": "Regarde donc le ciel ! — C'est trop petit pour nous,",
+          "rime": "ou",
+          "procede": "Apostrophe au ciel / hyperbole « trop petit pour nous »",
+          "effet": "L'ambition du peuple dépasse l'univers.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 163,
+          "strophe": "s5",
+          "texte": "Nous crèverions de chaud, nous serions à genoux !",
+          "rime": "oux",
+          "procede": "Futur hypothétique « nous serions à genoux »",
+          "effet": "Le ciel lui-même serait une prison.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 164,
+          "strophe": "s5",
+          "texte": "Regarde donc le ciel ! — Je rentre dans la foule,",
+          "rime": "oul",
+          "procede": "Répétition de l'apostrophe « Regarde donc le ciel ! »",
+          "effet": "Le forgeron retourne à sa vraie place.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 165,
+          "strophe": "s5",
+          "texte": "Dans la grande canaille effroyable, qui roule,",
+          "rime": "oul",
+          "procede": "Autodésignation assumée « la grande canaille »",
+          "effet": "La foule effrayante devient son élément.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 166,
+          "strophe": "s5",
+          "texte": "Sire, tes vieux canons sur les sales pavés :",
+          "rime": "é",
+          "procede": "Image du renversement « tes vieux canons sur les sales pavés »",
+          "effet": "Les armes royales culbutées par le peuple.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 167,
+          "strophe": "s5",
+          "texte": "— Oh ! quand nous serons morts, nous les aurons lavés",
+          "rime": "é",
+          "procede": "Image du sacrifice rédempteur « nous les aurons lavés »",
+          "effet": "Le sang du peuple purifiera l'honneur.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 168,
+          "strophe": "s5",
+          "texte": "— Et si, devant nos cris, devant notre vengeance,",
+          "rime": "eanc",
+          "procede": "Anaphore « devant nos cris, devant notre vengeance »",
+          "effet": "La fureur populaire comme jugement.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 169,
+          "strophe": "s5",
+          "texte": "Les pattes des vieux rois mordorés, sur la France",
+          "rime": "anc",
+          "procede": "Métaphore animale des « pattes » royales",
+          "effet": "Les rois, bêtes rapaces dorées, sur le pays.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 170,
+          "strophe": "s5",
+          "texte": "Poussent leurs régiments en habits de gala,",
+          "rime": "a",
+          "procede": "Ironie du « gala »",
+          "effet": "L'armée royale en parade face au peuple.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 171,
+          "strophe": "s5",
+          "texte": "Eh bien, n'est-ce pas, vous tous ? — Merde à ces chiens-là ! »",
+          "rime": "à",
+          "procede": "Crudité finale « Merde à ces chiens-là ! »",
+          "effet": "L'exécration brute, sans fard oratoire.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 172,
+          "strophe": "s6",
+          "texte": "— Il reprit son marteau sur l'épaule.",
+          "rime": "aul",
+          "procede": "Retour au geste initial « reprit son marteau »",
+          "effet": "Le forgeron redevient ouvrier : la parole est dite.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 173,
+          "strophe": "s6",
+          "texte": "La foule",
+          "rime": "oul",
+          "procede": "Enjambement « La foule / Près de cet homme-là »",
+          "effet": "Le rejet fait entrer la foule dans le vers suivant.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 174,
+          "strophe": "s6",
+          "texte": "Près de cet homme-là se sentait l'âme soûle,",
+          "rime": "oûl",
+          "procede": "Image de l'ivresse collective « l'âme soûle »",
+          "effet": "Le discours a grisé l'auditoire.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 175,
+          "strophe": "s6",
+          "texte": "Et, dans la grande cour, dans les appartements,",
+          "rime": "ent",
+          "procede": "Anaphore « dans la grande cour, dans les appartements »",
+          "effet": "L'émotion gagne tous les espaces du palais.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 176,
+          "strophe": "s6",
+          "texte": "Où Paris haletait avec des hurlements,",
+          "rime": "ent",
+          "procede": "Personnification de Paris « haletait »",
+          "effet": "La ville entière vibre de colère.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 177,
+          "strophe": "s6",
+          "texte": "Un frisson secoua l'immense populace.",
+          "rime": "ac",
+          "procede": "Image finale du « frisson »",
+          "effet": "L'émotion unanime parcourt le peuple.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 178,
+          "strophe": "s6",
+          "texte": "Alors, de sa main large et superbe de crasse,",
+          "rime": "ass",
+          "procede": "Oxymore « main large et superbe de crasse »",
+          "effet": "La beauté du travail et de la misère réunies.",
+          "champs": [
+            "colere"
+          ]
+        },
+        {
+          "n": 179,
+          "strophe": "s6",
+          "texte": "Bien que le roi ventru suât, le Forgeron,",
+          "rime": "on",
+          "procede": "Caricature du « roi ventru »",
+          "effet": "Le roi grotesque face au géant populaire.",
+          "champs": [
+            "peuple"
+          ]
+        },
+        {
+          "n": 180,
+          "strophe": "s6",
+          "texte": "Terrible, lui jeta le bonnet rouge au front !",
+          "rime": "ont",
+          "procede": "Geste symbolique final « lui jeta le bonnet rouge au front »",
+          "effet": "Le bonnet rouge, sacre de la révolution.",
+          "champs": [
+            "colere"
+          ]
+        }
+      ]
     },
-    "colere": {
-     "label": "Révolte & Invective"
+    {
+      "id": "soleil_et_chair",
+      "titre": "Soleil et chair",
+      "date": "Mai 1870",
+      "auteur": "Arthur Rimbaud",
+      "recueil": "Cahiers de Douai",
+      "contexte": [
+        "Hymne au monde antique, au paganisme et à la beauté du corps humain.",
+        "Rimbaud y oppose la joie païenne au christianisme qu'il juge triste."
+      ],
+      "forme": [
+        "Poème divisé en quatre parties.",
+        "Mètre : alexandrins.",
+        "Rimes suivies et croisées."
+      ],
+      "champs": {
+        "paganisme": {
+          "label": "Antiquité & Paganisme"
+        },
+        "soleil": {
+          "label": "Soleil & Vie"
+        }
+      },
+      "strophes": [
+        {
+          "id": "s1",
+          "nom": "Strophe 1",
+          "vers": "Alexandrins - Partie I"
+        },
+        {
+          "id": "s2",
+          "nom": "Strophe 2",
+          "vers": "Alexandrins - Partie II"
+        },
+        {
+          "id": "s3",
+          "nom": "Strophe 3",
+          "vers": "Alexandrins - Partie III"
+        },
+        {
+          "id": "s4",
+          "nom": "Strophe 4",
+          "vers": "Alexandrins - Partie IV"
+        }
+      ],
+      "lignes": [
+        {
+          "n": 1,
+          "strophe": "s1",
+          "texte": "Le Soleil, le foyer de tendresse et de vie,",
+          "rime": "i",
+          "procede": "Personnification / Métaphore",
+          "effet": "Le soleil vu comme source universelle.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 2,
+          "strophe": "s1",
+          "texte": "Verse l'amour brûlant à la terre ravie,",
+          "rime": "ie",
+          "procede": "Personnification de la terre « ravie »",
+          "effet": "La terre, épouse du soleil, reçoit son amour brûlant.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 3,
+          "strophe": "s1",
+          "texte": "Et, quand on est couché sur la vallée, on sent",
+          "rime": "ent",
+          "procede": "Mise en situation sensorielle « quand on est couché »",
+          "effet": "Le poète fait éprouver physiquement la fécondité du sol.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 4,
+          "strophe": "s1",
+          "texte": "Que la terre est nubile et déborde de sang ;",
+          "rime": "ang",
+          "procede": "Personnification nuptiale « nubile et déborde de sang »",
+          "effet": "La terre, femme féconde, prête à engendrer la vie.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 5,
+          "strophe": "s1",
+          "texte": "Que son immense sein, soulevé par une âme,",
+          "rime": "âm",
+          "procede": "Image du sein maternel « immense sein »",
+          "effet": "La terre nourricière, animée d'une âme.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 6,
+          "strophe": "s1",
+          "texte": "Est d'amour comme Dieu, de chair comme la femme,",
+          "rime": "emm",
+          "procede": "Parallélisme « d'amour comme Dieu, de chair comme la femme »",
+          "effet": "Alliance du divin et du charnel dans la terre-mère.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 7,
+          "strophe": "s1",
+          "texte": "Et qu'il renferme, gros de sève et de rayons,",
+          "rime": "on",
+          "procede": "Image de la sève « gros de sève et de rayons »",
+          "effet": "Le sol gonflé de vie, prêt à tout faire éclore.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 8,
+          "strophe": "s1",
+          "texte": "Le grand fourmillement de tous les embryons !",
+          "rime": "on",
+          "procede": "Image du « fourmillement des embryons »",
+          "effet": "Foisonnement vital de toutes les vies naissantes.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 9,
+          "strophe": "s1",
+          "texte": "Et tout croît, et tout monte !",
+          "rime": "ont",
+          "procede": "Anaphore « Et tout croît, et tout monte ! »",
+          "effet": "Exaltation lyrique de la vie qui surgit.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 10,
+          "strophe": "s1",
+          "texte": "Et tout croît, et tout monte ! — Ô Vénus, ô Déesse !",
+          "rime": "éess",
+          "procede": "Apostrophe à Vénus",
+          "effet": "Prière païenne adressée à la déesse de l'amour.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 11,
+          "strophe": "s1",
+          "texte": "Je regrette les temps de l'antique jeunesse,",
+          "rime": "ess",
+          "procede": "Anaphore « Je regrette les temps »",
+          "effet": "Nostalgie lyrique de l'âge d'or païen.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 12,
+          "strophe": "s1",
+          "texte": "Des satyres lascifs, des faunes animaux,",
+          "rime": "aux",
+          "procede": "Énumération des satyres et des faunes",
+          "effet": "Bestiaire mythologique de la sensualité naturelle.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 13,
+          "strophe": "s1",
+          "texte": "Dieux qui mordaient d'amour l'écorce des rameaux",
+          "rime": "eaux",
+          "procede": "Personnification amoureuse « mordaient d'amour »",
+          "effet": "La nature entière est éprise et agissante.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 14,
+          "strophe": "s1",
+          "texte": "Et dans les nénufars baisaient la Nymphe blonde !",
+          "rime": "ond",
+          "procede": "Image érotique « baisaient la Nymphe blonde »",
+          "effet": "Union charnelle de l'eau et de la lumière.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 15,
+          "strophe": "s1",
+          "texte": "Je regrette les temps où la sève du monde,",
+          "rime": "ond",
+          "procede": "Anaphore « Je regrette les temps »",
+          "effet": "Reprise incantatoire de la nostalgie.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 16,
+          "strophe": "s1",
+          "texte": "L'eau du fleuve, le sang rose des arbres verts",
+          "rime": "ert",
+          "procede": "Métaphores de la sève vitale « eau, sang rose »",
+          "effet": "Le monde entier circule comme un corps vivant.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 17,
+          "strophe": "s1",
+          "texte": "Dans les veines de Pan mettaient un univers !",
+          "rime": "er",
+          "procede": "Image du corps de Pan-univers",
+          "effet": "Un seul corps mythique contient le monde entier.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 18,
+          "strophe": "s1",
+          "texte": "Où le sol palpitait, vert, sous ses pieds de chèvre ;",
+          "rime": "èvr",
+          "procede": "Personnification du sol « palpitait »",
+          "effet": "La terre elle-même respire et désire.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 19,
+          "strophe": "s1",
+          "texte": "Où, baisant mollement le clair syrinx, sa lèvre",
+          "rime": "èvr",
+          "procede": "Image du baiser musical « baisant mollement le clair syrinx »",
+          "effet": "L'amour engendre l'art : la nature chante.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 20,
+          "strophe": "s1",
+          "texte": "Modulait sous le ciel le grand hymne d'amour ;",
+          "rime": "our",
+          "procede": "Hyperbole de l'« hymne d'amour »",
+          "effet": "Le chant de Pan embrasse le ciel entier.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 21,
+          "strophe": "s1",
+          "texte": "Où, debout sur la plaine, il entendait autour",
+          "rime": "our",
+          "procede": "Parallélisme « debout sur la plaine »",
+          "effet": "L'homme et la nature face à face, en dialogue.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 22,
+          "strophe": "s1",
+          "texte": "Répondre à son appel la Nature vivante ;",
+          "rime": "ant",
+          "procede": "Personnification de la « Nature vivante »",
+          "effet": "Le monde répond à l'homme comme un interlocuteur.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 23,
+          "strophe": "s1",
+          "texte": "Où les arbres muets, berçant l'oiseau qui chante,",
+          "rime": "ant",
+          "procede": "Image du berceau « berçant l'oiseau »",
+          "effet": "Toute la création est un immense nid d'amour.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 24,
+          "strophe": "s1",
+          "texte": "La terre berçant l'homme, et tout l'Océan bleu",
+          "rime": "eu",
+          "procede": "Parallélisme des berceurs « terre berçant l'homme »",
+          "effet": "L'homme, enfant de la nature, est bercé par elle.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 25,
+          "strophe": "s1",
+          "texte": "Et tous les animaux aimaient, aimaient en Dieu !",
+          "rime": "ieu",
+          "procede": "Répétition « aimaient, aimaient en Dieu »",
+          "effet": "L'amour universel devient religion naturelle.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 26,
+          "strophe": "s1",
+          "texte": "Je regrette les temps de la grande Cybèle",
+          "rime": "èl",
+          "procede": "Anaphore « Je regrette les temps »",
+          "effet": "Troisième vague de la nostalgie de Cybèle.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 27,
+          "strophe": "s1",
+          "texte": "Qu'on disait parcourir, gigantesquement belle,",
+          "rime": "ell",
+          "procede": "Hyperbole « gigantesquement belle »",
+          "effet": "Grandeur cosmique de la déesse-mère.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 28,
+          "strophe": "s1",
+          "texte": "Sur un grand char d'airain, les splendides cités ;",
+          "rime": "é",
+          "procede": "Image du char d'airain",
+          "effet": "Cybèle traverse majestueusement les cités antiques.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 29,
+          "strophe": "s1",
+          "texte": "Son double sein versait dans les immensités",
+          "rime": "é",
+          "procede": "Image du sein nourricier « versait »",
+          "effet": "La déesse allaite le monde de sa substance.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 30,
+          "strophe": "s1",
+          "texte": "Le pur ruissellement de la vie infinie.",
+          "rime": "ie",
+          "procede": "Hyperbole de la « vie infinie »",
+          "effet": "Source inépuisable de toute existence.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 31,
+          "strophe": "s1",
+          "texte": "L'Homme suçait, heureux, sa mamelle bénie,",
+          "rime": "ie",
+          "procede": "Comparaison de l'homme au nourrisson",
+          "effet": "L'humanité redevenue enfant au sein de sa mère.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 32,
+          "strophe": "s1",
+          "texte": "Comme un petit enfant, jouant sur ses genoux.",
+          "rime": "oux",
+          "procede": "Image du jeu « jouant sur ses genoux »",
+          "effet": "Complicité enfantine entre l'homme et la déesse.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 33,
+          "strophe": "s1",
+          "texte": "— Parce qu'il était fort, l'Homme était chaste et doux.",
+          "rime": "oux",
+          "procede": "Explication causale « Parce qu'il était fort »",
+          "effet": "La force naturelle rend l'homme serein et bon.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 34,
+          "strophe": "s1",
+          "texte": "Misère ! Maintenant il dit : Je sais les choses,",
+          "rime": "os",
+          "procede": "Exclamation amère « Misère ! »",
+          "effet": "Rupture brutale : l'âge d'or est révolu.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 35,
+          "strophe": "s1",
+          "texte": "Et va, les yeux fermés et les oreilles closes.",
+          "rime": "os",
+          "procede": "Image de l'aveuglement volontaire « yeux fermés, oreilles closes »",
+          "effet": "L'homme moderne se ferme à la révélation de la nature.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 36,
+          "strophe": "s1",
+          "texte": "— Et pourtant, plus de dieux ! plus de dieux ! l'Homme est Roi,",
+          "rime": "oi",
+          "procede": "Anaphore exclamative « plus de dieux ! plus de dieux ! »",
+          "effet": "Double deuil du divin ; l'homme usurpe le trône.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 37,
+          "strophe": "s1",
+          "texte": "L'Homme est Dieu ! Mais l'Amour, voilà la grande Foi !",
+          "rime": "oi",
+          "procede": "Proclamation prométhéenne « L'Homme est Dieu »",
+          "effet": "L'homme se proclame divin ; l'Amour devient la seule foi.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 38,
+          "strophe": "s1",
+          "texte": "Oh ! si l'homme puisait encore à ta mamelle,",
+          "rime": "ell",
+          "procede": "Vœu conditionnel « si l'homme puisait encore »",
+          "effet": "Supplique : que l'homme revienne boire au sein divin.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 39,
+          "strophe": "s1",
+          "texte": "Grande mère des dieux et des hommes, Cybèle ;",
+          "rime": "èl",
+          "procede": "Apostrophe à Cybèle « Grande mère »",
+          "effet": "Invocation à la déesse-mère universelle.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 40,
+          "strophe": "s1",
+          "texte": "S'il n'avait pas laissé l'immortelle Astarté",
+          "rime": "é",
+          "procede": "Évocation d'Astarté « l'immortelle »",
+          "effet": "La déesse orientale, figure éternelle de l'amour charnel.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 41,
+          "strophe": "s1",
+          "texte": "Qui jadis, émergeant dans l'immense clarté",
+          "rime": "é",
+          "procede": "Image de la naissance marine « émergeant dans l'immense clarté »",
+          "effet": "La déesse, lumière née de l'océan.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 42,
+          "strophe": "s1",
+          "texte": "Des flots bleus, fleur de chair que la vague parfume,",
+          "rime": "um",
+          "procede": "Métaphore de la « fleur de chair »",
+          "effet": "La déesse, éclose de l'écume, est chair et fleur.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 43,
+          "strophe": "s1",
+          "texte": "Montra son nombril rose où vint neiger l'écume,",
+          "rime": "um",
+          "procede": "Image du nombril où « vint neiger l'écume »",
+          "effet": "Naissance érotique de la beauté dans l'écume marine.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 44,
+          "strophe": "s1",
+          "texte": "Et fit chanter, Déesse aux grands yeux noirs vainqueurs,",
+          "rime": "ueur",
+          "procede": "Image de la voix amoureuse « fit chanter »",
+          "effet": "La déesse fait naître l'art et le désir dans le monde.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 45,
+          "strophe": "s1",
+          "texte": "Le rossignol aux bois et l'amour dans les cœurs !",
+          "rime": "œur",
+          "procede": "Parallélisme des naissances « rossignol / amour »",
+          "effet": "Aussi naturellement que le rossignol chante, le cœur s'éprend.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 46,
+          "strophe": "s2",
+          "texte": "Je crois en toi ! je crois en toi ! Divine mère,",
+          "rime": "èr",
+          "procede": "Anaphora « je crois en toi ! je crois en toi ! »",
+          "effet": "Credo païen, profession de foi amoureuse.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 47,
+          "strophe": "s2",
+          "texte": "Aphrodité marine ! — Oh ! la route est amère",
+          "rime": "èr",
+          "procede": "Apostrophe « Aphrodité marine ! »",
+          "effet": "La douceur divine s'oppose à l'amertume chrétienne du chemin.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 48,
+          "strophe": "s2",
+          "texte": "Depuis que l'autre Dieu nous attelle à sa croix ;",
+          "rime": "oix",
+          "procede": "Métaphore de l'attelage « nous attelle à sa croix »",
+          "effet": "Le Dieu chrétien asservit l'humanité à la souffrance.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 49,
+          "strophe": "s2",
+          "texte": "Chair, Marbre, Fleur, Vénus, c'est en toi que je crois !",
+          "rime": "oi",
+          "procede": "Énumération sacrale « Chair, Marbre, Fleur, Vénus »",
+          "effet": "Synthèse du credo : la matière même est sacrée.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 50,
+          "strophe": "s2",
+          "texte": "— Oui, l'Homme est triste et laid, triste sous le ciel vaste,",
+          "rime": "ast",
+          "procede": "Antithèse « triste et laid » sous le « ciel vaste »",
+          "effet": "L'homme moderne, diminué dans l'immensité indifférente.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 51,
+          "strophe": "s2",
+          "texte": "Il a des vêtements, parce qu'il n'est plus chaste,",
+          "rime": "ast",
+          "procede": "Explication par la chute « parce qu'il n'est plus chaste »",
+          "effet": "Le vêtement, signe de la honte adamique.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 52,
+          "strophe": "s2",
+          "texte": "Parce qu'il a sali son fier buste de dieu,",
+          "rime": "ieu",
+          "procede": "Image de la souillure « a sali son fier buste de dieu »",
+          "effet": "L'homme a dégradé sa propre divine statue.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 53,
+          "strophe": "s2",
+          "texte": "Et qu'il a rabougri, comme une idole au feu,",
+          "rime": "eu",
+          "procede": "Comparaison de l'idole « comme une idole au feu »",
+          "effet": "L'homme, statue de dieu, réduite en cendres par le feu.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 54,
+          "strophe": "s2",
+          "texte": "Son corps Olympien aux servitudes sales !",
+          "rime": "al",
+          "procede": "Épithète « corps Olympien »",
+          "effet": "La dignité grecque du corps, souillée par les servitudes.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 55,
+          "strophe": "s2",
+          "texte": "Oui, même après la mort, dans les squelettes pâles",
+          "rime": "âl",
+          "procede": "Paradoxe de la mort « après la mort… il veut vivre »",
+          "effet": "L'homme refuse même la mort, s'accrochant à son corps.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 56,
+          "strophe": "s2",
+          "texte": "Il veut vivre, insultant la première beauté !",
+          "rime": "é",
+          "procede": "Paradoxe de la survie « il veut vivre »",
+          "effet": "L'homme, même mort, s'accroche à son corps et offense la beauté.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 57,
+          "strophe": "s2",
+          "texte": "— Et l'Idole où tu mis tant de virginité,",
+          "rime": "é",
+          "procede": "Ironie de « l'Idole » divinisée par l'homme",
+          "effet": "L'homme a fabriqué une fausse déesse : la Vénus dénaturée.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 58,
+          "strophe": "s2",
+          "texte": "Où tu divinisas notre argile, la Femme,",
+          "rime": "emm",
+          "procede": "Image de la « divine argile »",
+          "effet": "La Femme, divinisation de la matière humaine.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 59,
+          "strophe": "s2",
+          "texte": "Afin que l'Homme pût éclairer sa pauvre âme",
+          "rime": "âm",
+          "procede": "Finalité de la Femme « éclairer sa pauvre âme »",
+          "effet": "La femme, guide de l'âme masculine vers la lumière.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 60,
+          "strophe": "s2",
+          "texte": "Et monter lentement, dans un immense amour,",
+          "rime": "our",
+          "procede": "Image de l'ascension amoureuse",
+          "effet": "L'amour fait monter l'homme, degré par degré.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 61,
+          "strophe": "s2",
+          "texte": "De la prison terrestre à la beauté du jour,",
+          "rime": "our",
+          "procede": "Antithèse « prison terrestre / beauté du jour »",
+          "effet": "L'amour fait sortir l'homme de sa condition carcérale.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 62,
+          "strophe": "s2",
+          "texte": "La Femme ne sait plus même être courtisane !",
+          "rime": "an",
+          "procede": "Mélancolie de la chute « ne sait plus être courtisane »",
+          "effet": "La Femme, réduite à son rôle, a perdu sa sacralité.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 63,
+          "strophe": "s2",
+          "texte": "— C'est une bonne farce ! et le monde ricane",
+          "rime": "an",
+          "procede": "Exclamation railleuse « C'est une bonne farce ! »",
+          "effet": "Le monde ricane de la déchéance du sacré féminin.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 64,
+          "strophe": "s2",
+          "texte": "Au nom doux et sacré de la grande Vénus !",
+          "rime": "u",
+          "procede": "Antithèse « doux et sacré » / ricanement",
+          "effet": "Le sacré féminin devient objet de moquerie universelle.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 65,
+          "strophe": "s3",
+          "texte": "Si les temps revenaient, les temps qui sont venus !",
+          "rime": "u",
+          "procede": "Jeu des temps « Si les temps revenaient, les temps qui sont venus »",
+          "effet": "Vœu paradoxal de restauration d'un âge révolu.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 66,
+          "strophe": "s3",
+          "texte": "— Car l'Homme a fini ! l'Homme a joué tous les rôles !",
+          "rime": "ôl",
+          "procede": "Double constat « l'Homme a fini ! a joué tous les rôles »",
+          "effet": "Épuisement de l'humanité, au bout de sa comédie.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 67,
+          "strophe": "s3",
+          "texte": "Au grand jour, fatigué de briser des idoles",
+          "rime": "ol",
+          "procede": "Image du « grand jour » / briseur d'idoles",
+          "effet": "L'homme, en pleine lumière, détruit ses propres dieux.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 68,
+          "strophe": "s3",
+          "texte": "Il ressuscitera, libre de tous ses Dieux,",
+          "rime": "ieux",
+          "procede": "Résurrection « il ressuscitera »",
+          "effet": "Renaissance attendue de l'homme libre.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 69,
+          "strophe": "s3",
+          "texte": "Et, comme il est du ciel, il scrutera les cieux !",
+          "rime": "ieux",
+          "procede": "Apostrophe céleste « il scrutera les cieux »",
+          "effet": "L'homme, d'essence divine, se tourne vers le ciel.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 70,
+          "strophe": "s3",
+          "texte": "L'Idéal, la pensée invincible, éternelle,",
+          "rime": "ell",
+          "procede": "Personnification de « l'Idéal » et de « la pensée »",
+          "effet": "Les forces spirituelles montent de l'argile charnelle.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 71,
+          "strophe": "s3",
+          "texte": "Tout le dieu qui vit, sous son argile charnelle,",
+          "rime": "ell",
+          "procede": "Prosopopée du « dieu qui vit »",
+          "effet": "Le divin habite désormais la chair de l'homme.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 72,
+          "strophe": "s3",
+          "texte": "Montera, montera, brûlera sous son front !",
+          "rime": "ont",
+          "procede": "Anaphore ascendante « Montera, montera »",
+          "effet": "Élan rédempteur de la conscience humaine.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 73,
+          "strophe": "s3",
+          "texte": "Et quand tu le verras sonder tout l'horizon,",
+          "rime": "on",
+          "procede": "Image de l'horizon sondé « sonder tout l'horizon »",
+          "effet": "L'homme, contempteur, interroge l'univers entier.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 74,
+          "strophe": "s3",
+          "texte": "Contempteur des vieux jougs, libre de toute crainte,",
+          "rime": "aint",
+          "procede": "Périphrase de l'homme libre « contempteur des vieux jougs »",
+          "effet": "Affranchi de la peur, l'homme affronte le monde.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 75,
+          "strophe": "s3",
+          "texte": "Tu viendras lui donner la Rédemption sainte !",
+          "rime": "aint",
+          "procede": "Annonce de la Rédemption par la Femme",
+          "effet": "La Femme, rédemptrice, viendra sauver l'homme.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 76,
+          "strophe": "s3",
+          "texte": "— Splendide, radieuse, au sein des grandes mers",
+          "rime": "er",
+          "procede": "Image de l'apparition marine « au sein des grandes mers »",
+          "effet": "La déesse surgira à nouveau de l'océan matriciel.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 77,
+          "strophe": "s3",
+          "texte": "Tu surgiras, jetant sur le vaste Univers",
+          "rime": "er",
+          "procede": "Image de l'univers embrassé « sur le vaste Univers »",
+          "effet": "La déesse inonde le monde de sa présence.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 78,
+          "strophe": "s3",
+          "texte": "L'Amour infini dans un infini sourire !",
+          "rime": "ir",
+          "procede": "Image du sourire infini « infini sourire »",
+          "effet": "L'amour universel, offert au monde entier.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 79,
+          "strophe": "s3",
+          "texte": "Le Monde vibrera comme une immense lyre",
+          "rime": "",
+          "procede": "Comparaison du monde à la lyre",
+          "effet": "L'univers entier devient instrument de l'amour.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 80,
+          "strophe": "s3",
+          "texte": "Dans le frémissement d'un immense baiser !",
+          "rime": "er",
+          "procede": "Image du « immense baiser »",
+          "effet": "L'union cosmique de l'amour et du monde.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 81,
+          "strophe": "s3",
+          "texte": "— Le Monde a soif d'amour : tu viendras l'apaiser.",
+          "rime": "er",
+          "procede": "Personnification du Monde « a soif d'amour »",
+          "effet": "L'univers, assoiffé, attend sa rédemption.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 82,
+          "strophe": "s4",
+          "texte": "Ô splendeur de la chair ! ô splendeur idéale !",
+          "rime": "éal",
+          "procede": "Parallélisme et répétition « splendeur »",
+          "effet": "La chair et l'idéal, réconciliés dans une même gloire.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 83,
+          "strophe": "s4",
+          "texte": "Ô renouveau d'amour, aurore triomphale",
+          "rime": "al",
+          "procede": "Image de l'aurore « aurore triomphale »",
+          "effet": "Renaissance du monde dans la lumière de l'amour.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 84,
+          "strophe": "s4",
+          "texte": "Où, courbant à leurs pieds les Dieux et les Héros,",
+          "rime": "o",
+          "procede": "Image de la hiérarchie inversée « courbant à leurs pieds les Dieux »",
+          "effet": "L'Homme couronne les dieux vaincus à ses pieds.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 85,
+          "strophe": "s4",
+          "texte": "Kallipyge la blanche et le petit Éros",
+          "rime": "o",
+          "procede": "Évocation des allégories « Kallipyge et Éros »",
+          "effet": "Le culte de la beauté charnelle rétabli dans sa gloire.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 86,
+          "strophe": "s4",
+          "texte": "Effleureront, couverts de la neige des roses,",
+          "rime": "os",
+          "procede": "Image de la neige des roses",
+          "effet": "Les dieux de l'amour, couronnés de fleurs, touchent le monde.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 87,
+          "strophe": "s4",
+          "texte": "Les femmes et les fleurs sous leurs beaux pieds écloses !",
+          "rime": "os",
+          "procede": "Parallélisme « femmes et les fleurs »",
+          "effet": "Fusion de la féminité et de la nature florale.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 88,
+          "strophe": "s4",
+          "texte": "Ô grande Ariadné, qui jettes tes sanglots",
+          "rime": "ot",
+          "procede": "Apostrophe à Ariadné",
+          "effet": "Mythe de l'abandon amoureux, plainte sur le rivage.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 89,
+          "strophe": "s4",
+          "texte": "Sur la rive, en voyant fuir là-bas sur les flots,",
+          "rime": "ot",
+          "procede": "Image de la voile fuyante « la voile de Thésée »",
+          "effet": "L'aimé s'éloigne, inexorable, sur les flots.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 90,
+          "strophe": "s4",
+          "texte": "Blanche sous le soleil, la voile de Thésée,",
+          "rime": "ée",
+          "procede": "Notation lumineuse « blanche sous le soleil »",
+          "effet": "La pureté virginale éclate dans la lumière.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 91,
+          "strophe": "s4",
+          "texte": "Ô douce vierge enfant qu'une nuit a brisée,",
+          "rime": "ée",
+          "procede": "Évocation de la nuit brisée « une nuit a brisée »",
+          "effet": "L'initiation amoureuse, douce et douloureuse.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 92,
+          "strophe": "s4",
+          "texte": "Tais-toi ! Sur son char d'or brodé de noirs raisins,",
+          "rime": "in",
+          "procede": "Injonction « Tais-toi ! »",
+          "effet": "Consolation : le dieu Dionysos arrive sur son char.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 93,
+          "strophe": "s4",
+          "texte": "Lysios, promené dans les champs Phrygiens",
+          "rime": "ien",
+          "procede": "Image du char d'or « brodé de noirs raisins »",
+          "effet": "Dionysos, dieu de la vigne et de l'ivresse, s'avance.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 94,
+          "strophe": "s4",
+          "texte": "Par les tigres lascifs et les panthères rousses,",
+          "rime": "ouss",
+          "procede": "Bestiaire du cortège « tigres lascifs, panthères rousses »",
+          "effet": "Le cortège dionysiaque, sensuel et sauvage.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 95,
+          "strophe": "s4",
+          "texte": "Le long des fleuves bleus rougit les sombres mousses.",
+          "rime": "ouss",
+          "procede": "Image chromatique « rougit les sombres mousses »",
+          "effet": "La passion colore la nature alentour.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 96,
+          "strophe": "s4",
+          "texte": "Zeus, Taureau, sur son cou berce comme une enfant",
+          "rime": "ant",
+          "procede": "Mythe d'Europe « Zeus, Taureau »",
+          "effet": "L'enlèvement mythique, union divine et bestiale.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 97,
+          "strophe": "s4",
+          "texte": "Le corps nu d'Europé, qui jette son bras blanc",
+          "rime": "anc",
+          "procede": "Image de l'abandon « corps nu d'Europé »",
+          "effet": "La jeune femme, offrande blanche sur le dos du dieu.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 98,
+          "strophe": "s4",
+          "texte": "Au cou nerveux du Dieu frissonnant dans la vague,",
+          "rime": "ue",
+          "procede": "Image de l'étreinte divine « frissonnant dans la vague »",
+          "effet": "Le désir parcourt le corps du dieu et de la mortelle.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 99,
+          "strophe": "s4",
+          "texte": "Il tourne lentement vers elle son œil vague ;",
+          "rime": "ue",
+          "procede": "Regard du dieu « son œil vague »",
+          "effet": "La tendresse bovine du dieu-amant.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 100,
+          "strophe": "s4",
+          "texte": "Elle, laisse traîner sa pâle joue en fleur",
+          "rime": "eur",
+          "procede": "Image de la joue en fleur « sa pâle joue »",
+          "effet": "Le visage de la jeune femme, pétales sur le front divin.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 101,
+          "strophe": "s4",
+          "texte": "Au front de Zeus ; ses yeux sont fermés ; elle meurt",
+          "rime": "eurt",
+          "procede": "Parallélisme des yeux « ses yeux sont fermés »",
+          "effet": "L'abandon extatique de la mortelle aimée.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 102,
+          "strophe": "s4",
+          "texte": "Dans un divin baiser, et le flot qui murmure",
+          "rime": "ur",
+          "procede": "Image du « divin baiser »",
+          "effet": "L'extase amoureuse, mort et renaissance simultanées.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 103,
+          "strophe": "s4",
+          "texte": "De son écume d'or fleurit sa chevelure.",
+          "rime": "ur",
+          "procede": "Image de l'écume d'or « fleurit sa chevelure »",
+          "effet": "La vague pare la chevelure de la belle de son or.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 104,
+          "strophe": "s4",
+          "texte": "— Entre le laurier-rose et le lotus jaseur",
+          "rime": "eur",
+          "procede": "Évocation du cadre floral « laurier-rose et lotus »",
+          "effet": "Décor sensuel du mythe de Léda.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 105,
+          "strophe": "s4",
+          "texte": "Glisse amoureusement le grand Cygne rêveur",
+          "rime": "eur",
+          "procede": "Personnification du « grand Cygne rêveur »",
+          "effet": "Zeus-cygne, glisse amoureusement vers Léda.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 106,
+          "strophe": "s4",
+          "texte": "Embrassant la Léda des blancheurs de son aile ;",
+          "rime": "ail",
+          "procede": "Image de l'étreinte ailée « embrassant la Léda »",
+          "effet": "Le blanc du cygne épouse la blancheur de la femme.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 107,
+          "strophe": "s4",
+          "texte": "— Et tandis que Cypris passe, étrangement belle,",
+          "rime": "ell",
+          "procede": "Apostrophe à Cypris (Vénus)",
+          "effet": "La déesse passe, souveraine de la beauté.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 108,
+          "strophe": "s4",
+          "texte": "Et, cambrant les rondeurs splendides de ses reins,",
+          "rime": "ein",
+          "procede": "Image de la cambrure « cambrant les rondeurs splendides »",
+          "effet": "L'érotisme sacré de la déesse en majesté.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 109,
+          "strophe": "s4",
+          "texte": "Étale fièrement l'or de ses larges seins",
+          "rime": "ein",
+          "procede": "Image de l'or des seins « l'or de ses larges seins »",
+          "effet": "L'exposition fière du corps divin.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 110,
+          "strophe": "s4",
+          "texte": "Et son ventre neigeux brodé de mousse noire,",
+          "rime": "oir",
+          "procede": "Image de la mousse noire « brodé de mousse noire »",
+          "effet": "Le contraste chromatique exalte la chair de neige.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 111,
+          "strophe": "s4",
+          "texte": "— Héraclès, le Dompteur, qui, comme d'une gloire",
+          "rime": "oir",
+          "procede": "Périphrase d'Héraclès « le Dompteur »",
+          "effet": "Le héros, force et majesté, ceint de la peau de lion.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 112,
+          "strophe": "s4",
+          "texte": "Fort, ceint son vaste corps de la peau du lion,",
+          "rime": "ion",
+          "procede": "Image de la peau de lion « comme d'une gloire »",
+          "effet": "La dépouille du lion, auréole de puissance.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 113,
+          "strophe": "s4",
+          "texte": "S'avance, front terrible et doux, à l'horizon !",
+          "rime": "on",
+          "procede": "Oxymore « front terrible et doux »",
+          "effet": "Le héros, puissance et douceur mêlées.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 114,
+          "strophe": "s4",
+          "texte": "Par la lune d'été vaguement éclairée,",
+          "rime": "ée",
+          "procede": "Image de la lune d'été « vaguement éclairée »",
+          "effet": "La lumière lunaire, miroir de l'amour nocturne.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 115,
+          "strophe": "s4",
+          "texte": "Debout, nue, et rêvant dans sa pâleur dorée",
+          "rime": "ée",
+          "procede": "Image de la nymphe rêveuse « Debout, nue, et rêvant »",
+          "effet": "La Dryade, statue vivante au cœur de la nuit.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 116,
+          "strophe": "s4",
+          "texte": "Que tache le flot lourd de ses longs cheveux bleus,",
+          "rime": "eu",
+          "procede": "Image des cheveux bleus « le flot lourd de ses longs cheveux »",
+          "effet": "La chevelure, vague nocturne sur l'épaule dorée.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 117,
+          "strophe": "s4",
+          "texte": "Dans la clairière sombre où la mousse s'étoile,",
+          "rime": "oil",
+          "procede": "Image de la clairière étoilée « la mousse s'étoile »",
+          "effet": "La nuit végétale se constelle de lumière.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 118,
+          "strophe": "s4",
+          "texte": "La Dryade regarde au ciel silencieux…",
+          "rime": "ieux",
+          "procede": "Image de la Dryade contemplative",
+          "effet": "La nymphe, statue vivante, interroge le ciel muet.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 119,
+          "strophe": "s4",
+          "texte": "— La blanche Séléné laisse flotter son voile,",
+          "rime": "oil",
+          "procede": "Image du voile lunaire de Séléné",
+          "effet": "La lune, amante, recouvre le monde de sa lumière.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 120,
+          "strophe": "s4",
+          "texte": "Craintive, sur les pieds du bel Endymion,",
+          "rime": "ion",
+          "procede": "Mythe d'Endymion",
+          "effet": "L'amour lunaire, chaste et éternel, sur le berger endormi.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 121,
+          "strophe": "s4",
+          "texte": "Et lui jette un baiser dans un pâle rayon…",
+          "rime": "on",
+          "procede": "Image du baiser pâle « jette un baiser dans un pâle rayon »",
+          "effet": "L'amour se fait lumière, don immatériel.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 122,
+          "strophe": "s4",
+          "texte": "— La Source pleure au loin dans une longue extase…",
+          "rime": "as",
+          "procede": "Image de la Source pleureuse « pleure au loin »",
+          "effet": "La nature, éplorée, pleure son amour perdu.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 123,
+          "strophe": "s4",
+          "texte": "C'est la Nymphe qui rêve, un coude sur son vase,",
+          "rime": "as",
+          "procede": "Image de la nymphe au vase",
+          "effet": "La naïade, mélancolique, songe à son amour.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 124,
+          "strophe": "s4",
+          "texte": "Au beau jeune homme blanc que son onde a pressé.",
+          "rime": "é",
+          "procede": "Image du jeune homme blanc « son onde a pressé »",
+          "effet": "Le bain amoureux, étreinte de l'eau et du corps.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 125,
+          "strophe": "s4",
+          "texte": "— Une brise d'amour dans la nuit a passé,",
+          "rime": "é",
+          "procede": "Image de la brise d'amour",
+          "effet": "Le vent, messager, porte le désir dans la nuit.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 126,
+          "strophe": "s4",
+          "texte": "Et, dans les bois sacrés, dans l'horreur des grands arbres,",
+          "rime": "arbr",
+          "procede": "Image des « bois sacrés » et des « grands arbres »",
+          "effet": "La nature, temple vivant de l'amour.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 127,
+          "strophe": "s4",
+          "texte": "Majestueusement debout, les sombres Marbres,",
+          "rime": "arbr",
+          "procede": "Image des « sombres Marbres »",
+          "effet": "Les statues divines, majestueuses, hantent la forêt.",
+          "champs": [
+            "paganisme"
+          ]
+        },
+        {
+          "n": 128,
+          "strophe": "s4",
+          "texte": "Les Dieux, au front desquels le Bouvreuil fait son nid,",
+          "rime": "id",
+          "procede": "Image du nid du bouvreuil",
+          "effet": "La vie animale, familière, habite le front des dieux.",
+          "champs": [
+            "soleil"
+          ]
+        },
+        {
+          "n": 129,
+          "strophe": "s4",
+          "texte": "— Les Dieux écoutent l'Homme et le Monde infini !",
+          "rime": "i",
+          "procede": "Apothéose finale « Les Dieux écoutent »",
+          "effet": "Clôture en réconciliation : l'homme, le monde et les dieux réunis.",
+          "champs": [
+            "paganisme"
+          ]
+        }
+      ]
     }
-   },
-   "strophes": [
-    {
-     "id": "s1",
-     "nom": "Strophe 1",
-     "vers": "Alexandrins - Strophe 1"
-    },
-    {
-     "id": "s2",
-     "nom": "Strophe 2",
-     "vers": "Alexandrins - Strophe 2"
-    },
-    {
-     "id": "s3",
-     "nom": "Strophe 3",
-     "vers": "Alexandrins - Strophe 3"
-    },
-    {
-     "id": "s4",
-     "nom": "Strophe 4",
-     "vers": "Alexandrins - Strophe 4"
-    },
-    {
-     "id": "s5",
-     "nom": "Strophe 5",
-     "vers": "Alexandrins - Strophe 5"
-    },
-    {
-     "id": "s6",
-     "nom": "Strophe 6",
-     "vers": "Alexandrins - Strophe 6"
-    }
-   ],
-   "lignes": [
-    {
-     "n": 1,
-     "strophe": "s1",
-     "texte": "Le bras sur un marteau gigantesque, effrayant",
-     "rime": "ant",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 2,
-     "strophe": "s1",
-     "texte": "D'ivresse et de grandeur, le front vaste, riant",
-     "rime": "iant",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 3,
-     "strophe": "s1",
-     "texte": "Comme un clairon d'airain, avec toute sa bouche,",
-     "rime": "ouch",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 4,
-     "strophe": "s1",
-     "texte": "Et prenant ce gros-là dans son regard farouche,",
-     "rime": "ouch",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 5,
-     "strophe": "s1",
-     "texte": "Le Forgeron parlait à Louis Seize, un jour",
-     "rime": "our",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 6,
-     "strophe": "s1",
-     "texte": "Que le Peuple était là, se tordant tout autour,",
-     "rime": "our",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 7,
-     "strophe": "s1",
-     "texte": "Et sur les lambris d'or tramant sa veste sale.",
-     "rime": "al",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 8,
-     "strophe": "s1",
-     "texte": "Or le bon roi, debout sur son ventre, était pâle,",
-     "rime": "âl",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 9,
-     "strophe": "s1",
-     "texte": "Pâle comme un vaincu qu'on prend pour le gibet,",
-     "rime": "et",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 10,
-     "strophe": "s1",
-     "texte": "Et, soumis comme un chien, jamais ne regimbait,",
-     "rime": "ait",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 11,
-     "strophe": "s1",
-     "texte": "Car ce maraud de forge aux énormes épaules",
-     "rime": "aul",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 12,
-     "strophe": "s1",
-     "texte": "Lui disait de vieux mots et des choses si drôles,",
-     "rime": "ôl",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 13,
-     "strophe": "s1",
-     "texte": "Que cela l'empoignait au front, comme cela !",
-     "rime": "a",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 14,
-     "strophe": "s1",
-     "texte": "« Or, tu sais bien, Monsieur, nous chantions tra la la",
-     "rime": "a",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 15,
-     "strophe": "s1",
-     "texte": "Et nous piquions les bœufs vers les sillons des autres :",
-     "rime": "autr",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 16,
-     "strophe": "s1",
-     "texte": "Le Chanoine au soleil filait des patenôtres",
-     "rime": "ôtr",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 17,
-     "strophe": "s1",
-     "texte": "Sur des chapelets clairs grenés de pièces d'or.",
-     "rime": "or",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 18,
-     "strophe": "s1",
-     "texte": "Le Seigneur, à cheval, passait, sonnant du cor",
-     "rime": "or",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 19,
-     "strophe": "s1",
-     "texte": "Et l'un avec la hart, l'autre avec la cravache",
-     "rime": "ach",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 20,
-     "strophe": "s1",
-     "texte": "Nous fouaillaient. — Hébétés comme des yeux de vache,",
-     "rime": "ach",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 21,
-     "strophe": "s1",
-     "texte": "Nos yeux ne pleuraient plus ; nous allions, nous allions,",
-     "rime": "ion",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 22,
-     "strophe": "s1",
-     "texte": "Et quand nous avions mis le pays en sillons,",
-     "rime": "on",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 23,
-     "strophe": "s1",
-     "texte": "Quand nous avions laissé dans cette terre noire",
-     "rime": "oir",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 24,
-     "strophe": "s1",
-     "texte": "Un peu de notre chair… nous avions un pourboire :",
-     "rime": "oir",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 25,
-     "strophe": "s1",
-     "texte": "On nous faisait flamber nos taudis dans la nuit ;",
-     "rime": "uit",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 26,
-     "strophe": "s1",
-     "texte": "Nos petits y faisaient un gâteau fort bien cuit.",
-     "rime": "uit",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 27,
-     "strophe": "s1",
-     "texte": "… « Oh ! je ne me plains pas. Je te dis mes bêtises,",
-     "rime": "is",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 28,
-     "strophe": "s1",
-     "texte": "C'est entre nous. J'admets que tu me contredises.",
-     "rime": "is",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 29,
-     "strophe": "s1",
-     "texte": "Or, n'est-ce pas joyeux de voir, au mois de juin",
-     "rime": "uin",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 30,
-     "strophe": "s1",
-     "texte": "Dans les granges entrer des voitures de foin",
-     "rime": "oin",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 31,
-     "strophe": "s1",
-     "texte": "Énormes ? De sentir l'odeur de ce qui pousse,",
-     "rime": "ouss",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 32,
-     "strophe": "s1",
-     "texte": "Des vergers quand il pleut un peu, de l'herbe rousse ?",
-     "rime": "ouss",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 33,
-     "strophe": "s1",
-     "texte": "De voir des blés, des blés, des épis pleins de grain,",
-     "rime": "ain",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 34,
-     "strophe": "s1",
-     "texte": "De penser que cela prépare bien du pain ?…",
-     "rime": "ain",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 35,
-     "strophe": "s1",
-     "texte": "Oh ! plus fort, on irait, au fourneau qui s'allume,",
-     "rime": "um",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 36,
-     "strophe": "s1",
-     "texte": "Chanter joyeusement en martelant l'enclume,",
-     "rime": "um",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 37,
-     "strophe": "s1",
-     "texte": "Si l'on était certain de pouvoir prendre un peu,",
-     "rime": "eu",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 38,
-     "strophe": "s1",
-     "texte": "Étant homme, à la fin ! de ce que donne Dieu !",
-     "rime": "ieu",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 39,
-     "strophe": "s1",
-     "texte": "— Mais voilà, c'est toujours la même vieille histoire !",
-     "rime": "oir",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 40,
-     "strophe": "s1",
-     "texte": "« Mais je sais, maintenant ! Moi, je ne peux plus croire,",
-     "rime": "oir",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 41,
-     "strophe": "s1",
-     "texte": "Quand j'ai deux bonnes mains, mon front et mon marteau,",
-     "rime": "eau",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 42,
-     "strophe": "s1",
-     "texte": "Qu'un homme vienne là, dague sur le manteau,",
-     "rime": "eau",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 43,
-     "strophe": "s1",
-     "texte": "Et me dise : Mon gars, ensemence ma terre ;",
-     "rime": "err",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 44,
-     "strophe": "s1",
-     "texte": "Que l'on arrive en cor, quand ce serait la guerre,",
-     "rime": "uerr",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 45,
-     "strophe": "s1",
-     "texte": "Me prendre mon garçon comme cela, chez moi !",
-     "rime": "oi",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 46,
-     "strophe": "s1",
-     "texte": "— Moi, je serais un homme, et toi, tu serais roi,",
-     "rime": "oi",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 47,
-     "strophe": "s1",
-     "texte": "Tu me dirais : Je veux !… — Tu vois bien, c'est stupide.",
-     "rime": "id",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 48,
-     "strophe": "s1",
-     "texte": "Tu crois que j'aime voir ta baraque splendide,",
-     "rime": "id",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 49,
-     "strophe": "s1",
-     "texte": "Tes officiers dorés, tes mille chenapans,",
-     "rime": "an",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 50,
-     "strophe": "s1",
-     "texte": "Tes palsembleu bâtards tournant comme des paons :",
-     "rime": "aon",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 51,
-     "strophe": "s1",
-     "texte": "Ils ont rempli ton nid de l'odeur de nos filles",
-     "rime": "ill",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 52,
-     "strophe": "s1",
-     "texte": "Et de petits billets pour nous mettre aux Bastilles,",
-     "rime": "ill",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 53,
-     "strophe": "s1",
-     "texte": "Et nous dirons : C'est bien : les pauvres à genoux !",
-     "rime": "oux",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 54,
-     "strophe": "s1",
-     "texte": "Nous dorerons ton Louvre en donnant nos gros sous !",
-     "rime": "ou",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 55,
-     "strophe": "s1",
-     "texte": "Et tu te soûleras, tu feras belle fête.",
-     "rime": "êt",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 56,
-     "strophe": "s1",
-     "texte": "— Et ces Messieurs riront, les reins sur notre tête !",
-     "rime": "êt",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 57,
-     "strophe": "s1",
-     "texte": "« Non. Ces saletés-là datent de nos papas !",
-     "rime": "a",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 58,
-     "strophe": "s1",
-     "texte": "Oh ! Le Peuple n'est plus une putain. Trois pas",
-     "rime": "a",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 59,
-     "strophe": "s1",
-     "texte": "Et, tous, nous avons mis ta Bastille en poussière.",
-     "rime": "ièr",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 60,
-     "strophe": "s1",
-     "texte": "Cette bête suait du sang à chaque pierre",
-     "rime": "ierr",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 61,
-     "strophe": "s1",
-     "texte": "Et c'était dégoûtant, la Bastille debout",
-     "rime": "out",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 62,
-     "strophe": "s1",
-     "texte": "Avec ses murs lépreux qui nous racontaient tout",
-     "rime": "out",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 63,
-     "strophe": "s1",
-     "texte": "Et, toujours, nous tenaient enfermés dans leur ombre !",
-     "rime": "ombr",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 64,
-     "strophe": "s1",
-     "texte": "— Citoyen ! citoyen ! c'était le passé sombre",
-     "rime": "ombr",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 65,
-     "strophe": "s1",
-     "texte": "Qui croulait, qui râlait, quand nous prîmes la tour !",
-     "rime": "our",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 66,
-     "strophe": "s1",
-     "texte": "Nous avions quelque chose au cœur comme l'amour.",
-     "rime": "our",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 67,
-     "strophe": "s1",
-     "texte": "Nous avions embrassé nos fils sur nos poitrines.",
-     "rime": "in",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 68,
-     "strophe": "s1",
-     "texte": "Et, comme des chevaux, en soufflant des narines",
-     "rime": "in",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 69,
-     "strophe": "s1",
-     "texte": "Nous allions, fiers et forts, et ça nous battait là…",
-     "rime": "à",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 70,
-     "strophe": "s1",
-     "texte": "Nous marchions au soleil, front haut, — comme cela —,",
-     "rime": "a",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 71,
-     "strophe": "s1",
-     "texte": "Dans Paris ! On venait devant nos vestes sales.",
-     "rime": "al",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 72,
-     "strophe": "s1",
-     "texte": "Enfin ! Nous nous sentions Hommes ! Nous étions pâles,",
-     "rime": "âl",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 73,
-     "strophe": "s1",
-     "texte": "Sire, nous étions soûls de terribles espoirs :",
-     "rime": "oir",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 74,
-     "strophe": "s1",
-     "texte": "Et quand nous fûmes là, devant les donjons noirs,",
-     "rime": "oir",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 75,
-     "strophe": "s1",
-     "texte": "Agitant nos clairons et nos feuilles de chêne,",
-     "rime": "ên",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 76,
-     "strophe": "s1",
-     "texte": "Les piques à la main ; nous n'eûmes pas de haine,",
-     "rime": "ain",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 77,
-     "strophe": "s1",
-     "texte": "— Nous nous sentions si forts, nous voulions être doux !",
-     "rime": "oux",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 78,
-     "strophe": "s2",
-     "texte": "Et depuis ce jour-là, nous sommes comme fous !",
-     "rime": "ou",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 79,
-     "strophe": "s2",
-     "texte": "Le tas des ouvriers a monté dans la rue,",
-     "rime": "ue",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 80,
-     "strophe": "s2",
-     "texte": "Et ces maudits s'en vont, foule toujours accrue",
-     "rime": "ue",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 81,
-     "strophe": "s2",
-     "texte": "De sombres revenants, aux portes des richards.",
-     "rime": "ard",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 82,
-     "strophe": "s2",
-     "texte": "Moi, je cours avec eux assommer les mouchards :",
-     "rime": "ard",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 83,
-     "strophe": "s2",
-     "texte": "Et je vais dans Paris, noir, marteau sur l'épaule,",
-     "rime": "aul",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 84,
-     "strophe": "s2",
-     "texte": "Farouche, à chaque coin balayant quelque drôle,",
-     "rime": "ôl",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 85,
-     "strophe": "s2",
-     "texte": "Et, si tu me riais au nez, je te tuerais !",
-     "rime": "ai",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 86,
-     "strophe": "s2",
-     "texte": "— Puis, tu peux y compter, tu te feras des frais",
-     "rime": "ai",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 87,
-     "strophe": "s2",
-     "texte": "Avec tes hommes noirs, qui prennent nos requêtes",
-     "rime": "uêt",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 88,
-     "strophe": "s2",
-     "texte": "Pour se les renvoyer comme sur des raquettes",
-     "rime": "uett",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 89,
-     "strophe": "s2",
-     "texte": "Et, tout bas, les malins !",
-     "rime": "in",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 90,
-     "strophe": "s2",
-     "texte": "se disent : « Qu'ils sont sots ! »",
-     "rime": "ot",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 91,
-     "strophe": "s2",
-     "texte": "Pour mitonner des lois, coller de petits pots",
-     "rime": "ot",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 92,
-     "strophe": "s2",
-     "texte": "Pleins de jolis décrets roses et de droguailles,",
-     "rime": "uaill",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 93,
-     "strophe": "s2",
-     "texte": "S'amuser à couper proprement quelques tailles,",
-     "rime": "aill",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 94,
-     "strophe": "s2",
-     "texte": "Puis se boucher le nez quand nous marchons près d'eux,",
-     "rime": "eux",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 95,
-     "strophe": "s2",
-     "texte": "— Nos doux représentants qui nous trouvent crasseux ! —",
-     "rime": "eux",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 96,
-     "strophe": "s2",
-     "texte": "Pour ne rien redouter, rien, que les baïonnettes…,",
-     "rime": "ett",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 97,
-     "strophe": "s2",
-     "texte": "C'est très bien. Foin de leur tabatière à sornettes !",
-     "rime": "ett",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 98,
-     "strophe": "s2",
-     "texte": "Nous en avons assez, là, de ces cerveaux plats",
-     "rime": "at",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 99,
-     "strophe": "s2",
-     "texte": "Et de ces ventres-dieux. Ah ! ce sont là les plats",
-     "rime": "at",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 100,
-     "strophe": "s2",
-     "texte": "Que tu nous sers, bourgeois, quand nous sommes féroces,",
-     "rime": "oc",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 101,
-     "strophe": "s2",
-     "texte": "Quand nous brisons déjà les sceptres et les crosses !… »",
-     "rime": "oss",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 102,
-     "strophe": "s2",
-     "texte": "Il le prend par le bras, arrache le velours",
-     "rime": "our",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 103,
-     "strophe": "s3",
-     "texte": "Des rideaux, et lui montre en bas les larges cours",
-     "rime": "our",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 104,
-     "strophe": "s3",
-     "texte": "Où fourmille, où fourmille, où se lève la foule,",
-     "rime": "oul",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 105,
-     "strophe": "s3",
-     "texte": "La foule épouvantable avec des bruits de houle,",
-     "rime": "oul",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 106,
-     "strophe": "s3",
-     "texte": "Hurlant comme une chienne, hurlant comme une mer,",
-     "rime": "er",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 107,
-     "strophe": "s3",
-     "texte": "Avec ses bâtons forts et ses piques de fer,",
-     "rime": "er",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 108,
-     "strophe": "s3",
-     "texte": "Ses tambours, ses grands cris de halles et de bouges,",
-     "rime": "oug",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 109,
-     "strophe": "s3",
-     "texte": "Tas sombre de haillons saignant de bonnets rouges :",
-     "rime": "oug",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 110,
-     "strophe": "s3",
-     "texte": "L'Homme, par la fenêtre ouverte, montre tout",
-     "rime": "out",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 111,
-     "strophe": "s3",
-     "texte": "Au roi pâle et suant qui chancelle debout,",
-     "rime": "out",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 112,
-     "strophe": "s3",
-     "texte": "Malade à regarder cela ! « C'est la Crapule,",
-     "rime": "ul",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 113,
-     "strophe": "s3",
-     "texte": "Sire. Ça bave aux murs, ça monte, ça pullule :",
-     "rime": "ul",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 114,
-     "strophe": "s3",
-     "texte": "— Puisqu'ils ne mangent pas, Sire, ce sont des gueux !",
-     "rime": "ueux",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 115,
-     "strophe": "s3",
-     "texte": "Je suis un forgeron : ma femme est avec eux.",
-     "rime": "eux",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 116,
-     "strophe": "s3",
-     "texte": "Folle ! Elle croit trouver du pain aux Tuileries !",
-     "rime": "ie",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 117,
-     "strophe": "s3",
-     "texte": "— On ne veut pas de nous dans les boulangeries.",
-     "rime": "ie",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 118,
-     "strophe": "s3",
-     "texte": "J'ai trois petits. Je suis crapule. — Je connais",
-     "rime": "ai",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 119,
-     "strophe": "s3",
-     "texte": "Des vieilles qui s'en vont pleurant sous leurs bonnets",
-     "rime": "et",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 120,
-     "strophe": "s3",
-     "texte": "Parce qu'on leur a pris leur garçon ou leur fille :",
-     "rime": "ill",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 121,
-     "strophe": "s3",
-     "texte": "C'est la crapule. — Un homme était à la Bastille,",
-     "rime": "ill",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 122,
-     "strophe": "s3",
-     "texte": "Un autre était forçat : et tous deux, citoyens",
-     "rime": "en",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 123,
-     "strophe": "s3",
-     "texte": "Honnêtes. Libérés, ils sont comme des chiens :",
-     "rime": "ien",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 124,
-     "strophe": "s3",
-     "texte": "On les insulte ! Alors, ils ont là quelque chose",
-     "rime": "os",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 125,
-     "strophe": "s3",
-     "texte": "Qui leur fait mal, allez ! C'est terrible, et c'est cause",
-     "rime": "aus",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 126,
-     "strophe": "s3",
-     "texte": "Que se sentant brisés, que, se sentant damnés,",
-     "rime": "é",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 127,
-     "strophe": "s3",
-     "texte": "Ils sont là, maintenant, hurlant sous votre nez !",
-     "rime": "ez",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 128,
-     "strophe": "s3",
-     "texte": "Crapule. — Là-dedans sont des filles, infâmes",
-     "rime": "âm",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 129,
-     "strophe": "s3",
-     "texte": "Parce que, — vous saviez que c'est faible, les femmes, —",
-     "rime": "emm",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 130,
-     "strophe": "s3",
-     "texte": "Messeigneurs de la cour, — que ça veut toujours bien, —",
-     "rime": "ien",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 131,
-     "strophe": "s3",
-     "texte": "Vous [leur] avez craché sur l'âme, comme rien !",
-     "rime": "ien",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 132,
-     "strophe": "s3",
-     "texte": "Vos belles, aujourd'hui, sont là. C'est la crapule.",
-     "rime": "ul",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 133,
-     "strophe": "s4",
-     "texte": "« Oh ! tous les Malheureux, tous ceux dont le dos brûle",
-     "rime": "ûl",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 134,
-     "strophe": "s4",
-     "texte": "Sous le soleil féroce, et qui vont, et qui vont,",
-     "rime": "ont",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 135,
-     "strophe": "s4",
-     "texte": "Qui dans ce travail-là sentent crever leur front…",
-     "rime": "ont",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 136,
-     "strophe": "s4",
-     "texte": "Chapeau bas, mes bourgeois ! Oh ! ceux-là, sont les Hommes !",
-     "rime": "omm",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 137,
-     "strophe": "s4",
-     "texte": "Nous sommes Ouvriers, Sire ! Ouvriers ! Nous sommes",
-     "rime": "omm",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 138,
-     "strophe": "s4",
-     "texte": "Pour les grands temps nouveaux où l'on voudra savoir,",
-     "rime": "oir",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 139,
-     "strophe": "s4",
-     "texte": "Où l'Homme forgera du matin jusqu'au soir,",
-     "rime": "oir",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 140,
-     "strophe": "s4",
-     "texte": "Chasseur des grands effets, chasseur des grandes causes,",
-     "rime": "aus",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 141,
-     "strophe": "s4",
-     "texte": "Où, lentement vainqueur, il domptera les choses",
-     "rime": "os",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 142,
-     "strophe": "s4",
-     "texte": "Et montera sur Tout, comme sur un cheval !",
-     "rime": "al",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 143,
-     "strophe": "s4",
-     "texte": "Oh ! splendides lueurs des forges ! Plus de mal,",
-     "rime": "al",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 144,
-     "strophe": "s4",
-     "texte": "Plus ! — Ce qu'on ne sait pas, c'est peut-être terrible :",
-     "rime": "ibl",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 145,
-     "strophe": "s4",
-     "texte": "Nous saurons ! — Nos marteaux en main, passons au crible",
-     "rime": "ibl",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 146,
-     "strophe": "s4",
-     "texte": "Tout ce que nous savons : puis, Frères, en avant !",
-     "rime": "ant",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 147,
-     "strophe": "s4",
-     "texte": "Nous faisons quelquefois ce grand rêve émouvant",
-     "rime": "ant",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 148,
-     "strophe": "s4",
-     "texte": "De vivre simplement, ardemment, sans rien dire",
-     "rime": "ir",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 149,
-     "strophe": "s4",
-     "texte": "De mauvais, travaillant sous l'auguste sourire",
-     "rime": "ir",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 150,
-     "strophe": "s4",
-     "texte": "D'une femme qu'on aime avec un noble amour :",
-     "rime": "our",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 151,
-     "strophe": "s4",
-     "texte": "Et l'on travaillerait fièrement tout le jour,",
-     "rime": "our",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 152,
-     "strophe": "s4",
-     "texte": "Écoutant le devoir comme un clairon qui sonne :",
-     "rime": "onn",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 153,
-     "strophe": "s4",
-     "texte": "Et l'on se sentirait très heureux ; et personne.",
-     "rime": "onn",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 154,
-     "strophe": "s4",
-     "texte": "Oh ! personne, surtout, ne vous ferait ployer !",
-     "rime": "er",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 155,
-     "strophe": "s4",
-     "texte": "On aurait un fusil au-dessus du foyer…",
-     "rime": "er",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 156,
-     "strophe": "s5",
-     "texte": "« Oh ! mais l'air est tout plein d'une odeur de bataille !",
-     "rime": "aill",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 157,
-     "strophe": "s5",
-     "texte": "Que te disais-je donc ? Je suis de la canaille !",
-     "rime": "aill",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 158,
-     "strophe": "s5",
-     "texte": "Il reste des mouchards et des accapareurs.",
-     "rime": "eur",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 159,
-     "strophe": "s5",
-     "texte": "Nous sommes libres, nous ! Nous avons des terreurs",
-     "rime": "eur",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 160,
-     "strophe": "s5",
-     "texte": "Où nous nous sentons grands, oh ! si grands ! Tout à l'heure",
-     "rime": "eur",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 161,
-     "strophe": "s5",
-     "texte": "Je parlais de devoir calme, d'une demeure…",
-     "rime": "eur",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 162,
-     "strophe": "s5",
-     "texte": "Regarde donc le ciel ! — C'est trop petit pour nous,",
-     "rime": "ou",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 163,
-     "strophe": "s5",
-     "texte": "Nous crèverions de chaud, nous serions à genoux !",
-     "rime": "oux",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 164,
-     "strophe": "s5",
-     "texte": "Regarde donc le ciel ! — Je rentre dans la foule,",
-     "rime": "oul",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 165,
-     "strophe": "s5",
-     "texte": "Dans la grande canaille effroyable, qui roule,",
-     "rime": "oul",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 166,
-     "strophe": "s5",
-     "texte": "Sire, tes vieux canons sur les sales pavés :",
-     "rime": "é",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 167,
-     "strophe": "s5",
-     "texte": "— Oh ! quand nous serons morts, nous les aurons lavés",
-     "rime": "é",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 168,
-     "strophe": "s5",
-     "texte": "— Et si, devant nos cris, devant notre vengeance,",
-     "rime": "eanc",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 169,
-     "strophe": "s5",
-     "texte": "Les pattes des vieux rois mordorés, sur la France",
-     "rime": "anc",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 170,
-     "strophe": "s5",
-     "texte": "Poussent leurs régiments en habits de gala,",
-     "rime": "a",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 171,
-     "strophe": "s5",
-     "texte": "Eh bien, n'est-ce pas, vous tous ? — Merde à ces chiens-là ! »",
-     "rime": "à",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 172,
-     "strophe": "s6",
-     "texte": "— Il reprit son marteau sur l'épaule.",
-     "rime": "aul",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 173,
-     "strophe": "s6",
-     "texte": "La foule",
-     "rime": "oul",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 174,
-     "strophe": "s6",
-     "texte": "Près de cet homme-là se sentait l'âme soûle,",
-     "rime": "oûl",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 175,
-     "strophe": "s6",
-     "texte": "Et, dans la grande cour, dans les appartements,",
-     "rime": "ent",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 176,
-     "strophe": "s6",
-     "texte": "Où Paris haletait avec des hurlements,",
-     "rime": "ent",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 177,
-     "strophe": "s6",
-     "texte": "Un frisson secoua l'immense populace.",
-     "rime": "ac",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 178,
-     "strophe": "s6",
-     "texte": "Alors, de sa main large et superbe de crasse,",
-     "rime": "ass",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    },
-    {
-     "n": 179,
-     "strophe": "s6",
-     "texte": "Bien que le roi ventru suât, le Forgeron,",
-     "rime": "on",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "peuple"
-     ]
-    },
-    {
-     "n": 180,
-     "strophe": "s6",
-     "texte": "Terrible, lui jeta le bonnet rouge au front !",
-     "rime": "ont",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "colere"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "soleil_et_chair",
-   "titre": "Soleil et chair",
-   "date": "Mai 1870",
-   "auteur": "Arthur Rimbaud",
-   "recueil": "Cahiers de Douai",
-   "contexte": [
-    "Hymne au monde antique, au paganisme et à la beauté du corps humain.",
-    "Rimbaud y oppose la joie païenne au christianisme qu'il juge triste."
-   ],
-   "forme": [
-    "Poème divisé en quatre parties.",
-    "Mètre : alexandrins.",
-    "Rimes suivies et croisées."
-   ],
-   "champs": {
-    "paganisme": {
-     "label": "Antiquité & Paganisme"
-    },
-    "soleil": {
-     "label": "Soleil & Vie"
-    }
-   },
-   "strophes": [
-    {
-     "id": "s1",
-     "nom": "Strophe 1",
-     "vers": "Alexandrins - Partie I"
-    },
-    {
-     "id": "s2",
-     "nom": "Strophe 2",
-     "vers": "Alexandrins - Partie II"
-    },
-    {
-     "id": "s3",
-     "nom": "Strophe 3",
-     "vers": "Alexandrins - Partie III"
-    },
-    {
-     "id": "s4",
-     "nom": "Strophe 4",
-     "vers": "Alexandrins - Partie IV"
-    }
-   ],
-   "lignes": [
-    {
-     "n": 1,
-     "strophe": "s1",
-     "texte": "Le Soleil, le foyer de tendresse et de vie,",
-     "rime": "i",
-     "procede": "Personnification / Métaphore",
-     "effet": "Le soleil vu comme source universelle.",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 2,
-     "strophe": "s1",
-     "texte": "Verse l'amour brûlant à la terre ravie,",
-     "rime": "ie",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 3,
-     "strophe": "s1",
-     "texte": "Et, quand on est couché sur la vallée, on sent",
-     "rime": "ent",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 4,
-     "strophe": "s1",
-     "texte": "Que la terre est nubile et déborde de sang ;",
-     "rime": "ang",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 5,
-     "strophe": "s1",
-     "texte": "Que son immense sein, soulevé par une âme,",
-     "rime": "âm",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 6,
-     "strophe": "s1",
-     "texte": "Est d'amour comme Dieu, de chair comme la femme,",
-     "rime": "emm",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 7,
-     "strophe": "s1",
-     "texte": "Et qu'il renferme, gros de sève et de rayons,",
-     "rime": "on",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 8,
-     "strophe": "s1",
-     "texte": "Le grand fourmillement de tous les embryons !",
-     "rime": "on",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 9,
-     "strophe": "s1",
-     "texte": "Et tout croît, et tout monte !",
-     "rime": "ont",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 10,
-     "strophe": "s1",
-     "texte": "Et tout croît, et tout monte ! — Ô Vénus, ô Déesse !",
-     "rime": "éess",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 11,
-     "strophe": "s1",
-     "texte": "Je regrette les temps de l'antique jeunesse,",
-     "rime": "ess",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 12,
-     "strophe": "s1",
-     "texte": "Des satyres lascifs, des faunes animaux,",
-     "rime": "aux",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 13,
-     "strophe": "s1",
-     "texte": "Dieux qui mordaient d'amour l'écorce des rameaux",
-     "rime": "eaux",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 14,
-     "strophe": "s1",
-     "texte": "Et dans les nénufars baisaient la Nymphe blonde !",
-     "rime": "ond",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 15,
-     "strophe": "s1",
-     "texte": "Je regrette les temps où la sève du monde,",
-     "rime": "ond",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 16,
-     "strophe": "s1",
-     "texte": "L'eau du fleuve, le sang rose des arbres verts",
-     "rime": "ert",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 17,
-     "strophe": "s1",
-     "texte": "Dans les veines de Pan mettaient un univers !",
-     "rime": "er",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 18,
-     "strophe": "s1",
-     "texte": "Où le sol palpitait, vert, sous ses pieds de chèvre ;",
-     "rime": "èvr",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 19,
-     "strophe": "s1",
-     "texte": "Où, baisant mollement le clair syrinx, sa lèvre",
-     "rime": "èvr",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 20,
-     "strophe": "s1",
-     "texte": "Modulait sous le ciel le grand hymne d'amour ;",
-     "rime": "our",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 21,
-     "strophe": "s1",
-     "texte": "Où, debout sur la plaine, il entendait autour",
-     "rime": "our",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 22,
-     "strophe": "s1",
-     "texte": "Répondre à son appel la Nature vivante ;",
-     "rime": "ant",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 23,
-     "strophe": "s1",
-     "texte": "Où les arbres muets, berçant l'oiseau qui chante,",
-     "rime": "ant",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 24,
-     "strophe": "s1",
-     "texte": "La terre berçant l'homme, et tout l'Océan bleu",
-     "rime": "eu",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 25,
-     "strophe": "s1",
-     "texte": "Et tous les animaux aimaient, aimaient en Dieu !",
-     "rime": "ieu",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 26,
-     "strophe": "s1",
-     "texte": "Je regrette les temps de la grande Cybèle",
-     "rime": "èl",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 27,
-     "strophe": "s1",
-     "texte": "Qu'on disait parcourir, gigantesquement belle,",
-     "rime": "ell",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 28,
-     "strophe": "s1",
-     "texte": "Sur un grand char d'airain, les splendides cités ;",
-     "rime": "é",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 29,
-     "strophe": "s1",
-     "texte": "Son double sein versait dans les immensités",
-     "rime": "é",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 30,
-     "strophe": "s1",
-     "texte": "Le pur ruissellement de la vie infinie.",
-     "rime": "ie",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 31,
-     "strophe": "s1",
-     "texte": "L'Homme suçait, heureux, sa mamelle bénie,",
-     "rime": "ie",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 32,
-     "strophe": "s1",
-     "texte": "Comme un petit enfant, jouant sur ses genoux.",
-     "rime": "oux",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 33,
-     "strophe": "s1",
-     "texte": "— Parce qu'il était fort, l'Homme était chaste et doux.",
-     "rime": "oux",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 34,
-     "strophe": "s1",
-     "texte": "Misère ! Maintenant il dit : Je sais les choses,",
-     "rime": "os",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 35,
-     "strophe": "s1",
-     "texte": "Et va, les yeux fermés et les oreilles closes.",
-     "rime": "os",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 36,
-     "strophe": "s1",
-     "texte": "— Et pourtant, plus de dieux ! plus de dieux ! l'Homme est Roi,",
-     "rime": "oi",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 37,
-     "strophe": "s1",
-     "texte": "L'Homme est Dieu ! Mais l'Amour, voilà la grande Foi !",
-     "rime": "oi",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 38,
-     "strophe": "s1",
-     "texte": "Oh ! si l'homme puisait encore à ta mamelle,",
-     "rime": "ell",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 39,
-     "strophe": "s1",
-     "texte": "Grande mère des dieux et des hommes, Cybèle ;",
-     "rime": "èl",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 40,
-     "strophe": "s1",
-     "texte": "S'il n'avait pas laissé l'immortelle Astarté",
-     "rime": "é",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 41,
-     "strophe": "s1",
-     "texte": "Qui jadis, émergeant dans l'immense clarté",
-     "rime": "é",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 42,
-     "strophe": "s1",
-     "texte": "Des flots bleus, fleur de chair que la vague parfume,",
-     "rime": "um",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 43,
-     "strophe": "s1",
-     "texte": "Montra son nombril rose où vint neiger l'écume,",
-     "rime": "um",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 44,
-     "strophe": "s1",
-     "texte": "Et fit chanter, Déesse aux grands yeux noirs vainqueurs,",
-     "rime": "ueur",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 45,
-     "strophe": "s1",
-     "texte": "Le rossignol aux bois et l'amour dans les cœurs !",
-     "rime": "œur",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 46,
-     "strophe": "s2",
-     "texte": "Je crois en toi ! je crois en toi ! Divine mère,",
-     "rime": "èr",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 47,
-     "strophe": "s2",
-     "texte": "Aphrodité marine ! — Oh ! la route est amère",
-     "rime": "èr",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 48,
-     "strophe": "s2",
-     "texte": "Depuis que l'autre Dieu nous attelle à sa croix ;",
-     "rime": "oix",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 49,
-     "strophe": "s2",
-     "texte": "Chair, Marbre, Fleur, Vénus, c'est en toi que je crois !",
-     "rime": "oi",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 50,
-     "strophe": "s2",
-     "texte": "— Oui, l'Homme est triste et laid, triste sous le ciel vaste,",
-     "rime": "ast",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 51,
-     "strophe": "s2",
-     "texte": "Il a des vêtements, parce qu'il n'est plus chaste,",
-     "rime": "ast",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 52,
-     "strophe": "s2",
-     "texte": "Parce qu'il a sali son fier buste de dieu,",
-     "rime": "ieu",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 53,
-     "strophe": "s2",
-     "texte": "Et qu'il a rabougri, comme une idole au feu,",
-     "rime": "eu",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 54,
-     "strophe": "s2",
-     "texte": "Son corps Olympien aux servitudes sales !",
-     "rime": "al",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 55,
-     "strophe": "s2",
-     "texte": "Oui, même après la mort, dans les squelettes pâles",
-     "rime": "âl",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 56,
-     "strophe": "s2",
-     "texte": "Il veut vivre, insultant la première beauté !",
-     "rime": "é",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 57,
-     "strophe": "s2",
-     "texte": "— Et l'Idole où tu mis tant de virginité,",
-     "rime": "é",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 58,
-     "strophe": "s2",
-     "texte": "Où tu divinisas notre argile, la Femme,",
-     "rime": "emm",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 59,
-     "strophe": "s2",
-     "texte": "Afin que l'Homme pût éclairer sa pauvre âme",
-     "rime": "âm",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 60,
-     "strophe": "s2",
-     "texte": "Et monter lentement, dans un immense amour,",
-     "rime": "our",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 61,
-     "strophe": "s2",
-     "texte": "De la prison terrestre à la beauté du jour,",
-     "rime": "our",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 62,
-     "strophe": "s2",
-     "texte": "La Femme ne sait plus même être courtisane !",
-     "rime": "an",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 63,
-     "strophe": "s2",
-     "texte": "— C'est une bonne farce ! et le monde ricane",
-     "rime": "an",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 64,
-     "strophe": "s2",
-     "texte": "Au nom doux et sacré de la grande Vénus !",
-     "rime": "u",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 65,
-     "strophe": "s3",
-     "texte": "Si les temps revenaient, les temps qui sont venus !",
-     "rime": "u",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 66,
-     "strophe": "s3",
-     "texte": "— Car l'Homme a fini ! l'Homme a joué tous les rôles !",
-     "rime": "ôl",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 67,
-     "strophe": "s3",
-     "texte": "Au grand jour, fatigué de briser des idoles",
-     "rime": "ol",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 68,
-     "strophe": "s3",
-     "texte": "Il ressuscitera, libre de tous ses Dieux,",
-     "rime": "ieux",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 69,
-     "strophe": "s3",
-     "texte": "Et, comme il est du ciel, il scrutera les cieux !",
-     "rime": "ieux",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 70,
-     "strophe": "s3",
-     "texte": "L'Idéal, la pensée invincible, éternelle,",
-     "rime": "ell",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 71,
-     "strophe": "s3",
-     "texte": "Tout le dieu qui vit, sous son argile charnelle,",
-     "rime": "ell",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 72,
-     "strophe": "s3",
-     "texte": "Montera, montera, brûlera sous son front !",
-     "rime": "ont",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 73,
-     "strophe": "s3",
-     "texte": "Et quand tu le verras sonder tout l'horizon,",
-     "rime": "on",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 74,
-     "strophe": "s3",
-     "texte": "Contempteur des vieux jougs, libre de toute crainte,",
-     "rime": "aint",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 75,
-     "strophe": "s3",
-     "texte": "Tu viendras lui donner la Rédemption sainte !",
-     "rime": "aint",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 76,
-     "strophe": "s3",
-     "texte": "— Splendide, radieuse, au sein des grandes mers",
-     "rime": "er",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 77,
-     "strophe": "s3",
-     "texte": "Tu surgiras, jetant sur le vaste Univers",
-     "rime": "er",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 78,
-     "strophe": "s3",
-     "texte": "L'Amour infini dans un infini sourire !",
-     "rime": "ir",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 79,
-     "strophe": "s3",
-     "texte": "Le Monde vibrera comme une immense lyre",
-     "rime": "",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 80,
-     "strophe": "s3",
-     "texte": "Dans le frémissement d'un immense baiser !",
-     "rime": "er",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 81,
-     "strophe": "s3",
-     "texte": "— Le Monde a soif d'amour : tu viendras l'apaiser.",
-     "rime": "er",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 82,
-     "strophe": "s4",
-     "texte": "Ô splendeur de la chair ! ô splendeur idéale !",
-     "rime": "éal",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 83,
-     "strophe": "s4",
-     "texte": "Ô renouveau d'amour, aurore triomphale",
-     "rime": "al",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 84,
-     "strophe": "s4",
-     "texte": "Où, courbant à leurs pieds les Dieux et les Héros,",
-     "rime": "o",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 85,
-     "strophe": "s4",
-     "texte": "Kallipyge la blanche et le petit Éros",
-     "rime": "o",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 86,
-     "strophe": "s4",
-     "texte": "Effleureront, couverts de la neige des roses,",
-     "rime": "os",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 87,
-     "strophe": "s4",
-     "texte": "Les femmes et les fleurs sous leurs beaux pieds écloses !",
-     "rime": "os",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 88,
-     "strophe": "s4",
-     "texte": "Ô grande Ariadné, qui jettes tes sanglots",
-     "rime": "ot",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 89,
-     "strophe": "s4",
-     "texte": "Sur la rive, en voyant fuir là-bas sur les flots,",
-     "rime": "ot",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 90,
-     "strophe": "s4",
-     "texte": "Blanche sous le soleil, la voile de Thésée,",
-     "rime": "ée",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 91,
-     "strophe": "s4",
-     "texte": "Ô douce vierge enfant qu'une nuit a brisée,",
-     "rime": "ée",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 92,
-     "strophe": "s4",
-     "texte": "Tais-toi ! Sur son char d'or brodé de noirs raisins,",
-     "rime": "in",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 93,
-     "strophe": "s4",
-     "texte": "Lysios, promené dans les champs Phrygiens",
-     "rime": "ien",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 94,
-     "strophe": "s4",
-     "texte": "Par les tigres lascifs et les panthères rousses,",
-     "rime": "ouss",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 95,
-     "strophe": "s4",
-     "texte": "Le long des fleuves bleus rougit les sombres mousses.",
-     "rime": "ouss",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 96,
-     "strophe": "s4",
-     "texte": "Zeus, Taureau, sur son cou berce comme une enfant",
-     "rime": "ant",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 97,
-     "strophe": "s4",
-     "texte": "Le corps nu d'Europé, qui jette son bras blanc",
-     "rime": "anc",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 98,
-     "strophe": "s4",
-     "texte": "Au cou nerveux du Dieu frissonnant dans la vague,",
-     "rime": "ue",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 99,
-     "strophe": "s4",
-     "texte": "Il tourne lentement vers elle son œil vague ;",
-     "rime": "ue",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 100,
-     "strophe": "s4",
-     "texte": "Elle, laisse traîner sa pâle joue en fleur",
-     "rime": "eur",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 101,
-     "strophe": "s4",
-     "texte": "Au front de Zeus ; ses yeux sont fermés ; elle meurt",
-     "rime": "eurt",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 102,
-     "strophe": "s4",
-     "texte": "Dans un divin baiser, et le flot qui murmure",
-     "rime": "ur",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 103,
-     "strophe": "s4",
-     "texte": "De son écume d'or fleurit sa chevelure.",
-     "rime": "ur",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 104,
-     "strophe": "s4",
-     "texte": "— Entre le laurier-rose et le lotus jaseur",
-     "rime": "eur",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 105,
-     "strophe": "s4",
-     "texte": "Glisse amoureusement le grand Cygne rêveur",
-     "rime": "eur",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 106,
-     "strophe": "s4",
-     "texte": "Embrassant la Léda des blancheurs de son aile ;",
-     "rime": "ail",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 107,
-     "strophe": "s4",
-     "texte": "— Et tandis que Cypris passe, étrangement belle,",
-     "rime": "ell",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 108,
-     "strophe": "s4",
-     "texte": "Et, cambrant les rondeurs splendides de ses reins,",
-     "rime": "ein",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 109,
-     "strophe": "s4",
-     "texte": "Étale fièrement l'or de ses larges seins",
-     "rime": "ein",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 110,
-     "strophe": "s4",
-     "texte": "Et son ventre neigeux brodé de mousse noire,",
-     "rime": "oir",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 111,
-     "strophe": "s4",
-     "texte": "— Héraclès, le Dompteur, qui, comme d'une gloire",
-     "rime": "oir",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 112,
-     "strophe": "s4",
-     "texte": "Fort, ceint son vaste corps de la peau du lion,",
-     "rime": "ion",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 113,
-     "strophe": "s4",
-     "texte": "S'avance, front terrible et doux, à l'horizon !",
-     "rime": "on",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 114,
-     "strophe": "s4",
-     "texte": "Par la lune d'été vaguement éclairée,",
-     "rime": "ée",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 115,
-     "strophe": "s4",
-     "texte": "Debout, nue, et rêvant dans sa pâleur dorée",
-     "rime": "ée",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 116,
-     "strophe": "s4",
-     "texte": "Que tache le flot lourd de ses longs cheveux bleus,",
-     "rime": "eu",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 117,
-     "strophe": "s4",
-     "texte": "Dans la clairière sombre où la mousse s'étoile,",
-     "rime": "oil",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 118,
-     "strophe": "s4",
-     "texte": "La Dryade regarde au ciel silencieux…",
-     "rime": "ieux",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 119,
-     "strophe": "s4",
-     "texte": "— La blanche Séléné laisse flotter son voile,",
-     "rime": "oil",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 120,
-     "strophe": "s4",
-     "texte": "Craintive, sur les pieds du bel Endymion,",
-     "rime": "ion",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 121,
-     "strophe": "s4",
-     "texte": "Et lui jette un baiser dans un pâle rayon…",
-     "rime": "on",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 122,
-     "strophe": "s4",
-     "texte": "— La Source pleure au loin dans une longue extase…",
-     "rime": "as",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 123,
-     "strophe": "s4",
-     "texte": "C'est la Nymphe qui rêve, un coude sur son vase,",
-     "rime": "as",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 124,
-     "strophe": "s4",
-     "texte": "Au beau jeune homme blanc que son onde a pressé.",
-     "rime": "é",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 125,
-     "strophe": "s4",
-     "texte": "— Une brise d'amour dans la nuit a passé,",
-     "rime": "é",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 126,
-     "strophe": "s4",
-     "texte": "Et, dans les bois sacrés, dans l'horreur des grands arbres,",
-     "rime": "arbr",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 127,
-     "strophe": "s4",
-     "texte": "Majestueusement debout, les sombres Marbres,",
-     "rime": "arbr",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    },
-    {
-     "n": 128,
-     "strophe": "s4",
-     "texte": "Les Dieux, au front desquels le Bouvreuil fait son nid,",
-     "rime": "id",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "soleil"
-     ]
-    },
-    {
-     "n": 129,
-     "strophe": "s4",
-     "texte": "— Les Dieux écoutent l'Homme et le Monde infini !",
-     "rime": "i",
-     "procede": "",
-     "effet": "",
-     "champs": [
-      "paganisme"
-     ]
-    }
-   ]
-  }
- ]
+  ]
 }
