@@ -3,7 +3,7 @@
 
   const $ = (s, r = document) => r.querySelector(s);
   const $$ = (s, r = document) => Array.from(r.querySelectorAll(s));
-  const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
   /* Mémoire locale : simple confort, la page marche sans */
   const store = {
@@ -11,9 +11,22 @@
     set(k, v) { try { localStorage.setItem('atelier:' + k, JSON.stringify(v)); } catch (e) { /* ignoré */ } }
   };
 
-  const FILES = ['methode', 'poeme', 'cia', 'intro', 'procedes', 'quiz',
+  const FILES = ['methode', 'cia', 'intro', 'procedes', 'quiz',
     'histoire', 'geographie', 'frise', 'programme_histoire', 'programme_geographie',
     'complements_histoire', 'complements_geographie', 'capacites', 'methodes'];
+
+  /* ---------- Pagination : index.json + dossier poeme/ ---------- */
+
+  const pageCache = {};
+  async function loadPage(fichier) {
+    if (pageCache[fichier]) return pageCache[fichier];
+    const r = await fetch('data/' + fichier);
+    if (!r.ok) throw new Error('Page introuvable : ' + fichier);
+    const j = await r.json();
+    pageCache[fichier] = j;
+    return j;
+  }
+
   async function loadData() {
     const out = {};
     await Promise.all(FILES.map(async (f) => {
@@ -21,6 +34,16 @@
       if (!r.ok) throw new Error('Fichier introuvable : ' + f);
       out[f] = await r.json();
     }));
+    /* L'index pilote la pagination : il référence le dossier poeme/ */
+    const ri = await fetch('data/index.json');
+    if (!ri.ok) throw new Error('Fichier introuvable : index');
+    out.index = await ri.json();
+    /* « Le Mal » sert d'exemple à la méthode et à la fiche : on le charge depuis poeme/ */
+    const pageLeMal = out.index.pages.find((pg) => pg.poemes.some((p) => p.id === 'le_mal'));
+    if (pageLeMal) {
+      const data = await loadPage(pageLeMal.fichier);
+      out.poeme = data.poemes.find((p) => p.id === 'le_mal');
+    }
     return out;
   }
 
@@ -115,12 +138,10 @@
     return el;
   }
 
-  function viewPoeme(d) {
-    const p = d.poeme;
-    const el = document.createElement('section');
-    el.className = 'view';
-    el.id = 'view-poeme';
+  /* Affichage d'un poème (utilisé par la vue paginée) */
+  function poemSection(p) {
     const stanzaOf = (id) => p.strophes.find((s) => s.id === id);
+    const hlClasses = Object.keys(p.champs).map((k) => 'hl-' + k);
     let html = '';
     p.strophes.forEach((s) => {
       html += `<div class="stanza"><p class="stanza-label">${esc(s.nom)} · ${esc(s.vers)}</p>`;
@@ -130,8 +151,9 @@
       });
       html += '</div>';
     });
+    const el = document.createElement('div');
     el.innerHTML = `
-      <h2>« ${esc(p.titre)} », ${esc(p.auteur)}</h2>
+      <h3>« ${esc(p.titre)} », ${esc(p.auteur)}</h3>
       <p class="intro">${esc(p.date)}, ${esc(p.recueil)}. Clique sur un vers pour voir le procédé et son effet. Les lettres à droite sont les rimes.</p>
       <div class="chips legend" id="legend" role="group" aria-label="Surligner un champ lexical">
         ${Object.entries(p.champs).map(([k, v]) => `<button class="chip" type="button" data-champ="${k}" aria-pressed="false">${esc(v.label)}</button>`).join('')}
@@ -157,7 +179,7 @@
     const refresh = () => {
       lines.forEach((b) => {
         const l = p.lignes[+b.dataset.n - 1];
-        b.classList.remove('hl-guerre', 'hl-nature', 'hl-religion', 'hl-peuple', 'dim');
+        b.classList.remove(...hlClasses, 'dim');
         if (active.size) {
           const hit = l.champs.find((c) => active.has(c));
           if (hit) b.classList.add('hl-' + hit); else b.classList.add('dim');
@@ -188,6 +210,74 @@
     };
     lines.forEach((b) => b.addEventListener('click', () => show(+b.dataset.n)));
     show(1);
+    return el;
+  }
+
+  /* Vue « Le poème » : pagination pilotée par l'index (dossier poeme/) */
+  function viewPoeme(d) {
+    const idx = d.index;
+    const el = document.createElement('section');
+    el.className = 'view';
+    el.id = 'view-poeme';
+
+    let pageNum = Math.min(Math.max(+(store.get('poeme-page', 1) || 1), 1), idx.totalPages);
+    let poemId = store.get('poeme-id', null);
+
+    el.innerHTML = `
+      <h2>Les Cahiers de Douai, page par page</h2>
+      <p class="intro">Arthur Rimbaud, 1870 · ${idx.totalPoemes} poèmes, ${idx.totalVers} vers. Navigue entre les ${idx.totalPages} pages, choisis un poème, puis clique sur un vers pour voir le procédé et son effet.</p>
+      <div class="chips" id="pg-nav" role="group" aria-label="Pagination des poèmes"></div>
+      <div id="pg-poeme"></div>`;
+
+    const nav = $('#pg-nav', el);
+    const holder = $('#pg-poeme', el);
+
+    const renderNav = () => {
+      const pe = idx.pages[pageNum - 1];
+      nav.innerHTML = `
+        <button class="chip" type="button" id="pg-prev" ${pageNum <= 1 ? 'disabled' : ''}>←</button>
+        <span class="small" style="align-self:center">Page ${pageNum} / ${idx.totalPages}</span>
+        <button class="chip" type="button" id="pg-next" ${pageNum >= idx.totalPages ? 'disabled' : ''}>→</button>
+        ${pe.poemes.map((p) => `<button class="chip" type="button" data-poeme="${esc(p.id)}" aria-pressed="${p.id === poemId}">${esc(p.titre)} · ${p.vers} vers</button>`).join('')}`;
+      const prev = $('#pg-prev', nav);
+      const next = $('#pg-next', nav);
+      if (prev && !prev.disabled) prev.addEventListener('click', () => { pageNum--; onPageChange(); });
+      if (next && !next.disabled) next.addEventListener('click', () => { pageNum++; onPageChange(); });
+      $$('[data-poeme]', nav).forEach((b) => b.addEventListener('click', () => {
+        poemId = b.dataset.poeme;
+        store.set('poeme-id', poemId);
+        renderNav();
+        renderBody();
+      }));
+    };
+
+    const onPageChange = () => {
+      store.set('poeme-page', pageNum);
+      const pe = idx.pages[pageNum - 1];
+      if (!pe.poemes.some((x) => x.id === poemId)) poemId = pe.poemes[0].id;
+      store.set('poeme-id', poemId);
+      renderNav();
+      renderBody();
+    };
+
+    const renderBody = async () => {
+      const pe = idx.pages[pageNum - 1];
+      if (!pe.poemes.some((x) => x.id === poemId)) poemId = pe.poemes[0].id;
+      holder.innerHTML = '<p class="small">Chargement du poème…</p>';
+      try {
+        const data = await loadPage(pe.fichier);
+        const p = data.poemes.find((x) => x.id === poemId) || data.poemes[0];
+        poemId = p.id;
+        store.set('poeme-id', poemId);
+        holder.innerHTML = '';
+        holder.appendChild(poemSection(p));
+      } catch (e) {
+        holder.innerHTML = '<p class="error">Impossible de charger cette page (' + esc(e.message) + ').</p>';
+      }
+    };
+
+    renderNav();
+    renderBody();
     return el;
   }
 
@@ -317,7 +407,7 @@
       <input class="search" id="q" type="search" placeholder="métaphore, hyperbole, enjambement…" autocomplete="off">
       <div class="chips" id="cats" role="group" aria-label="Filtrer par catégorie">
         <button class="chip" type="button" data-cat="" aria-pressed="true">Tous</button>
-        ${pr.categories.map((c) => `<button class="chip" type="button" data-cat="${esc(c)}" aria-pressed="false">${esc(c)}</button>`).join('')}
+        ${pr.categories.map((c, ci) => `<button class="chip" type="button" data-ci="${ci}" data-cat="${esc(c)}" aria-pressed="false">${esc(c)}</button>`).join('')}
       </div>
       <div class="grid2" id="plist"></div>`;
     let cat = '';
@@ -327,8 +417,8 @@
       const items = pr.procedes.filter((p) => (!cat || p.cat === cat) &&
         (!q || (p.nom + ' ' + p.def + ' ' + p.ex + ' ' + p.effet).toLowerCase().includes(q)));
       list.innerHTML = items.length ? items.map((p) => `
-        <article class="card proc">
-          <span class="tag">${esc(p.cat)}</span>
+        <article class="card proc" data-ci="${pr.categories.indexOf(p.cat)}">
+          <!--<p class="tag cat-tag">${esc(p.cat)}</p>--!>
           <h3>${esc(p.nom)}</h3>
           <dl>
             <dt>Définition</dt><dd>${esc(p.def)}</dd>
